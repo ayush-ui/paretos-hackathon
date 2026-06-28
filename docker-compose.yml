@@ -39,7 +39,7 @@ services:
       api:
         condition: service_healthy
     ports:
-      - "5173:80"                     # open http://localhost:5173
+      - "80:80"                       # serve on http://<host> (was 5173 for local dev)
     restart: unless-stopped
 
   # Optional — only starts with `--profile bot`. Reuses the API image; needs DISCORD_* in .env.
