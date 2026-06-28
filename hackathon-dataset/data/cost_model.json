@@ -1,0 +1,16 @@
+{
+  "_comment": "Asymmetric cost of a staffing decision, per operative person-day, in EUR. Admin desks (a constant 8 person-days/day) are excluded from scoring — you always staff them. The scoring target each day is the realized operative need (= PRESENT_TOTAL - 8). See README.md section 'How decisions are scored' and SOLUTION/scoring.py for the reference implementation.",
+  "currency": "EUR",
+  "regular_cost_per_person_day": 230,
+  "overstaffing": {
+    "_comment": "Planned > needed: surplus people are paid but idle. Full wage wasted, no premium.",
+    "idle_cost_per_person_day": 230
+  },
+  "understaffing": {
+    "_comment": "Planned < needed: the work still has to ship. The shortfall is covered by overtime / temp labour at a premium. A small shortfall is absorbed by the standing crew (cheap — only the premium); past the SLA tolerance, late trucks and missed carrier cut-offs trigger a steep penalty.",
+    "overtime_premium_pct": 18,
+    "sla_tolerance_person_days": 2.0,
+    "sla_penalty_per_person_day": 600
+  },
+  "scoring_note": "Excess cost vs. a perfect plan (planned == needed): overstaffing costs 230 EUR per surplus person-day; understaffing costs 41.4 EUR per short person-day (the 18% premium) PLUS 600 EUR per short person-day beyond the 2.0 tolerance. Consequence: trimming the optimiser's overstaffing pays off fast, but a small, deliberate undershoot is cheaper than a safe overshoot — until you cross the tolerance, where it explodes. Cut toward the truth, not past it."
+}

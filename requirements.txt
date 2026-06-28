@@ -1,0 +1,15 @@
+# Core engine (src/, eval/) is zero-dependency std-lib — these are for the API + tests only.
+fastapi>=0.115
+uvicorn[standard]>=0.30
+httpx>=0.27        # required by fastapi.testclient
+pytest>=7         # test runner
+# Optional LLM layer (src/llm.py, note_parser.py, narrator.py). The engine runs fully without it;
+# set ANTHROPIC_API_KEY to activate free-text note parsing + natural-language explanations.
+anthropic>=0.69
+python-dotenv>=1.0   # auto-loads .env (ANTHROPIC_API_KEY) for local dev
+# Discord absence bot (bot/main.py — Workstream B). Needs the MESSAGE CONTENT intent enabled.
+discord.py>=2.3
+# numpy: required by the synthetic stress-test (eval/synthetic_stress.py), which the /api/synthetic
+# endpoint (Robustness tab) imports. The scored engine in src/ remains std-lib only.
+numpy>=1.24
+# Engine analysis scripts optionally also use pandas, but src/ does not require it.

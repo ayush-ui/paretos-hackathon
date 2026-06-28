@@ -1,0 +1,11 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.framing {
+  font-size: 13px;
+  color: var(--black-60);
+  line-height: 1.5;
+  margin: 0;
+}

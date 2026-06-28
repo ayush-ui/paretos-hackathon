@@ -1,0 +1,62 @@
+# Helios staffing cockpit — full application.
+#
+#   Start everything (build + run):   docker compose up --build
+#   Then open:                        http://localhost:5173
+#
+# The optional Discord absence bot needs tokens in .env; start it with:
+#   docker compose --profile bot up --build
+#
+# ANTHROPIC_API_KEY is optional — the scored engine runs fully without it; set it (in .env or your
+# shell) to enable the LLM note-parsing / natural-language explanations.
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: helios-api
+    environment:
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
+      ANTHROPIC_MODEL: ${ANTHROPIC_MODEL:-}
+    volumes:
+      - api_state:/app/state          # persist planner notes / absences / snapshots across restarts
+    ports:
+      - "8000:8000"                   # direct API access (docs at /docs); the web proxies this too
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/api/health')"]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+      start_period: 20s
+    restart: unless-stopped
+
+  web:
+    build:
+      context: ./web
+      dockerfile: Dockerfile
+    image: helios-web
+    depends_on:
+      api:
+        condition: service_healthy
+    ports:
+      - "5173:80"                     # open http://localhost:5173
+    restart: unless-stopped
+
+  # Optional — only starts with `--profile bot`. Reuses the API image; needs DISCORD_* in .env.
+  bot:
+    image: helios-api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: ["python", "-m", "bot.main"]
+    env_file: .env
+    environment:
+      HELIOS_API: http://api:8000
+    depends_on:
+      api:
+        condition: service_healthy
+    profiles: ["bot"]
+    restart: unless-stopped
+
+volumes:
+  api_state:

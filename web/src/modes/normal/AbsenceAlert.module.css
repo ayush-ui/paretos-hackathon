@@ -1,0 +1,19 @@
+.banner {
+  display: flex;
+  align-items: center;
+  gap: var(--s-10);
+  border-radius: var(--r);
+  padding: var(--s-12) var(--s-20);
+  font-size: 14px;
+  line-height: 1.4;
+}
+.warn {
+  background: var(--warn-soft);
+  border: 1px solid #f3d9a6;
+  color: #8a5300;
+}
+.breach {
+  background: var(--red-soft);
+  border: 1px solid #f6c3b6;
+  color: #b23a1f;
+}

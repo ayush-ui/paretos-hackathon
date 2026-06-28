@@ -1,0 +1,59 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-30);
+}
+.gridScroll {
+  overflow-x: auto;
+  margin-top: var(--s-10);
+}
+.grid {
+  border-collapse: collapse;
+  font-size: 12px;
+}
+.grid th,
+.grid td {
+  text-align: center;
+  padding: 4px 6px;
+}
+.wk {
+  color: var(--text-3);
+  font-weight: 400;
+  font-size: 10px;
+  white-space: nowrap;
+}
+.idcol {
+  font-family: var(--font-mono);
+  color: var(--text-2);
+  text-align: left;
+  position: sticky;
+  left: 0;
+  background: var(--white);
+}
+.cell {
+  border-bottom: 1px solid var(--silver);
+}
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
+}
+.legend {
+  display: flex;
+  gap: var(--s-12);
+  margin-top: var(--s-10);
+  font-size: 11px;
+  color: var(--text-2);
+}
+.legend span {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+.legend i {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
+}

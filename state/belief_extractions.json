@@ -1,0 +1,222 @@
+{
+  "L01": {
+    "claim": {
+      "activity": "Transit drivers",
+      "kind": "fixed",
+      "scope": "activity",
+      "value": 4.0
+    },
+    "confidence": 0.85,
+    "contradicts": [],
+    "note_hash": "ddb0917d4d69",
+    "rationale": "Transit drivers are a fixed shuttle rota of 4 every day and do not scale with outbound volume, so the plan's nudges to 4.2/4.5 on big outbound days should be ignored.",
+    "supersedes": []
+  },
+  "L02": {
+    "claim": {
+      "activity": "Co-Packing line",
+      "kind": "fixed",
+      "scope": "activity",
+      "value": 4.0
+    },
+    "confidence": 0.85,
+    "contradicts": [],
+    "note_hash": "9bf2802443e0",
+    "rationale": "Co-Packing is a fixed cell at exactly 4 crew regardless of outbound volume; the optimiser wrongly scales it up.",
+    "supersedes": []
+  },
+  "L03": {
+    "claim": {
+      "activity": "Picking",
+      "kind": "scale_pct",
+      "pct": -12.0,
+      "scope": "activity"
+    },
+    "confidence": 0.8,
+    "contradicts": [],
+    "note_hash": "6a6f8078365a",
+    "rationale": "Picking is overstaffed; ran ~12-15% under recommended pickers all week and still cleared every wave, so trim picker person-days about 12%.",
+    "supersedes": []
+  },
+  "L04": {
+    "claim": {
+      "activity": "Receiving",
+      "delta": 1.0,
+      "kind": "add",
+      "scope": "activity",
+      "weekday": "Mon"
+    },
+    "confidence": 0.75,
+    "contradicts": [],
+    "note_hash": "26626cdfeca0",
+    "rationale": "Receiving needs +1 on Mondays because it's the heaviest inbound day and the plan only staffs the weekday baseline.",
+    "supersedes": []
+  },
+  "L05": {
+    "claim": {
+      "activity": "Loading",
+      "delta": 1.0,
+      "kind": "add",
+      "scope": "activity",
+      "weekday": "payday-Mon"
+    },
+    "confidence": 0.6,
+    "contradicts": [],
+    "note_hash": "d61acaa12d84",
+    "rationale": "Loading runs tight on payday Mondays (last Monday of month), so add +1 loader.",
+    "supersedes": []
+  },
+  "L06": {
+    "claim": {
+      "activity": "Picking",
+      "delta": -1.0,
+      "kind": "conditional_trim",
+      "scope": "activity",
+      "when": "picks < 7000"
+    },
+    "confidence": 0.7,
+    "contradicts": [],
+    "note_hash": "fbd180ea89d3",
+    "rationale": "On genuinely low-volume days (picks under ~7,000) one picker idles, so trim one picker.",
+    "supersedes": []
+  },
+  "L07": {
+    "claim": {
+      "activities": [
+        "Receiving",
+        "Putaway"
+      ],
+      "delta": 1.0,
+      "kind": "conditional_add",
+      "scope": "activity",
+      "when": "day-after-closure"
+    },
+    "confidence": 0.75,
+    "contradicts": [],
+    "note_hash": "094a25907142",
+    "rationale": "On the first working day after any closure, inbound backlog requires +1 each on Receiving and Putaway.",
+    "supersedes": []
+  },
+  "L08": {
+    "claim": {
+      "from": "2026-07-21",
+      "kind": "scale_pct",
+      "pct": -15.0,
+      "scope": "operative"
+    },
+    "confidence": 0.7,
+    "contradicts": [],
+    "note_hash": "7004e1338bb2",
+    "rationale": "Late-summer (W30\u2013W33) volumes drop due to heat/holidays, so the whole operative plan is overstaffed by ~15% and should be cut.",
+    "supersedes": []
+  },
+  "L09": {
+    "claim": {
+      "kind": "note",
+      "scope": "operative",
+      "trend": "up"
+    },
+    "confidence": 0.55,
+    "contradicts": [
+      "L08"
+    ],
+    "note_hash": "170881a21275",
+    "rationale": "Summer heat slows the floor (pickers especially), so we needed more hours not fewer \u2014 do not blindly cut for summer.",
+    "supersedes": []
+  },
+  "L10": {
+    "claim": {
+      "activity": "Co-Packing line",
+      "kind": "fixed",
+      "scope": "activity",
+      "value": 4.0
+    },
+    "confidence": 0.9,
+    "contradicts": [],
+    "note_hash": "066cf6bdbc77",
+    "rationale": "Co-Packing line has run a fixed crew of exactly 4 for about 8 weeks straight, applied every cycle.",
+    "supersedes": [
+      "L02"
+    ]
+  },
+  "L11": {
+    "claim": {
+      "activity": "Picking",
+      "from": "2026-08-24",
+      "kind": "scale_pct",
+      "pct": -25.0,
+      "scope": "activity",
+      "trend": "down"
+    },
+    "confidence": 0.8,
+    "contradicts": [],
+    "note_hash": "764e34878198",
+    "rationale": "After pick-by-light went live on 24.08, Picking runs ~25% under plan, a deeper trim than the prior ~12%.",
+    "supersedes": [
+      "L03"
+    ]
+  },
+  "L12": {
+    "claim": {
+      "activity": "Picking",
+      "from": "2026-08-24",
+      "kind": "scale_pct",
+      "pct": -27.0,
+      "scope": "activity"
+    },
+    "confidence": 0.85,
+    "contradicts": [],
+    "note_hash": "c6e7d8c64256",
+    "rationale": "Two weeks after pick-by-light, picking runs ~25\u201330% under plan, so cut Picking by ~27%, retiring the stale 12% figure.",
+    "supersedes": [
+      "L03"
+    ]
+  },
+  "L13": {
+    "claim": {
+      "activity": "VNA replenishment",
+      "delta": 1.0,
+      "kind": "conditional_add",
+      "scope": "activity",
+      "when": "inbound > 2000"
+    },
+    "confidence": 0.55,
+    "contradicts": [],
+    "note_hash": "a85e5a4af471",
+    "rationale": "On heavy-inbound days (>~2,000 pallets) VNA replenishment needs a second person.",
+    "supersedes": []
+  },
+  "L14": {
+    "claim": {
+      "activities": [
+        "Staging",
+        "Loading"
+      ],
+      "kind": "trend",
+      "scope": "activity",
+      "trend": "up"
+    },
+    "confidence": 0.6,
+    "contradicts": [],
+    "note_hash": "e31df4e24fd2",
+    "rationale": "Flu-season ramp is pulling outbound up week over week; the optimiser lags the trend and under-plans Staging and Loading, so plan ahead of the forecast.",
+    "supersedes": []
+  },
+  "L15": {
+    "claim": {
+      "activities": [
+        "Picking",
+        "Staging",
+        "Loading"
+      ],
+      "kind": "trend",
+      "scope": "operative",
+      "trend": "up"
+    },
+    "confidence": 0.7,
+    "contradicts": [],
+    "note_hash": "f8cd90fb8a8e",
+    "rationale": "Autumn ramp is pushing picks up ~8% and climbing into October, leaving outbound roles short \u2014 staff up to the rising trend rather than the lagging forecast.",
+    "supersedes": []
+  }
+}

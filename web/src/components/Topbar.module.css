@@ -1,0 +1,52 @@
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  height: var(--topbar-h);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: var(--white);
+  border-bottom: 1px solid var(--border);
+  padding-right: var(--s-20);
+}
+.brand {
+  display: flex;
+  align-items: center;
+  gap: var(--s-12);
+}
+/* 60x60 gradient square holding the brand mark. */
+.mark {
+  width: var(--topbar-h);
+  height: var(--topbar-h);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--brand-gradient);
+}
+.arch {
+  color: var(--white);
+  font-size: 26px;
+  line-height: 1;
+  transform: translateY(2px);
+}
+.wordmark {
+  font-size: 19.2px;
+  font-weight: 500;
+  letter-spacing: -0.192px;
+  color: var(--black);
+}
+.divider {
+  width: 1px;
+  height: 20px;
+  background: var(--border);
+}
+.product {
+  font-size: 14px;
+  color: var(--text-2);
+}
+.right {
+  display: flex;
+  align-items: center;
+  gap: var(--s-12);
+}

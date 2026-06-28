@@ -1,0 +1,14 @@
+.band {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--s-20);
+}
+.note {
+  color: var(--text-2);
+  font-size: 14px;
+}
+@media (max-width: 900px) {
+  .band {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

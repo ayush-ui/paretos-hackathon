@@ -1,0 +1,132 @@
+{
+  "_comment": "The site's human decision knowledge — notes captured by planners after weekly debriefs, in their own words. This is the 'institutional memory' a compounding system is meant to ingest, curate, and apply. IT IS DELIBERATELY MESSY AND UNVERIFIED: some notes are durable and correct, some are superstition, some were true once and have since gone stale, some contradict each other. Nothing here is labelled true or false — that judgement is the challenge. `captured_on` is the date the note was written; a note can only inform decisions made on or after that date. `claimed_effect` is a loose machine-readable hint at what the planner thinks the rule is; treat it as a claim, not a fact.",
+  "site": "Helios Logistics — DC Rhein-Main",
+  "unit": "operative person-days",
+  "authors": {
+    "Maya": "Planning lead",
+    "Jonas": "Late-shift supervisor",
+    "Selin": "Operations analyst"
+  },
+  "entries": [
+    {
+      "id": "L01",
+      "captured_on": "2026-05-19",
+      "author": "Maya",
+      "scope": "transit",
+      "note": "Transit drivers sit at 4 every day — it's the fixed shuttle rota, it doesn't move with outbound. The plan keeps nudging it to 4.2 / 4.5 on big outbound days. Ignore that, it's always 4.",
+      "claimed_effect": { "kind": "fixed", "activity": "transit", "value": 4 }
+    },
+    {
+      "id": "L02",
+      "captured_on": "2026-06-02",
+      "author": "Maya",
+      "scope": "co_packing",
+      "note": "Co-Packing ran a crew of exactly 4 again all week regardless of volume. The optimiser scales it up with outbound — it shouldn't, that line is a fixed cell. Treat Co-Packing as a hard 4.",
+      "claimed_effect": { "kind": "fixed", "activity": "co_packing", "value": 4 }
+    },
+    {
+      "id": "L03",
+      "captured_on": "2026-06-09",
+      "author": "Jonas",
+      "scope": "picking",
+      "note": "Picking is planned way too hot. We ran roughly 12–15% under the recommended pickers all week and still cleared every wave with time to spare. Trim picker person-days about 12%.",
+      "claimed_effect": { "kind": "scale_pct", "activity": "picking", "pct": -12 }
+    },
+    {
+      "id": "L04",
+      "captured_on": "2026-06-16",
+      "author": "Maya",
+      "scope": "receiving",
+      "note": "Mondays the receiving desk backs up before 10:00 — it's the heaviest inbound day of the week and the plan staffs Receiving at its weekday baseline. Add +1 to Receiving on Mondays.",
+      "claimed_effect": { "kind": "add", "activity": "receiving", "delta": 1, "weekday": "Mon" }
+    },
+    {
+      "id": "L05",
+      "captured_on": "2026-06-23",
+      "author": "Selin",
+      "scope": "loading",
+      "note": "Loading felt tight the last couple of paydays (last Monday of the month). Probably people stocking up after payday. Add +1 loader on payday Mondays to be safe.",
+      "claimed_effect": { "kind": "add", "activity": "loading", "delta": 1, "weekday": "payday-Mon" }
+    },
+    {
+      "id": "L06",
+      "captured_on": "2026-06-30",
+      "author": "Jonas",
+      "scope": "picking",
+      "note": "When picks come in under ~7,000 we end up idling a picker — the line just doesn't need the body. Drop one picker on the genuinely low-volume days.",
+      "claimed_effect": { "kind": "conditional_trim", "activity": "picking", "when": "picks < 7000", "delta": -1 }
+    },
+    {
+      "id": "L07",
+      "captured_on": "2026-07-07",
+      "author": "Maya",
+      "scope": ["receiving", "putaway"],
+      "note": "First working day after any closed day (public holiday or long weekend) the inbound backlog hits hard and we scramble on Receiving and Putaway. Add +1 to each on the day after a closure.",
+      "claimed_effect": { "kind": "add", "activities": ["receiving", "putaway"], "delta": 1, "when": "day-after-closure" }
+    },
+    {
+      "id": "L08",
+      "captured_on": "2026-07-21",
+      "author": "Selin",
+      "scope": "operative",
+      "note": "Late July is dead — heat, everyone on holiday, volumes down. We're carrying too many people. Cut the whole operative plan ~15% through the late-summer weeks.",
+      "claimed_effect": { "kind": "scale_pct", "scope": "operative", "pct": -15, "weeks": "W30–W33" }
+    },
+    {
+      "id": "L09",
+      "captured_on": "2026-07-28",
+      "author": "Jonas",
+      "scope": "operative",
+      "note": "Pushing back on Selin's note from last week — the heat is KILLING throughput on the floor. People are visibly slower, pickers especially. We actually needed more hours this week, not fewer. Do not cut blindly just because it's summer.",
+      "claimed_effect": { "kind": "note" }
+    },
+    {
+      "id": "L10",
+      "captured_on": "2026-08-11",
+      "author": "Maya",
+      "scope": "co_packing",
+      "note": "Co-Packing fixed-crew-of-4 has held for about 8 weeks straight now. Rock solid — applying it every cycle without thinking about it.",
+      "claimed_effect": { "kind": "fixed", "activity": "co_packing", "value": 4 }
+    },
+    {
+      "id": "L11",
+      "captured_on": "2026-08-25",
+      "author": "Maya",
+      "scope": "picking",
+      "note": "Pick-by-light went live Monday (24.08). Pickers are flying — we're way over plan now. Jonas' old −12% trim is too small; this week it looked more like −25%.",
+      "claimed_effect": { "kind": "scale_pct", "activity": "picking", "pct": -25, "from": "2026-08-24" }
+    },
+    {
+      "id": "L12",
+      "captured_on": "2026-09-01",
+      "author": "Jonas",
+      "scope": "picking",
+      "note": "Confirming pick-by-light two weeks in: picking need is running ~25–30% under the optimiser plan now, consistently. Retire the old 12% number — it's stale, it'll leave us overstaffed.",
+      "claimed_effect": { "kind": "scale_pct", "activity": "picking", "pct": -27, "from": "2026-08-24" }
+    },
+    {
+      "id": "L13",
+      "captured_on": "2026-09-15",
+      "author": "Selin",
+      "scope": "vna_replen",
+      "note": "VNA replenishment needed a 2nd person on a couple of heavy-inbound days (over ~2,000 pallets). I saw it happen twice. Might be worth planning a second body on big inbound days.",
+      "claimed_effect": { "kind": "conditional_add", "activity": "vna_replen", "when": "inbound > 2000", "delta": 1 }
+    },
+    {
+      "id": "L14",
+      "captured_on": "2026-09-22",
+      "author": "Maya",
+      "scope": ["staging", "loading"],
+      "note": "Flu-season ramp is starting — wholesalers pulling orders forward. Outbound is climbing week over week and the optimiser is lagging the trend, under-planning Staging and Loading. Plan ahead of the forecast, not behind it.",
+      "claimed_effect": { "kind": "note", "trend": "up", "activities": ["staging", "loading"] }
+    },
+    {
+      "id": "L15",
+      "captured_on": "2026-09-29",
+      "author": "Jonas",
+      "scope": "operative",
+      "note": "Autumn ramp confirmed — picks up ~8% vs last month and still climbing into October. We keep ending the week short on the outbound roles. Staff to the trend, not the rear-view forecast.",
+      "claimed_effect": { "kind": "note", "trend": "up" }
+    }
+  ]
+}

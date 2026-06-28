@@ -1,0 +1,28 @@
+Datum/Volumen;15.06.2026;16.06.2026;17.06.2026;18.06.2026;19.06.2026;20.06.2026;21.06.2026
+PAL_Wareneingang;1649;1611;1381;1521;1433;0;0
+VollPAL_Warenausgang;1168;1409;1442;1501;1823;0;0
+Picks_Warenausgang;9908;10799;8169;9854;9464;0;0
+KomPAL_Warenausgang;234;286;283;286;349;0;0
+Mitarbeiter operativ;;;;;;;
+Unloading;2,5;2,5;2,1;2,3;2,2;0;0
+Receiving;2,9;2,9;2,4;2,7;2,5;0;0
+Putaway;12,8;12,5;10,7;11,8;11,1;0;0
+Picking;13,4;14,6;11;13,3;12,8;0;0
+Staging;6,4;7,7;7,9;8,3;10;0;0
+Loading;4,6;5,5;5,7;5,9;7,2;0;0
+Replenishment / relocation;2,8;3,1;2,3;2,8;2,7;0;0
+Transit drivers;4;4;4;4;4,1;0;0
+Yard shunting;2;2;2;2;2;0;0
+Team leads;4;4;4;4;4;0;0
+Pick QA;1;1;1;1;1;0;0
+Co-Packing line;4;4;4;4;4,1;0;0
+VNA replenishment;1;1;1;1;1;0;0
+Returns / QC;1;1;1;1;1;0;0
+Aisle maintenance;1;1;1;1;1;0;0
+Summe operativ;63,4;66,8;60,1;65,1;66,7;0;0
+Mitarbeiter administrativ;;;;;;;
+Control room;2;2;2;2;2;0;0
+Outbound office;2;2;2;2;2;0;0
+Inbound office;2;2;2;2;2;0;0
+Inventory;2;2;2;2;2;0;0
+Summe administrativ;8;8;8;8;8;0;0

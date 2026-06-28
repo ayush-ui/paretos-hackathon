@@ -1,0 +1,97 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-30);
+}
+.groupHead {
+  display: flex;
+  align-items: center;
+  gap: var(--s-10);
+  margin-bottom: var(--s-12);
+}
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+.active {
+  background: var(--violet);
+}
+.candidate {
+  background: var(--turq);
+}
+.retired {
+  background: var(--black-40);
+}
+.count {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--text-2);
+  background: var(--silver);
+  border-radius: var(--r-pill);
+  padding: 1px 8px;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: var(--s-12);
+}
+.card {
+  text-align: left;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+  padding: var(--s-12) var(--s-20);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-10);
+  transition: border-color 0.2s;
+}
+.card:hover {
+  border-color: var(--border-strong);
+}
+.cardTop {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--s-10);
+}
+.scope {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--black);
+}
+.author {
+  font-size: 12px;
+  color: var(--text-3);
+}
+.note {
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--text-2);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.cardFoot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.id {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--text-3);
+}
+.worth {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--green);
+}
+.cost {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--red);
+}

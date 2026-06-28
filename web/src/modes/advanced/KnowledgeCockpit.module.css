@@ -1,0 +1,51 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-20);
+}
+.tabs {
+  display: inline-flex;
+  gap: 4px;
+  padding: 4px;
+  background: var(--silver);
+  border-radius: var(--r-pill);
+  align-self: flex-start;
+}
+.tab {
+  border: none;
+  background: transparent;
+  color: var(--text-2);
+  padding: 6px 16px;
+  border-radius: var(--r-pill);
+  font-size: 13px;
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s;
+}
+.tab:hover {
+  color: var(--black);
+}
+.tabActive {
+  background: var(--violet);
+  color: var(--white);
+}
+.graphLayout {
+  display: flex;
+  gap: var(--s-20);
+  align-items: stretch;
+}
+.graphMain {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-12);
+}
+.framing {
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--text-2);
+}
+.framing b {
+  color: var(--text);
+  font-weight: 500;
+}

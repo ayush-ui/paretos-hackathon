@@ -1,0 +1,36 @@
+.sidebar {
+  width: var(--sidebar-w);
+  flex-shrink: 0;
+  background: var(--white);
+  border-right: 1px solid var(--border);
+  padding: var(--s-20) var(--s-10);
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-5);
+}
+.item {
+  display: flex;
+  align-items: center;
+  gap: var(--s-10);
+  padding: var(--s-10) var(--s-12);
+  border-radius: var(--r);
+  font-size: 14px;
+  color: var(--black-60);
+  transition: background-color 0.2s, color 0.2s;
+}
+.item:hover {
+  background: var(--silver);
+  color: var(--black);
+}
+.icon {
+  color: currentColor;
+}
+/* Selected = violet (violet-10 bg + violet text). */
+.active {
+  background: var(--violet-10);
+  color: var(--violet);
+}
+.active:hover {
+  background: var(--violet-10);
+  color: var(--violet);
+}

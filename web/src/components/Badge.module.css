@@ -1,0 +1,41 @@
+/* Chip/badge: radius 3px, sentence case, semantic soft backgrounds. Mono label optional. */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 2px 8px;
+  border-radius: var(--r-chip);
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.24px;
+}
+.dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: currentColor;
+}
+.violet {
+  background: var(--violet-10);
+  color: var(--violet);
+}
+.green {
+  background: var(--green-soft);
+  color: #00913a;
+}
+.amber {
+  background: var(--warn-soft);
+  color: #8a5300;
+}
+.red {
+  background: var(--red-soft);
+  color: var(--red);
+}
+.turq {
+  background: var(--turq-soft);
+  color: #1f9aa8;
+}
+.neutral {
+  background: var(--silver);
+  color: var(--black-60);
+}

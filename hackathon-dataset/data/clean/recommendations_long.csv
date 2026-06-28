@@ -1,0 +1,1863 @@
+decision_date,planned_week_start,date,activity,group,recommended_person_days
+2026-05-12,2026-05-18,2026-05-18,Unloading,operative,2.7
+2026-05-12,2026-05-18,2026-05-18,Receiving,operative,3.1
+2026-05-12,2026-05-18,2026-05-18,Putaway,operative,13.7
+2026-05-12,2026-05-18,2026-05-18,Picking,operative,12.9
+2026-05-12,2026-05-18,2026-05-18,Staging,operative,6.8
+2026-05-12,2026-05-18,2026-05-18,Loading,operative,4.8
+2026-05-12,2026-05-18,2026-05-18,Replenishment / relocation,operative,2.7
+2026-05-12,2026-05-18,2026-05-18,Transit drivers,operative,4.0
+2026-05-12,2026-05-18,2026-05-18,Yard shunting,operative,2.0
+2026-05-12,2026-05-18,2026-05-18,Team leads,operative,4.0
+2026-05-12,2026-05-18,2026-05-18,Pick QA,operative,1.0
+2026-05-12,2026-05-18,2026-05-18,Co-Packing line,operative,4.0
+2026-05-12,2026-05-18,2026-05-18,VNA replenishment,operative,1.0
+2026-05-12,2026-05-18,2026-05-18,Returns / QC,operative,1.0
+2026-05-12,2026-05-18,2026-05-18,Aisle maintenance,operative,1.0
+2026-05-12,2026-05-18,2026-05-18,Control room,admin,2.0
+2026-05-12,2026-05-18,2026-05-18,Outbound office,admin,2.0
+2026-05-12,2026-05-18,2026-05-18,Inbound office,admin,2.0
+2026-05-12,2026-05-18,2026-05-18,Inventory,admin,2.0
+2026-05-12,2026-05-18,2026-05-19,Unloading,operative,2.5
+2026-05-12,2026-05-18,2026-05-19,Receiving,operative,2.9
+2026-05-12,2026-05-18,2026-05-19,Putaway,operative,12.5
+2026-05-12,2026-05-18,2026-05-19,Picking,operative,14.5
+2026-05-12,2026-05-18,2026-05-19,Staging,operative,7.6
+2026-05-12,2026-05-18,2026-05-19,Loading,operative,5.4
+2026-05-12,2026-05-18,2026-05-19,Replenishment / relocation,operative,3.1
+2026-05-12,2026-05-18,2026-05-19,Transit drivers,operative,4.0
+2026-05-12,2026-05-18,2026-05-19,Yard shunting,operative,2.0
+2026-05-12,2026-05-18,2026-05-19,Team leads,operative,4.0
+2026-05-12,2026-05-18,2026-05-19,Pick QA,operative,1.0
+2026-05-12,2026-05-18,2026-05-19,Co-Packing line,operative,4.0
+2026-05-12,2026-05-18,2026-05-19,VNA replenishment,operative,1.0
+2026-05-12,2026-05-18,2026-05-19,Returns / QC,operative,1.0
+2026-05-12,2026-05-18,2026-05-19,Aisle maintenance,operative,1.0
+2026-05-12,2026-05-18,2026-05-19,Control room,admin,2.0
+2026-05-12,2026-05-18,2026-05-19,Outbound office,admin,2.0
+2026-05-12,2026-05-18,2026-05-19,Inbound office,admin,2.0
+2026-05-12,2026-05-18,2026-05-19,Inventory,admin,2.0
+2026-05-12,2026-05-18,2026-05-20,Unloading,operative,2.1
+2026-05-12,2026-05-18,2026-05-20,Receiving,operative,2.5
+2026-05-12,2026-05-18,2026-05-20,Putaway,operative,10.9
+2026-05-12,2026-05-18,2026-05-20,Picking,operative,10.9
+2026-05-12,2026-05-18,2026-05-20,Staging,operative,7.6
+2026-05-12,2026-05-18,2026-05-20,Loading,operative,5.4
+2026-05-12,2026-05-18,2026-05-20,Replenishment / relocation,operative,2.3
+2026-05-12,2026-05-18,2026-05-20,Transit drivers,operative,4.0
+2026-05-12,2026-05-18,2026-05-20,Yard shunting,operative,2.0
+2026-05-12,2026-05-18,2026-05-20,Team leads,operative,4.0
+2026-05-12,2026-05-18,2026-05-20,Pick QA,operative,1.0
+2026-05-12,2026-05-18,2026-05-20,Co-Packing line,operative,4.0
+2026-05-12,2026-05-18,2026-05-20,VNA replenishment,operative,1.0
+2026-05-12,2026-05-18,2026-05-20,Returns / QC,operative,1.0
+2026-05-12,2026-05-18,2026-05-20,Aisle maintenance,operative,1.0
+2026-05-12,2026-05-18,2026-05-20,Control room,admin,2.0
+2026-05-12,2026-05-18,2026-05-20,Outbound office,admin,2.0
+2026-05-12,2026-05-18,2026-05-20,Inbound office,admin,2.0
+2026-05-12,2026-05-18,2026-05-20,Inventory,admin,2.0
+2026-05-12,2026-05-18,2026-05-21,Unloading,operative,2.4
+2026-05-12,2026-05-18,2026-05-21,Receiving,operative,2.8
+2026-05-12,2026-05-18,2026-05-21,Putaway,operative,12.2
+2026-05-12,2026-05-18,2026-05-21,Picking,operative,13.0
+2026-05-12,2026-05-18,2026-05-21,Staging,operative,8.6
+2026-05-12,2026-05-18,2026-05-21,Loading,operative,6.1
+2026-05-12,2026-05-18,2026-05-21,Replenishment / relocation,operative,2.8
+2026-05-12,2026-05-18,2026-05-21,Transit drivers,operative,4.0
+2026-05-12,2026-05-18,2026-05-21,Yard shunting,operative,2.0
+2026-05-12,2026-05-18,2026-05-21,Team leads,operative,4.0
+2026-05-12,2026-05-18,2026-05-21,Pick QA,operative,1.0
+2026-05-12,2026-05-18,2026-05-21,Co-Packing line,operative,4.0
+2026-05-12,2026-05-18,2026-05-21,VNA replenishment,operative,1.0
+2026-05-12,2026-05-18,2026-05-21,Returns / QC,operative,1.0
+2026-05-12,2026-05-18,2026-05-21,Aisle maintenance,operative,1.0
+2026-05-12,2026-05-18,2026-05-21,Control room,admin,2.0
+2026-05-12,2026-05-18,2026-05-21,Outbound office,admin,2.0
+2026-05-12,2026-05-18,2026-05-21,Inbound office,admin,2.0
+2026-05-12,2026-05-18,2026-05-21,Inventory,admin,2.0
+2026-05-12,2026-05-18,2026-05-22,Unloading,operative,2.0
+2026-05-12,2026-05-18,2026-05-22,Receiving,operative,2.3
+2026-05-12,2026-05-18,2026-05-22,Putaway,operative,10.2
+2026-05-12,2026-05-18,2026-05-22,Picking,operative,12.5
+2026-05-12,2026-05-18,2026-05-22,Staging,operative,9.4
+2026-05-12,2026-05-18,2026-05-22,Loading,operative,6.7
+2026-05-12,2026-05-18,2026-05-22,Replenishment / relocation,operative,2.7
+2026-05-12,2026-05-18,2026-05-22,Transit drivers,operative,4.1
+2026-05-12,2026-05-18,2026-05-22,Yard shunting,operative,2.0
+2026-05-12,2026-05-18,2026-05-22,Team leads,operative,4.0
+2026-05-12,2026-05-18,2026-05-22,Pick QA,operative,1.0
+2026-05-12,2026-05-18,2026-05-22,Co-Packing line,operative,4.1
+2026-05-12,2026-05-18,2026-05-22,VNA replenishment,operative,1.0
+2026-05-12,2026-05-18,2026-05-22,Returns / QC,operative,1.0
+2026-05-12,2026-05-18,2026-05-22,Aisle maintenance,operative,1.0
+2026-05-12,2026-05-18,2026-05-22,Control room,admin,2.0
+2026-05-12,2026-05-18,2026-05-22,Outbound office,admin,2.0
+2026-05-12,2026-05-18,2026-05-22,Inbound office,admin,2.0
+2026-05-12,2026-05-18,2026-05-22,Inventory,admin,2.0
+2026-05-19,2026-05-25,2026-05-26,Unloading,operative,2.9
+2026-05-19,2026-05-25,2026-05-26,Receiving,operative,3.4
+2026-05-19,2026-05-25,2026-05-26,Putaway,operative,14.8
+2026-05-19,2026-05-25,2026-05-26,Picking,operative,13.8
+2026-05-19,2026-05-25,2026-05-26,Staging,operative,8.1
+2026-05-19,2026-05-25,2026-05-26,Loading,operative,5.8
+2026-05-19,2026-05-25,2026-05-26,Replenishment / relocation,operative,2.9
+2026-05-19,2026-05-25,2026-05-26,Transit drivers,operative,4.0
+2026-05-19,2026-05-25,2026-05-26,Yard shunting,operative,2.0
+2026-05-19,2026-05-25,2026-05-26,Team leads,operative,4.0
+2026-05-19,2026-05-25,2026-05-26,Pick QA,operative,1.0
+2026-05-19,2026-05-25,2026-05-26,Co-Packing line,operative,4.0
+2026-05-19,2026-05-25,2026-05-26,VNA replenishment,operative,1.0
+2026-05-19,2026-05-25,2026-05-26,Returns / QC,operative,1.0
+2026-05-19,2026-05-25,2026-05-26,Aisle maintenance,operative,1.0
+2026-05-19,2026-05-25,2026-05-26,Control room,admin,2.0
+2026-05-19,2026-05-25,2026-05-26,Outbound office,admin,2.0
+2026-05-19,2026-05-25,2026-05-26,Inbound office,admin,2.0
+2026-05-19,2026-05-25,2026-05-26,Inventory,admin,2.0
+2026-05-19,2026-05-25,2026-05-27,Unloading,operative,2.1
+2026-05-19,2026-05-25,2026-05-27,Receiving,operative,2.4
+2026-05-19,2026-05-25,2026-05-27,Putaway,operative,10.5
+2026-05-19,2026-05-25,2026-05-27,Picking,operative,11.3
+2026-05-19,2026-05-25,2026-05-27,Staging,operative,7.6
+2026-05-19,2026-05-25,2026-05-27,Loading,operative,5.4
+2026-05-19,2026-05-25,2026-05-27,Replenishment / relocation,operative,2.4
+2026-05-19,2026-05-25,2026-05-27,Transit drivers,operative,4.0
+2026-05-19,2026-05-25,2026-05-27,Yard shunting,operative,2.0
+2026-05-19,2026-05-25,2026-05-27,Team leads,operative,4.0
+2026-05-19,2026-05-25,2026-05-27,Pick QA,operative,1.0
+2026-05-19,2026-05-25,2026-05-27,Co-Packing line,operative,4.0
+2026-05-19,2026-05-25,2026-05-27,VNA replenishment,operative,1.0
+2026-05-19,2026-05-25,2026-05-27,Returns / QC,operative,1.0
+2026-05-19,2026-05-25,2026-05-27,Aisle maintenance,operative,1.0
+2026-05-19,2026-05-25,2026-05-27,Control room,admin,2.0
+2026-05-19,2026-05-25,2026-05-27,Outbound office,admin,2.0
+2026-05-19,2026-05-25,2026-05-27,Inbound office,admin,2.0
+2026-05-19,2026-05-25,2026-05-27,Inventory,admin,2.0
+2026-05-19,2026-05-25,2026-05-28,Unloading,operative,2.3
+2026-05-19,2026-05-25,2026-05-28,Receiving,operative,2.7
+2026-05-19,2026-05-25,2026-05-28,Putaway,operative,11.6
+2026-05-19,2026-05-25,2026-05-28,Picking,operative,13.0
+2026-05-19,2026-05-25,2026-05-28,Staging,operative,8.6
+2026-05-19,2026-05-25,2026-05-28,Loading,operative,6.1
+2026-05-19,2026-05-25,2026-05-28,Replenishment / relocation,operative,2.8
+2026-05-19,2026-05-25,2026-05-28,Transit drivers,operative,4.0
+2026-05-19,2026-05-25,2026-05-28,Yard shunting,operative,2.0
+2026-05-19,2026-05-25,2026-05-28,Team leads,operative,4.0
+2026-05-19,2026-05-25,2026-05-28,Pick QA,operative,1.0
+2026-05-19,2026-05-25,2026-05-28,Co-Packing line,operative,4.0
+2026-05-19,2026-05-25,2026-05-28,VNA replenishment,operative,1.0
+2026-05-19,2026-05-25,2026-05-28,Returns / QC,operative,1.0
+2026-05-19,2026-05-25,2026-05-28,Aisle maintenance,operative,1.0
+2026-05-19,2026-05-25,2026-05-28,Control room,admin,2.0
+2026-05-19,2026-05-25,2026-05-28,Outbound office,admin,2.0
+2026-05-19,2026-05-25,2026-05-28,Inbound office,admin,2.0
+2026-05-19,2026-05-25,2026-05-28,Inventory,admin,2.0
+2026-05-19,2026-05-25,2026-05-29,Unloading,operative,2.2
+2026-05-19,2026-05-25,2026-05-29,Receiving,operative,2.6
+2026-05-19,2026-05-25,2026-05-29,Putaway,operative,11.3
+2026-05-19,2026-05-25,2026-05-29,Picking,operative,12.5
+2026-05-19,2026-05-25,2026-05-29,Staging,operative,10.6
+2026-05-19,2026-05-25,2026-05-29,Loading,operative,7.5
+2026-05-19,2026-05-25,2026-05-29,Replenishment / relocation,operative,2.6
+2026-05-19,2026-05-25,2026-05-29,Transit drivers,operative,4.1
+2026-05-19,2026-05-25,2026-05-29,Yard shunting,operative,2.0
+2026-05-19,2026-05-25,2026-05-29,Team leads,operative,4.0
+2026-05-19,2026-05-25,2026-05-29,Pick QA,operative,1.0
+2026-05-19,2026-05-25,2026-05-29,Co-Packing line,operative,4.2
+2026-05-19,2026-05-25,2026-05-29,VNA replenishment,operative,1.0
+2026-05-19,2026-05-25,2026-05-29,Returns / QC,operative,1.0
+2026-05-19,2026-05-25,2026-05-29,Aisle maintenance,operative,1.0
+2026-05-19,2026-05-25,2026-05-29,Control room,admin,2.0
+2026-05-19,2026-05-25,2026-05-29,Outbound office,admin,2.0
+2026-05-19,2026-05-25,2026-05-29,Inbound office,admin,2.0
+2026-05-19,2026-05-25,2026-05-29,Inventory,admin,2.0
+2026-05-26,2026-06-01,2026-06-01,Unloading,operative,2.7
+2026-05-26,2026-06-01,2026-06-01,Receiving,operative,3.2
+2026-05-26,2026-06-01,2026-06-01,Putaway,operative,13.8
+2026-05-26,2026-06-01,2026-06-01,Picking,operative,12.9
+2026-05-26,2026-06-01,2026-06-01,Staging,operative,6.8
+2026-05-26,2026-06-01,2026-06-01,Loading,operative,4.9
+2026-05-26,2026-06-01,2026-06-01,Replenishment / relocation,operative,2.7
+2026-05-26,2026-06-01,2026-06-01,Transit drivers,operative,4.0
+2026-05-26,2026-06-01,2026-06-01,Yard shunting,operative,2.0
+2026-05-26,2026-06-01,2026-06-01,Team leads,operative,4.0
+2026-05-26,2026-06-01,2026-06-01,Pick QA,operative,1.0
+2026-05-26,2026-06-01,2026-06-01,Co-Packing line,operative,4.0
+2026-05-26,2026-06-01,2026-06-01,VNA replenishment,operative,1.0
+2026-05-26,2026-06-01,2026-06-01,Returns / QC,operative,1.0
+2026-05-26,2026-06-01,2026-06-01,Aisle maintenance,operative,1.0
+2026-05-26,2026-06-01,2026-06-01,Control room,admin,2.0
+2026-05-26,2026-06-01,2026-06-01,Outbound office,admin,2.0
+2026-05-26,2026-06-01,2026-06-01,Inbound office,admin,2.0
+2026-05-26,2026-06-01,2026-06-01,Inventory,admin,2.0
+2026-05-26,2026-06-01,2026-06-02,Unloading,operative,2.3
+2026-05-26,2026-06-01,2026-06-02,Receiving,operative,2.7
+2026-05-26,2026-06-01,2026-06-02,Putaway,operative,11.9
+2026-05-26,2026-06-01,2026-06-02,Picking,operative,13.7
+2026-05-26,2026-06-01,2026-06-02,Staging,operative,8.1
+2026-05-26,2026-06-01,2026-06-02,Loading,operative,5.8
+2026-05-26,2026-06-01,2026-06-02,Replenishment / relocation,operative,2.9
+2026-05-26,2026-06-01,2026-06-02,Transit drivers,operative,4.0
+2026-05-26,2026-06-01,2026-06-02,Yard shunting,operative,2.0
+2026-05-26,2026-06-01,2026-06-02,Team leads,operative,4.0
+2026-05-26,2026-06-01,2026-06-02,Pick QA,operative,1.0
+2026-05-26,2026-06-01,2026-06-02,Co-Packing line,operative,4.0
+2026-05-26,2026-06-01,2026-06-02,VNA replenishment,operative,1.0
+2026-05-26,2026-06-01,2026-06-02,Returns / QC,operative,1.0
+2026-05-26,2026-06-01,2026-06-02,Aisle maintenance,operative,1.0
+2026-05-26,2026-06-01,2026-06-02,Control room,admin,2.0
+2026-05-26,2026-06-01,2026-06-02,Outbound office,admin,2.0
+2026-05-26,2026-06-01,2026-06-02,Inbound office,admin,2.0
+2026-05-26,2026-06-01,2026-06-02,Inventory,admin,2.0
+2026-05-26,2026-06-01,2026-06-03,Unloading,operative,2.0
+2026-05-26,2026-06-01,2026-06-03,Receiving,operative,2.4
+2026-05-26,2026-06-01,2026-06-03,Putaway,operative,10.3
+2026-05-26,2026-06-01,2026-06-03,Picking,operative,10.8
+2026-05-26,2026-06-01,2026-06-03,Staging,operative,7.5
+2026-05-26,2026-06-01,2026-06-03,Loading,operative,5.3
+2026-05-26,2026-06-01,2026-06-03,Replenishment / relocation,operative,2.3
+2026-05-26,2026-06-01,2026-06-03,Transit drivers,operative,4.0
+2026-05-26,2026-06-01,2026-06-03,Yard shunting,operative,2.0
+2026-05-26,2026-06-01,2026-06-03,Team leads,operative,4.0
+2026-05-26,2026-06-01,2026-06-03,Pick QA,operative,1.0
+2026-05-26,2026-06-01,2026-06-03,Co-Packing line,operative,4.0
+2026-05-26,2026-06-01,2026-06-03,VNA replenishment,operative,1.0
+2026-05-26,2026-06-01,2026-06-03,Returns / QC,operative,1.0
+2026-05-26,2026-06-01,2026-06-03,Aisle maintenance,operative,1.0
+2026-05-26,2026-06-01,2026-06-03,Control room,admin,2.0
+2026-05-26,2026-06-01,2026-06-03,Outbound office,admin,2.0
+2026-05-26,2026-06-01,2026-06-03,Inbound office,admin,2.0
+2026-05-26,2026-06-01,2026-06-03,Inventory,admin,2.0
+2026-05-26,2026-06-01,2026-06-05,Unloading,operative,2.4
+2026-05-26,2026-06-01,2026-06-05,Receiving,operative,2.7
+2026-05-26,2026-06-01,2026-06-05,Putaway,operative,12.0
+2026-05-26,2026-06-01,2026-06-05,Picking,operative,12.4
+2026-05-26,2026-06-01,2026-06-05,Staging,operative,10.2
+2026-05-26,2026-06-01,2026-06-05,Loading,operative,7.3
+2026-05-26,2026-06-01,2026-06-05,Replenishment / relocation,operative,2.6
+2026-05-26,2026-06-01,2026-06-05,Transit drivers,operative,4.1
+2026-05-26,2026-06-01,2026-06-05,Yard shunting,operative,2.0
+2026-05-26,2026-06-01,2026-06-05,Team leads,operative,4.0
+2026-05-26,2026-06-01,2026-06-05,Pick QA,operative,1.0
+2026-05-26,2026-06-01,2026-06-05,Co-Packing line,operative,4.1
+2026-05-26,2026-06-01,2026-06-05,VNA replenishment,operative,1.0
+2026-05-26,2026-06-01,2026-06-05,Returns / QC,operative,1.0
+2026-05-26,2026-06-01,2026-06-05,Aisle maintenance,operative,1.0
+2026-05-26,2026-06-01,2026-06-05,Control room,admin,2.0
+2026-05-26,2026-06-01,2026-06-05,Outbound office,admin,2.0
+2026-05-26,2026-06-01,2026-06-05,Inbound office,admin,2.0
+2026-05-26,2026-06-01,2026-06-05,Inventory,admin,2.0
+2026-06-02,2026-06-08,2026-06-08,Unloading,operative,2.7
+2026-06-02,2026-06-08,2026-06-08,Receiving,operative,3.1
+2026-06-02,2026-06-08,2026-06-08,Putaway,operative,13.7
+2026-06-02,2026-06-08,2026-06-08,Picking,operative,13.1
+2026-06-02,2026-06-08,2026-06-08,Staging,operative,6.9
+2026-06-02,2026-06-08,2026-06-08,Loading,operative,4.9
+2026-06-02,2026-06-08,2026-06-08,Replenishment / relocation,operative,2.8
+2026-06-02,2026-06-08,2026-06-08,Transit drivers,operative,4.0
+2026-06-02,2026-06-08,2026-06-08,Yard shunting,operative,2.0
+2026-06-02,2026-06-08,2026-06-08,Team leads,operative,4.0
+2026-06-02,2026-06-08,2026-06-08,Pick QA,operative,1.0
+2026-06-02,2026-06-08,2026-06-08,Co-Packing line,operative,4.0
+2026-06-02,2026-06-08,2026-06-08,VNA replenishment,operative,1.0
+2026-06-02,2026-06-08,2026-06-08,Returns / QC,operative,1.0
+2026-06-02,2026-06-08,2026-06-08,Aisle maintenance,operative,1.0
+2026-06-02,2026-06-08,2026-06-08,Control room,admin,2.0
+2026-06-02,2026-06-08,2026-06-08,Outbound office,admin,2.0
+2026-06-02,2026-06-08,2026-06-08,Inbound office,admin,2.0
+2026-06-02,2026-06-08,2026-06-08,Inventory,admin,2.0
+2026-06-02,2026-06-08,2026-06-09,Unloading,operative,2.5
+2026-06-02,2026-06-08,2026-06-09,Receiving,operative,2.9
+2026-06-02,2026-06-08,2026-06-09,Putaway,operative,12.6
+2026-06-02,2026-06-08,2026-06-09,Picking,operative,14.4
+2026-06-02,2026-06-08,2026-06-09,Staging,operative,7.6
+2026-06-02,2026-06-08,2026-06-09,Loading,operative,5.5
+2026-06-02,2026-06-08,2026-06-09,Replenishment / relocation,operative,3.1
+2026-06-02,2026-06-08,2026-06-09,Transit drivers,operative,4.0
+2026-06-02,2026-06-08,2026-06-09,Yard shunting,operative,2.0
+2026-06-02,2026-06-08,2026-06-09,Team leads,operative,4.0
+2026-06-02,2026-06-08,2026-06-09,Pick QA,operative,1.0
+2026-06-02,2026-06-08,2026-06-09,Co-Packing line,operative,4.0
+2026-06-02,2026-06-08,2026-06-09,VNA replenishment,operative,1.0
+2026-06-02,2026-06-08,2026-06-09,Returns / QC,operative,1.0
+2026-06-02,2026-06-08,2026-06-09,Aisle maintenance,operative,1.0
+2026-06-02,2026-06-08,2026-06-09,Control room,admin,2.0
+2026-06-02,2026-06-08,2026-06-09,Outbound office,admin,2.0
+2026-06-02,2026-06-08,2026-06-09,Inbound office,admin,2.0
+2026-06-02,2026-06-08,2026-06-09,Inventory,admin,2.0
+2026-06-02,2026-06-08,2026-06-10,Unloading,operative,2.0
+2026-06-02,2026-06-08,2026-06-10,Receiving,operative,2.4
+2026-06-02,2026-06-08,2026-06-10,Putaway,operative,10.4
+2026-06-02,2026-06-08,2026-06-10,Picking,operative,10.6
+2026-06-02,2026-06-08,2026-06-10,Staging,operative,7.7
+2026-06-02,2026-06-08,2026-06-10,Loading,operative,5.5
+2026-06-02,2026-06-08,2026-06-10,Replenishment / relocation,operative,2.2
+2026-06-02,2026-06-08,2026-06-10,Transit drivers,operative,4.0
+2026-06-02,2026-06-08,2026-06-10,Yard shunting,operative,2.0
+2026-06-02,2026-06-08,2026-06-10,Team leads,operative,4.0
+2026-06-02,2026-06-08,2026-06-10,Pick QA,operative,1.0
+2026-06-02,2026-06-08,2026-06-10,Co-Packing line,operative,4.0
+2026-06-02,2026-06-08,2026-06-10,VNA replenishment,operative,1.0
+2026-06-02,2026-06-08,2026-06-10,Returns / QC,operative,1.0
+2026-06-02,2026-06-08,2026-06-10,Aisle maintenance,operative,1.0
+2026-06-02,2026-06-08,2026-06-10,Control room,admin,2.0
+2026-06-02,2026-06-08,2026-06-10,Outbound office,admin,2.0
+2026-06-02,2026-06-08,2026-06-10,Inbound office,admin,2.0
+2026-06-02,2026-06-08,2026-06-10,Inventory,admin,2.0
+2026-06-02,2026-06-08,2026-06-11,Unloading,operative,2.2
+2026-06-02,2026-06-08,2026-06-11,Receiving,operative,2.6
+2026-06-02,2026-06-08,2026-06-11,Putaway,operative,11.4
+2026-06-02,2026-06-08,2026-06-11,Picking,operative,13.2
+2026-06-02,2026-06-08,2026-06-11,Staging,operative,8.1
+2026-06-02,2026-06-08,2026-06-11,Loading,operative,5.8
+2026-06-02,2026-06-08,2026-06-11,Replenishment / relocation,operative,2.8
+2026-06-02,2026-06-08,2026-06-11,Transit drivers,operative,4.0
+2026-06-02,2026-06-08,2026-06-11,Yard shunting,operative,2.0
+2026-06-02,2026-06-08,2026-06-11,Team leads,operative,4.0
+2026-06-02,2026-06-08,2026-06-11,Pick QA,operative,1.0
+2026-06-02,2026-06-08,2026-06-11,Co-Packing line,operative,4.0
+2026-06-02,2026-06-08,2026-06-11,VNA replenishment,operative,1.0
+2026-06-02,2026-06-08,2026-06-11,Returns / QC,operative,1.0
+2026-06-02,2026-06-08,2026-06-11,Aisle maintenance,operative,1.0
+2026-06-02,2026-06-08,2026-06-11,Control room,admin,2.0
+2026-06-02,2026-06-08,2026-06-11,Outbound office,admin,2.0
+2026-06-02,2026-06-08,2026-06-11,Inbound office,admin,2.0
+2026-06-02,2026-06-08,2026-06-11,Inventory,admin,2.0
+2026-06-02,2026-06-08,2026-06-12,Unloading,operative,2.1
+2026-06-02,2026-06-08,2026-06-12,Receiving,operative,2.4
+2026-06-02,2026-06-08,2026-06-12,Putaway,operative,10.6
+2026-06-02,2026-06-08,2026-06-12,Picking,operative,12.6
+2026-06-02,2026-06-08,2026-06-12,Staging,operative,9.9
+2026-06-02,2026-06-08,2026-06-12,Loading,operative,7.1
+2026-06-02,2026-06-08,2026-06-12,Replenishment / relocation,operative,2.7
+2026-06-02,2026-06-08,2026-06-12,Transit drivers,operative,4.1
+2026-06-02,2026-06-08,2026-06-12,Yard shunting,operative,2.0
+2026-06-02,2026-06-08,2026-06-12,Team leads,operative,4.0
+2026-06-02,2026-06-08,2026-06-12,Pick QA,operative,1.0
+2026-06-02,2026-06-08,2026-06-12,Co-Packing line,operative,4.1
+2026-06-02,2026-06-08,2026-06-12,VNA replenishment,operative,1.0
+2026-06-02,2026-06-08,2026-06-12,Returns / QC,operative,1.0
+2026-06-02,2026-06-08,2026-06-12,Aisle maintenance,operative,1.0
+2026-06-02,2026-06-08,2026-06-12,Control room,admin,2.0
+2026-06-02,2026-06-08,2026-06-12,Outbound office,admin,2.0
+2026-06-02,2026-06-08,2026-06-12,Inbound office,admin,2.0
+2026-06-02,2026-06-08,2026-06-12,Inventory,admin,2.0
+2026-06-09,2026-06-15,2026-06-15,Unloading,operative,2.5
+2026-06-09,2026-06-15,2026-06-15,Receiving,operative,2.9
+2026-06-09,2026-06-15,2026-06-15,Putaway,operative,12.8
+2026-06-09,2026-06-15,2026-06-15,Picking,operative,13.4
+2026-06-09,2026-06-15,2026-06-15,Staging,operative,6.4
+2026-06-09,2026-06-15,2026-06-15,Loading,operative,4.6
+2026-06-09,2026-06-15,2026-06-15,Replenishment / relocation,operative,2.8
+2026-06-09,2026-06-15,2026-06-15,Transit drivers,operative,4.0
+2026-06-09,2026-06-15,2026-06-15,Yard shunting,operative,2.0
+2026-06-09,2026-06-15,2026-06-15,Team leads,operative,4.0
+2026-06-09,2026-06-15,2026-06-15,Pick QA,operative,1.0
+2026-06-09,2026-06-15,2026-06-15,Co-Packing line,operative,4.0
+2026-06-09,2026-06-15,2026-06-15,VNA replenishment,operative,1.0
+2026-06-09,2026-06-15,2026-06-15,Returns / QC,operative,1.0
+2026-06-09,2026-06-15,2026-06-15,Aisle maintenance,operative,1.0
+2026-06-09,2026-06-15,2026-06-15,Control room,admin,2.0
+2026-06-09,2026-06-15,2026-06-15,Outbound office,admin,2.0
+2026-06-09,2026-06-15,2026-06-15,Inbound office,admin,2.0
+2026-06-09,2026-06-15,2026-06-15,Inventory,admin,2.0
+2026-06-09,2026-06-15,2026-06-16,Unloading,operative,2.5
+2026-06-09,2026-06-15,2026-06-16,Receiving,operative,2.9
+2026-06-09,2026-06-15,2026-06-16,Putaway,operative,12.5
+2026-06-09,2026-06-15,2026-06-16,Picking,operative,14.6
+2026-06-09,2026-06-15,2026-06-16,Staging,operative,7.7
+2026-06-09,2026-06-15,2026-06-16,Loading,operative,5.5
+2026-06-09,2026-06-15,2026-06-16,Replenishment / relocation,operative,3.1
+2026-06-09,2026-06-15,2026-06-16,Transit drivers,operative,4.0
+2026-06-09,2026-06-15,2026-06-16,Yard shunting,operative,2.0
+2026-06-09,2026-06-15,2026-06-16,Team leads,operative,4.0
+2026-06-09,2026-06-15,2026-06-16,Pick QA,operative,1.0
+2026-06-09,2026-06-15,2026-06-16,Co-Packing line,operative,4.0
+2026-06-09,2026-06-15,2026-06-16,VNA replenishment,operative,1.0
+2026-06-09,2026-06-15,2026-06-16,Returns / QC,operative,1.0
+2026-06-09,2026-06-15,2026-06-16,Aisle maintenance,operative,1.0
+2026-06-09,2026-06-15,2026-06-16,Control room,admin,2.0
+2026-06-09,2026-06-15,2026-06-16,Outbound office,admin,2.0
+2026-06-09,2026-06-15,2026-06-16,Inbound office,admin,2.0
+2026-06-09,2026-06-15,2026-06-16,Inventory,admin,2.0
+2026-06-09,2026-06-15,2026-06-17,Unloading,operative,2.1
+2026-06-09,2026-06-15,2026-06-17,Receiving,operative,2.4
+2026-06-09,2026-06-15,2026-06-17,Putaway,operative,10.7
+2026-06-09,2026-06-15,2026-06-17,Picking,operative,11.0
+2026-06-09,2026-06-15,2026-06-17,Staging,operative,7.9
+2026-06-09,2026-06-15,2026-06-17,Loading,operative,5.7
+2026-06-09,2026-06-15,2026-06-17,Replenishment / relocation,operative,2.3
+2026-06-09,2026-06-15,2026-06-17,Transit drivers,operative,4.0
+2026-06-09,2026-06-15,2026-06-17,Yard shunting,operative,2.0
+2026-06-09,2026-06-15,2026-06-17,Team leads,operative,4.0
+2026-06-09,2026-06-15,2026-06-17,Pick QA,operative,1.0
+2026-06-09,2026-06-15,2026-06-17,Co-Packing line,operative,4.0
+2026-06-09,2026-06-15,2026-06-17,VNA replenishment,operative,1.0
+2026-06-09,2026-06-15,2026-06-17,Returns / QC,operative,1.0
+2026-06-09,2026-06-15,2026-06-17,Aisle maintenance,operative,1.0
+2026-06-09,2026-06-15,2026-06-17,Control room,admin,2.0
+2026-06-09,2026-06-15,2026-06-17,Outbound office,admin,2.0
+2026-06-09,2026-06-15,2026-06-17,Inbound office,admin,2.0
+2026-06-09,2026-06-15,2026-06-17,Inventory,admin,2.0
+2026-06-09,2026-06-15,2026-06-18,Unloading,operative,2.3
+2026-06-09,2026-06-15,2026-06-18,Receiving,operative,2.7
+2026-06-09,2026-06-15,2026-06-18,Putaway,operative,11.8
+2026-06-09,2026-06-15,2026-06-18,Picking,operative,13.3
+2026-06-09,2026-06-15,2026-06-18,Staging,operative,8.3
+2026-06-09,2026-06-15,2026-06-18,Loading,operative,5.9
+2026-06-09,2026-06-15,2026-06-18,Replenishment / relocation,operative,2.8
+2026-06-09,2026-06-15,2026-06-18,Transit drivers,operative,4.0
+2026-06-09,2026-06-15,2026-06-18,Yard shunting,operative,2.0
+2026-06-09,2026-06-15,2026-06-18,Team leads,operative,4.0
+2026-06-09,2026-06-15,2026-06-18,Pick QA,operative,1.0
+2026-06-09,2026-06-15,2026-06-18,Co-Packing line,operative,4.0
+2026-06-09,2026-06-15,2026-06-18,VNA replenishment,operative,1.0
+2026-06-09,2026-06-15,2026-06-18,Returns / QC,operative,1.0
+2026-06-09,2026-06-15,2026-06-18,Aisle maintenance,operative,1.0
+2026-06-09,2026-06-15,2026-06-18,Control room,admin,2.0
+2026-06-09,2026-06-15,2026-06-18,Outbound office,admin,2.0
+2026-06-09,2026-06-15,2026-06-18,Inbound office,admin,2.0
+2026-06-09,2026-06-15,2026-06-18,Inventory,admin,2.0
+2026-06-09,2026-06-15,2026-06-19,Unloading,operative,2.2
+2026-06-09,2026-06-15,2026-06-19,Receiving,operative,2.5
+2026-06-09,2026-06-15,2026-06-19,Putaway,operative,11.1
+2026-06-09,2026-06-15,2026-06-19,Picking,operative,12.8
+2026-06-09,2026-06-15,2026-06-19,Staging,operative,10.0
+2026-06-09,2026-06-15,2026-06-19,Loading,operative,7.2
+2026-06-09,2026-06-15,2026-06-19,Replenishment / relocation,operative,2.7
+2026-06-09,2026-06-15,2026-06-19,Transit drivers,operative,4.1
+2026-06-09,2026-06-15,2026-06-19,Yard shunting,operative,2.0
+2026-06-09,2026-06-15,2026-06-19,Team leads,operative,4.0
+2026-06-09,2026-06-15,2026-06-19,Pick QA,operative,1.0
+2026-06-09,2026-06-15,2026-06-19,Co-Packing line,operative,4.1
+2026-06-09,2026-06-15,2026-06-19,VNA replenishment,operative,1.0
+2026-06-09,2026-06-15,2026-06-19,Returns / QC,operative,1.0
+2026-06-09,2026-06-15,2026-06-19,Aisle maintenance,operative,1.0
+2026-06-09,2026-06-15,2026-06-19,Control room,admin,2.0
+2026-06-09,2026-06-15,2026-06-19,Outbound office,admin,2.0
+2026-06-09,2026-06-15,2026-06-19,Inbound office,admin,2.0
+2026-06-09,2026-06-15,2026-06-19,Inventory,admin,2.0
+2026-06-16,2026-06-22,2026-06-22,Unloading,operative,2.7
+2026-06-16,2026-06-22,2026-06-22,Receiving,operative,3.1
+2026-06-16,2026-06-22,2026-06-22,Putaway,operative,13.5
+2026-06-16,2026-06-22,2026-06-22,Picking,operative,12.8
+2026-06-16,2026-06-22,2026-06-22,Staging,operative,6.8
+2026-06-16,2026-06-22,2026-06-22,Loading,operative,4.8
+2026-06-16,2026-06-22,2026-06-22,Replenishment / relocation,operative,2.7
+2026-06-16,2026-06-22,2026-06-22,Transit drivers,operative,4.0
+2026-06-16,2026-06-22,2026-06-22,Yard shunting,operative,2.0
+2026-06-16,2026-06-22,2026-06-22,Team leads,operative,4.0
+2026-06-16,2026-06-22,2026-06-22,Pick QA,operative,1.0
+2026-06-16,2026-06-22,2026-06-22,Co-Packing line,operative,4.0
+2026-06-16,2026-06-22,2026-06-22,VNA replenishment,operative,1.0
+2026-06-16,2026-06-22,2026-06-22,Returns / QC,operative,1.0
+2026-06-16,2026-06-22,2026-06-22,Aisle maintenance,operative,1.0
+2026-06-16,2026-06-22,2026-06-22,Control room,admin,2.0
+2026-06-16,2026-06-22,2026-06-22,Outbound office,admin,2.0
+2026-06-16,2026-06-22,2026-06-22,Inbound office,admin,2.0
+2026-06-16,2026-06-22,2026-06-22,Inventory,admin,2.0
+2026-06-16,2026-06-22,2026-06-23,Unloading,operative,2.4
+2026-06-16,2026-06-22,2026-06-23,Receiving,operative,2.8
+2026-06-16,2026-06-22,2026-06-23,Putaway,operative,12.3
+2026-06-16,2026-06-22,2026-06-23,Picking,operative,14.6
+2026-06-16,2026-06-22,2026-06-23,Staging,operative,7.8
+2026-06-16,2026-06-22,2026-06-23,Loading,operative,5.6
+2026-06-16,2026-06-22,2026-06-23,Replenishment / relocation,operative,3.1
+2026-06-16,2026-06-22,2026-06-23,Transit drivers,operative,4.0
+2026-06-16,2026-06-22,2026-06-23,Yard shunting,operative,2.0
+2026-06-16,2026-06-22,2026-06-23,Team leads,operative,4.0
+2026-06-16,2026-06-22,2026-06-23,Pick QA,operative,1.0
+2026-06-16,2026-06-22,2026-06-23,Co-Packing line,operative,4.0
+2026-06-16,2026-06-22,2026-06-23,VNA replenishment,operative,1.0
+2026-06-16,2026-06-22,2026-06-23,Returns / QC,operative,1.0
+2026-06-16,2026-06-22,2026-06-23,Aisle maintenance,operative,1.0
+2026-06-16,2026-06-22,2026-06-23,Control room,admin,2.0
+2026-06-16,2026-06-22,2026-06-23,Outbound office,admin,2.0
+2026-06-16,2026-06-22,2026-06-23,Inbound office,admin,2.0
+2026-06-16,2026-06-22,2026-06-23,Inventory,admin,2.0
+2026-06-16,2026-06-22,2026-06-24,Unloading,operative,2.0
+2026-06-16,2026-06-22,2026-06-24,Receiving,operative,2.4
+2026-06-16,2026-06-22,2026-06-24,Putaway,operative,10.4
+2026-06-16,2026-06-22,2026-06-24,Picking,operative,11.1
+2026-06-16,2026-06-22,2026-06-24,Staging,operative,7.4
+2026-06-16,2026-06-22,2026-06-24,Loading,operative,5.3
+2026-06-16,2026-06-22,2026-06-24,Replenishment / relocation,operative,2.3
+2026-06-16,2026-06-22,2026-06-24,Transit drivers,operative,4.0
+2026-06-16,2026-06-22,2026-06-24,Yard shunting,operative,2.0
+2026-06-16,2026-06-22,2026-06-24,Team leads,operative,4.0
+2026-06-16,2026-06-22,2026-06-24,Pick QA,operative,1.0
+2026-06-16,2026-06-22,2026-06-24,Co-Packing line,operative,4.0
+2026-06-16,2026-06-22,2026-06-24,VNA replenishment,operative,1.0
+2026-06-16,2026-06-22,2026-06-24,Returns / QC,operative,1.0
+2026-06-16,2026-06-22,2026-06-24,Aisle maintenance,operative,1.0
+2026-06-16,2026-06-22,2026-06-24,Control room,admin,2.0
+2026-06-16,2026-06-22,2026-06-24,Outbound office,admin,2.0
+2026-06-16,2026-06-22,2026-06-24,Inbound office,admin,2.0
+2026-06-16,2026-06-22,2026-06-24,Inventory,admin,2.0
+2026-06-16,2026-06-22,2026-06-25,Unloading,operative,2.2
+2026-06-16,2026-06-22,2026-06-25,Receiving,operative,2.6
+2026-06-16,2026-06-22,2026-06-25,Putaway,operative,11.2
+2026-06-16,2026-06-22,2026-06-25,Picking,operative,12.9
+2026-06-16,2026-06-22,2026-06-25,Staging,operative,8.2
+2026-06-16,2026-06-22,2026-06-25,Loading,operative,5.9
+2026-06-16,2026-06-22,2026-06-25,Replenishment / relocation,operative,2.7
+2026-06-16,2026-06-22,2026-06-25,Transit drivers,operative,4.0
+2026-06-16,2026-06-22,2026-06-25,Yard shunting,operative,2.0
+2026-06-16,2026-06-22,2026-06-25,Team leads,operative,4.0
+2026-06-16,2026-06-22,2026-06-25,Pick QA,operative,1.0
+2026-06-16,2026-06-22,2026-06-25,Co-Packing line,operative,4.0
+2026-06-16,2026-06-22,2026-06-25,VNA replenishment,operative,1.0
+2026-06-16,2026-06-22,2026-06-25,Returns / QC,operative,1.0
+2026-06-16,2026-06-22,2026-06-25,Aisle maintenance,operative,1.0
+2026-06-16,2026-06-22,2026-06-25,Control room,admin,2.0
+2026-06-16,2026-06-22,2026-06-25,Outbound office,admin,2.0
+2026-06-16,2026-06-22,2026-06-25,Inbound office,admin,2.0
+2026-06-16,2026-06-22,2026-06-25,Inventory,admin,2.0
+2026-06-16,2026-06-22,2026-06-26,Unloading,operative,2.1
+2026-06-16,2026-06-22,2026-06-26,Receiving,operative,2.4
+2026-06-16,2026-06-22,2026-06-26,Putaway,operative,10.6
+2026-06-16,2026-06-22,2026-06-26,Picking,operative,13.1
+2026-06-16,2026-06-22,2026-06-26,Staging,operative,10.1
+2026-06-16,2026-06-22,2026-06-26,Loading,operative,7.2
+2026-06-16,2026-06-22,2026-06-26,Replenishment / relocation,operative,2.8
+2026-06-16,2026-06-22,2026-06-26,Transit drivers,operative,4.1
+2026-06-16,2026-06-22,2026-06-26,Yard shunting,operative,2.0
+2026-06-16,2026-06-22,2026-06-26,Team leads,operative,4.0
+2026-06-16,2026-06-22,2026-06-26,Pick QA,operative,1.0
+2026-06-16,2026-06-22,2026-06-26,Co-Packing line,operative,4.1
+2026-06-16,2026-06-22,2026-06-26,VNA replenishment,operative,1.0
+2026-06-16,2026-06-22,2026-06-26,Returns / QC,operative,1.0
+2026-06-16,2026-06-22,2026-06-26,Aisle maintenance,operative,1.0
+2026-06-16,2026-06-22,2026-06-26,Control room,admin,2.0
+2026-06-16,2026-06-22,2026-06-26,Outbound office,admin,2.0
+2026-06-16,2026-06-22,2026-06-26,Inbound office,admin,2.0
+2026-06-16,2026-06-22,2026-06-26,Inventory,admin,2.0
+2026-06-23,2026-06-29,2026-06-29,Unloading,operative,2.5
+2026-06-23,2026-06-29,2026-06-29,Receiving,operative,2.9
+2026-06-23,2026-06-29,2026-06-29,Putaway,operative,12.9
+2026-06-23,2026-06-29,2026-06-29,Picking,operative,13.5
+2026-06-23,2026-06-29,2026-06-29,Staging,operative,6.6
+2026-06-23,2026-06-29,2026-06-29,Loading,operative,4.7
+2026-06-23,2026-06-29,2026-06-29,Replenishment / relocation,operative,2.9
+2026-06-23,2026-06-29,2026-06-29,Transit drivers,operative,4.0
+2026-06-23,2026-06-29,2026-06-29,Yard shunting,operative,2.0
+2026-06-23,2026-06-29,2026-06-29,Team leads,operative,4.0
+2026-06-23,2026-06-29,2026-06-29,Pick QA,operative,1.0
+2026-06-23,2026-06-29,2026-06-29,Co-Packing line,operative,4.0
+2026-06-23,2026-06-29,2026-06-29,VNA replenishment,operative,1.0
+2026-06-23,2026-06-29,2026-06-29,Returns / QC,operative,1.0
+2026-06-23,2026-06-29,2026-06-29,Aisle maintenance,operative,1.0
+2026-06-23,2026-06-29,2026-06-29,Control room,admin,2.0
+2026-06-23,2026-06-29,2026-06-29,Outbound office,admin,2.0
+2026-06-23,2026-06-29,2026-06-29,Inbound office,admin,2.0
+2026-06-23,2026-06-29,2026-06-29,Inventory,admin,2.0
+2026-06-23,2026-06-29,2026-06-30,Unloading,operative,2.4
+2026-06-23,2026-06-29,2026-06-30,Receiving,operative,2.8
+2026-06-23,2026-06-29,2026-06-30,Putaway,operative,12.4
+2026-06-23,2026-06-29,2026-06-30,Picking,operative,14.8
+2026-06-23,2026-06-29,2026-06-30,Staging,operative,7.9
+2026-06-23,2026-06-29,2026-06-30,Loading,operative,5.7
+2026-06-23,2026-06-29,2026-06-30,Replenishment / relocation,operative,3.1
+2026-06-23,2026-06-29,2026-06-30,Transit drivers,operative,4.0
+2026-06-23,2026-06-29,2026-06-30,Yard shunting,operative,2.0
+2026-06-23,2026-06-29,2026-06-30,Team leads,operative,4.0
+2026-06-23,2026-06-29,2026-06-30,Pick QA,operative,1.0
+2026-06-23,2026-06-29,2026-06-30,Co-Packing line,operative,4.0
+2026-06-23,2026-06-29,2026-06-30,VNA replenishment,operative,1.0
+2026-06-23,2026-06-29,2026-06-30,Returns / QC,operative,1.0
+2026-06-23,2026-06-29,2026-06-30,Aisle maintenance,operative,1.0
+2026-06-23,2026-06-29,2026-06-30,Control room,admin,2.0
+2026-06-23,2026-06-29,2026-06-30,Outbound office,admin,2.0
+2026-06-23,2026-06-29,2026-06-30,Inbound office,admin,2.0
+2026-06-23,2026-06-29,2026-06-30,Inventory,admin,2.0
+2026-06-23,2026-06-29,2026-07-01,Unloading,operative,2.2
+2026-06-23,2026-06-29,2026-07-01,Receiving,operative,2.5
+2026-06-23,2026-06-29,2026-07-01,Putaway,operative,10.9
+2026-06-23,2026-06-29,2026-07-01,Picking,operative,11.0
+2026-06-23,2026-06-29,2026-07-01,Staging,operative,7.5
+2026-06-23,2026-06-29,2026-07-01,Loading,operative,5.3
+2026-06-23,2026-06-29,2026-07-01,Replenishment / relocation,operative,2.3
+2026-06-23,2026-06-29,2026-07-01,Transit drivers,operative,4.0
+2026-06-23,2026-06-29,2026-07-01,Yard shunting,operative,2.0
+2026-06-23,2026-06-29,2026-07-01,Team leads,operative,4.0
+2026-06-23,2026-06-29,2026-07-01,Pick QA,operative,1.0
+2026-06-23,2026-06-29,2026-07-01,Co-Packing line,operative,4.0
+2026-06-23,2026-06-29,2026-07-01,VNA replenishment,operative,1.0
+2026-06-23,2026-06-29,2026-07-01,Returns / QC,operative,1.0
+2026-06-23,2026-06-29,2026-07-01,Aisle maintenance,operative,1.0
+2026-06-23,2026-06-29,2026-07-01,Control room,admin,2.0
+2026-06-23,2026-06-29,2026-07-01,Outbound office,admin,2.0
+2026-06-23,2026-06-29,2026-07-01,Inbound office,admin,2.0
+2026-06-23,2026-06-29,2026-07-01,Inventory,admin,2.0
+2026-06-23,2026-06-29,2026-07-02,Unloading,operative,2.4
+2026-06-23,2026-06-29,2026-07-02,Receiving,operative,2.7
+2026-06-23,2026-06-29,2026-07-02,Putaway,operative,11.9
+2026-06-23,2026-06-29,2026-07-02,Picking,operative,13.6
+2026-06-23,2026-06-29,2026-07-02,Staging,operative,8.3
+2026-06-23,2026-06-29,2026-07-02,Loading,operative,5.9
+2026-06-23,2026-06-29,2026-07-02,Replenishment / relocation,operative,2.9
+2026-06-23,2026-06-29,2026-07-02,Transit drivers,operative,4.0
+2026-06-23,2026-06-29,2026-07-02,Yard shunting,operative,2.0
+2026-06-23,2026-06-29,2026-07-02,Team leads,operative,4.0
+2026-06-23,2026-06-29,2026-07-02,Pick QA,operative,1.0
+2026-06-23,2026-06-29,2026-07-02,Co-Packing line,operative,4.0
+2026-06-23,2026-06-29,2026-07-02,VNA replenishment,operative,1.0
+2026-06-23,2026-06-29,2026-07-02,Returns / QC,operative,1.0
+2026-06-23,2026-06-29,2026-07-02,Aisle maintenance,operative,1.0
+2026-06-23,2026-06-29,2026-07-02,Control room,admin,2.0
+2026-06-23,2026-06-29,2026-07-02,Outbound office,admin,2.0
+2026-06-23,2026-06-29,2026-07-02,Inbound office,admin,2.0
+2026-06-23,2026-06-29,2026-07-02,Inventory,admin,2.0
+2026-06-23,2026-06-29,2026-07-03,Unloading,operative,2.0
+2026-06-23,2026-06-29,2026-07-03,Receiving,operative,2.3
+2026-06-23,2026-06-29,2026-07-03,Putaway,operative,10.0
+2026-06-23,2026-06-29,2026-07-03,Picking,operative,12.6
+2026-06-23,2026-06-29,2026-07-03,Staging,operative,9.7
+2026-06-23,2026-06-29,2026-07-03,Loading,operative,7.0
+2026-06-23,2026-06-29,2026-07-03,Replenishment / relocation,operative,2.7
+2026-06-23,2026-06-29,2026-07-03,Transit drivers,operative,4.1
+2026-06-23,2026-06-29,2026-07-03,Yard shunting,operative,2.0
+2026-06-23,2026-06-29,2026-07-03,Team leads,operative,4.0
+2026-06-23,2026-06-29,2026-07-03,Pick QA,operative,1.0
+2026-06-23,2026-06-29,2026-07-03,Co-Packing line,operative,4.1
+2026-06-23,2026-06-29,2026-07-03,VNA replenishment,operative,1.0
+2026-06-23,2026-06-29,2026-07-03,Returns / QC,operative,1.0
+2026-06-23,2026-06-29,2026-07-03,Aisle maintenance,operative,1.0
+2026-06-23,2026-06-29,2026-07-03,Control room,admin,2.0
+2026-06-23,2026-06-29,2026-07-03,Outbound office,admin,2.0
+2026-06-23,2026-06-29,2026-07-03,Inbound office,admin,2.0
+2026-06-23,2026-06-29,2026-07-03,Inventory,admin,2.0
+2026-06-30,2026-07-06,2026-07-06,Unloading,operative,2.6
+2026-06-30,2026-07-06,2026-07-06,Receiving,operative,3.0
+2026-06-30,2026-07-06,2026-07-06,Putaway,operative,13.0
+2026-06-30,2026-07-06,2026-07-06,Picking,operative,12.7
+2026-06-30,2026-07-06,2026-07-06,Staging,operative,6.5
+2026-06-30,2026-07-06,2026-07-06,Loading,operative,4.6
+2026-06-30,2026-07-06,2026-07-06,Replenishment / relocation,operative,2.7
+2026-06-30,2026-07-06,2026-07-06,Transit drivers,operative,4.0
+2026-06-30,2026-07-06,2026-07-06,Yard shunting,operative,2.0
+2026-06-30,2026-07-06,2026-07-06,Team leads,operative,4.0
+2026-06-30,2026-07-06,2026-07-06,Pick QA,operative,1.0
+2026-06-30,2026-07-06,2026-07-06,Co-Packing line,operative,4.0
+2026-06-30,2026-07-06,2026-07-06,VNA replenishment,operative,1.0
+2026-06-30,2026-07-06,2026-07-06,Returns / QC,operative,1.0
+2026-06-30,2026-07-06,2026-07-06,Aisle maintenance,operative,1.0
+2026-06-30,2026-07-06,2026-07-06,Control room,admin,2.0
+2026-06-30,2026-07-06,2026-07-06,Outbound office,admin,2.0
+2026-06-30,2026-07-06,2026-07-06,Inbound office,admin,2.0
+2026-06-30,2026-07-06,2026-07-06,Inventory,admin,2.0
+2026-06-30,2026-07-06,2026-07-07,Unloading,operative,2.3
+2026-06-30,2026-07-06,2026-07-07,Receiving,operative,2.7
+2026-06-30,2026-07-06,2026-07-07,Putaway,operative,11.8
+2026-06-30,2026-07-06,2026-07-07,Picking,operative,13.5
+2026-06-30,2026-07-06,2026-07-07,Staging,operative,8.0
+2026-06-30,2026-07-06,2026-07-07,Loading,operative,5.7
+2026-06-30,2026-07-06,2026-07-07,Replenishment / relocation,operative,2.9
+2026-06-30,2026-07-06,2026-07-07,Transit drivers,operative,4.0
+2026-06-30,2026-07-06,2026-07-07,Yard shunting,operative,2.0
+2026-06-30,2026-07-06,2026-07-07,Team leads,operative,4.0
+2026-06-30,2026-07-06,2026-07-07,Pick QA,operative,1.0
+2026-06-30,2026-07-06,2026-07-07,Co-Packing line,operative,4.0
+2026-06-30,2026-07-06,2026-07-07,VNA replenishment,operative,1.0
+2026-06-30,2026-07-06,2026-07-07,Returns / QC,operative,1.0
+2026-06-30,2026-07-06,2026-07-07,Aisle maintenance,operative,1.0
+2026-06-30,2026-07-06,2026-07-07,Control room,admin,2.0
+2026-06-30,2026-07-06,2026-07-07,Outbound office,admin,2.0
+2026-06-30,2026-07-06,2026-07-07,Inbound office,admin,2.0
+2026-06-30,2026-07-06,2026-07-07,Inventory,admin,2.0
+2026-06-30,2026-07-06,2026-07-08,Unloading,operative,1.9
+2026-06-30,2026-07-06,2026-07-08,Receiving,operative,2.3
+2026-06-30,2026-07-06,2026-07-08,Putaway,operative,9.8
+2026-06-30,2026-07-06,2026-07-08,Picking,operative,10.3
+2026-06-30,2026-07-06,2026-07-08,Staging,operative,7.2
+2026-06-30,2026-07-06,2026-07-08,Loading,operative,5.1
+2026-06-30,2026-07-06,2026-07-08,Replenishment / relocation,operative,2.2
+2026-06-30,2026-07-06,2026-07-08,Transit drivers,operative,4.0
+2026-06-30,2026-07-06,2026-07-08,Yard shunting,operative,2.0
+2026-06-30,2026-07-06,2026-07-08,Team leads,operative,4.0
+2026-06-30,2026-07-06,2026-07-08,Pick QA,operative,1.0
+2026-06-30,2026-07-06,2026-07-08,Co-Packing line,operative,4.0
+2026-06-30,2026-07-06,2026-07-08,VNA replenishment,operative,1.0
+2026-06-30,2026-07-06,2026-07-08,Returns / QC,operative,1.0
+2026-06-30,2026-07-06,2026-07-08,Aisle maintenance,operative,1.0
+2026-06-30,2026-07-06,2026-07-08,Control room,admin,2.0
+2026-06-30,2026-07-06,2026-07-08,Outbound office,admin,2.0
+2026-06-30,2026-07-06,2026-07-08,Inbound office,admin,2.0
+2026-06-30,2026-07-06,2026-07-08,Inventory,admin,2.0
+2026-06-30,2026-07-06,2026-07-09,Unloading,operative,2.3
+2026-06-30,2026-07-06,2026-07-09,Receiving,operative,2.6
+2026-06-30,2026-07-06,2026-07-09,Putaway,operative,11.5
+2026-06-30,2026-07-06,2026-07-09,Picking,operative,11.7
+2026-06-30,2026-07-06,2026-07-09,Staging,operative,7.9
+2026-06-30,2026-07-06,2026-07-09,Loading,operative,5.6
+2026-06-30,2026-07-06,2026-07-09,Replenishment / relocation,operative,2.5
+2026-06-30,2026-07-06,2026-07-09,Transit drivers,operative,4.0
+2026-06-30,2026-07-06,2026-07-09,Yard shunting,operative,2.0
+2026-06-30,2026-07-06,2026-07-09,Team leads,operative,4.0
+2026-06-30,2026-07-06,2026-07-09,Pick QA,operative,1.0
+2026-06-30,2026-07-06,2026-07-09,Co-Packing line,operative,4.0
+2026-06-30,2026-07-06,2026-07-09,VNA replenishment,operative,1.0
+2026-06-30,2026-07-06,2026-07-09,Returns / QC,operative,1.0
+2026-06-30,2026-07-06,2026-07-09,Aisle maintenance,operative,1.0
+2026-06-30,2026-07-06,2026-07-09,Control room,admin,2.0
+2026-06-30,2026-07-06,2026-07-09,Outbound office,admin,2.0
+2026-06-30,2026-07-06,2026-07-09,Inbound office,admin,2.0
+2026-06-30,2026-07-06,2026-07-09,Inventory,admin,2.0
+2026-06-30,2026-07-06,2026-07-10,Unloading,operative,1.9
+2026-06-30,2026-07-06,2026-07-10,Receiving,operative,2.2
+2026-06-30,2026-07-06,2026-07-10,Putaway,operative,9.8
+2026-06-30,2026-07-06,2026-07-10,Picking,operative,12.4
+2026-06-30,2026-07-06,2026-07-10,Staging,operative,9.3
+2026-06-30,2026-07-06,2026-07-10,Loading,operative,6.7
+2026-06-30,2026-07-06,2026-07-10,Replenishment / relocation,operative,2.6
+2026-06-30,2026-07-06,2026-07-10,Transit drivers,operative,4.1
+2026-06-30,2026-07-06,2026-07-10,Yard shunting,operative,2.0
+2026-06-30,2026-07-06,2026-07-10,Team leads,operative,4.0
+2026-06-30,2026-07-06,2026-07-10,Pick QA,operative,1.0
+2026-06-30,2026-07-06,2026-07-10,Co-Packing line,operative,4.1
+2026-06-30,2026-07-06,2026-07-10,VNA replenishment,operative,1.0
+2026-06-30,2026-07-06,2026-07-10,Returns / QC,operative,1.0
+2026-06-30,2026-07-06,2026-07-10,Aisle maintenance,operative,1.0
+2026-06-30,2026-07-06,2026-07-10,Control room,admin,2.0
+2026-06-30,2026-07-06,2026-07-10,Outbound office,admin,2.0
+2026-06-30,2026-07-06,2026-07-10,Inbound office,admin,2.0
+2026-06-30,2026-07-06,2026-07-10,Inventory,admin,2.0
+2026-07-07,2026-07-13,2026-07-13,Unloading,operative,2.5
+2026-07-07,2026-07-13,2026-07-13,Receiving,operative,2.9
+2026-07-07,2026-07-13,2026-07-13,Putaway,operative,12.6
+2026-07-07,2026-07-13,2026-07-13,Picking,operative,12.3
+2026-07-07,2026-07-13,2026-07-13,Staging,operative,6.3
+2026-07-07,2026-07-13,2026-07-13,Loading,operative,4.5
+2026-07-07,2026-07-13,2026-07-13,Replenishment / relocation,operative,2.6
+2026-07-07,2026-07-13,2026-07-13,Transit drivers,operative,4.0
+2026-07-07,2026-07-13,2026-07-13,Yard shunting,operative,2.0
+2026-07-07,2026-07-13,2026-07-13,Team leads,operative,4.0
+2026-07-07,2026-07-13,2026-07-13,Pick QA,operative,1.0
+2026-07-07,2026-07-13,2026-07-13,Co-Packing line,operative,4.0
+2026-07-07,2026-07-13,2026-07-13,VNA replenishment,operative,1.0
+2026-07-07,2026-07-13,2026-07-13,Returns / QC,operative,1.0
+2026-07-07,2026-07-13,2026-07-13,Aisle maintenance,operative,1.0
+2026-07-07,2026-07-13,2026-07-13,Control room,admin,2.0
+2026-07-07,2026-07-13,2026-07-13,Outbound office,admin,2.0
+2026-07-07,2026-07-13,2026-07-13,Inbound office,admin,2.0
+2026-07-07,2026-07-13,2026-07-13,Inventory,admin,2.0
+2026-07-07,2026-07-13,2026-07-14,Unloading,operative,2.3
+2026-07-07,2026-07-13,2026-07-14,Receiving,operative,2.7
+2026-07-07,2026-07-13,2026-07-14,Putaway,operative,11.8
+2026-07-07,2026-07-13,2026-07-14,Picking,operative,13.1
+2026-07-07,2026-07-13,2026-07-14,Staging,operative,7.5
+2026-07-07,2026-07-13,2026-07-14,Loading,operative,5.3
+2026-07-07,2026-07-13,2026-07-14,Replenishment / relocation,operative,2.8
+2026-07-07,2026-07-13,2026-07-14,Transit drivers,operative,4.0
+2026-07-07,2026-07-13,2026-07-14,Yard shunting,operative,2.0
+2026-07-07,2026-07-13,2026-07-14,Team leads,operative,4.0
+2026-07-07,2026-07-13,2026-07-14,Pick QA,operative,1.0
+2026-07-07,2026-07-13,2026-07-14,Co-Packing line,operative,4.0
+2026-07-07,2026-07-13,2026-07-14,VNA replenishment,operative,1.0
+2026-07-07,2026-07-13,2026-07-14,Returns / QC,operative,1.0
+2026-07-07,2026-07-13,2026-07-14,Aisle maintenance,operative,1.0
+2026-07-07,2026-07-13,2026-07-14,Control room,admin,2.0
+2026-07-07,2026-07-13,2026-07-14,Outbound office,admin,2.0
+2026-07-07,2026-07-13,2026-07-14,Inbound office,admin,2.0
+2026-07-07,2026-07-13,2026-07-14,Inventory,admin,2.0
+2026-07-07,2026-07-13,2026-07-15,Unloading,operative,2.0
+2026-07-07,2026-07-13,2026-07-15,Receiving,operative,2.3
+2026-07-07,2026-07-13,2026-07-15,Putaway,operative,10.1
+2026-07-07,2026-07-13,2026-07-15,Picking,operative,10.4
+2026-07-07,2026-07-13,2026-07-15,Staging,operative,7.4
+2026-07-07,2026-07-13,2026-07-15,Loading,operative,5.3
+2026-07-07,2026-07-13,2026-07-15,Replenishment / relocation,operative,2.2
+2026-07-07,2026-07-13,2026-07-15,Transit drivers,operative,4.0
+2026-07-07,2026-07-13,2026-07-15,Yard shunting,operative,2.0
+2026-07-07,2026-07-13,2026-07-15,Team leads,operative,4.0
+2026-07-07,2026-07-13,2026-07-15,Pick QA,operative,1.0
+2026-07-07,2026-07-13,2026-07-15,Co-Packing line,operative,4.0
+2026-07-07,2026-07-13,2026-07-15,VNA replenishment,operative,1.0
+2026-07-07,2026-07-13,2026-07-15,Returns / QC,operative,1.0
+2026-07-07,2026-07-13,2026-07-15,Aisle maintenance,operative,1.0
+2026-07-07,2026-07-13,2026-07-15,Control room,admin,2.0
+2026-07-07,2026-07-13,2026-07-15,Outbound office,admin,2.0
+2026-07-07,2026-07-13,2026-07-15,Inbound office,admin,2.0
+2026-07-07,2026-07-13,2026-07-15,Inventory,admin,2.0
+2026-07-07,2026-07-13,2026-07-16,Unloading,operative,2.3
+2026-07-07,2026-07-13,2026-07-16,Receiving,operative,2.6
+2026-07-07,2026-07-13,2026-07-16,Putaway,operative,11.4
+2026-07-07,2026-07-13,2026-07-16,Picking,operative,12.8
+2026-07-07,2026-07-13,2026-07-16,Staging,operative,7.8
+2026-07-07,2026-07-13,2026-07-16,Loading,operative,5.6
+2026-07-07,2026-07-13,2026-07-16,Replenishment / relocation,operative,2.7
+2026-07-07,2026-07-13,2026-07-16,Transit drivers,operative,4.0
+2026-07-07,2026-07-13,2026-07-16,Yard shunting,operative,2.0
+2026-07-07,2026-07-13,2026-07-16,Team leads,operative,4.0
+2026-07-07,2026-07-13,2026-07-16,Pick QA,operative,1.0
+2026-07-07,2026-07-13,2026-07-16,Co-Packing line,operative,4.0
+2026-07-07,2026-07-13,2026-07-16,VNA replenishment,operative,1.0
+2026-07-07,2026-07-13,2026-07-16,Returns / QC,operative,1.0
+2026-07-07,2026-07-13,2026-07-16,Aisle maintenance,operative,1.0
+2026-07-07,2026-07-13,2026-07-16,Control room,admin,2.0
+2026-07-07,2026-07-13,2026-07-16,Outbound office,admin,2.0
+2026-07-07,2026-07-13,2026-07-16,Inbound office,admin,2.0
+2026-07-07,2026-07-13,2026-07-16,Inventory,admin,2.0
+2026-07-07,2026-07-13,2026-07-17,Unloading,operative,1.9
+2026-07-07,2026-07-13,2026-07-17,Receiving,operative,2.2
+2026-07-07,2026-07-13,2026-07-17,Putaway,operative,9.8
+2026-07-07,2026-07-13,2026-07-17,Picking,operative,12.7
+2026-07-07,2026-07-13,2026-07-17,Staging,operative,9.2
+2026-07-07,2026-07-13,2026-07-17,Loading,operative,6.6
+2026-07-07,2026-07-13,2026-07-17,Replenishment / relocation,operative,2.7
+2026-07-07,2026-07-13,2026-07-17,Transit drivers,operative,4.1
+2026-07-07,2026-07-13,2026-07-17,Yard shunting,operative,2.0
+2026-07-07,2026-07-13,2026-07-17,Team leads,operative,4.0
+2026-07-07,2026-07-13,2026-07-17,Pick QA,operative,1.0
+2026-07-07,2026-07-13,2026-07-17,Co-Packing line,operative,4.1
+2026-07-07,2026-07-13,2026-07-17,VNA replenishment,operative,1.0
+2026-07-07,2026-07-13,2026-07-17,Returns / QC,operative,1.0
+2026-07-07,2026-07-13,2026-07-17,Aisle maintenance,operative,1.0
+2026-07-07,2026-07-13,2026-07-17,Control room,admin,2.0
+2026-07-07,2026-07-13,2026-07-17,Outbound office,admin,2.0
+2026-07-07,2026-07-13,2026-07-17,Inbound office,admin,2.0
+2026-07-07,2026-07-13,2026-07-17,Inventory,admin,2.0
+2026-07-14,2026-07-20,2026-07-20,Unloading,operative,2.5
+2026-07-14,2026-07-20,2026-07-20,Receiving,operative,2.9
+2026-07-14,2026-07-20,2026-07-20,Putaway,operative,12.7
+2026-07-14,2026-07-20,2026-07-20,Picking,operative,12.0
+2026-07-14,2026-07-20,2026-07-20,Staging,operative,6.1
+2026-07-14,2026-07-20,2026-07-20,Loading,operative,4.3
+2026-07-14,2026-07-20,2026-07-20,Replenishment / relocation,operative,2.5
+2026-07-14,2026-07-20,2026-07-20,Transit drivers,operative,4.0
+2026-07-14,2026-07-20,2026-07-20,Yard shunting,operative,2.0
+2026-07-14,2026-07-20,2026-07-20,Team leads,operative,4.0
+2026-07-14,2026-07-20,2026-07-20,Pick QA,operative,1.0
+2026-07-14,2026-07-20,2026-07-20,Co-Packing line,operative,4.0
+2026-07-14,2026-07-20,2026-07-20,VNA replenishment,operative,1.0
+2026-07-14,2026-07-20,2026-07-20,Returns / QC,operative,1.0
+2026-07-14,2026-07-20,2026-07-20,Aisle maintenance,operative,1.0
+2026-07-14,2026-07-20,2026-07-20,Control room,admin,2.0
+2026-07-14,2026-07-20,2026-07-20,Outbound office,admin,2.0
+2026-07-14,2026-07-20,2026-07-20,Inbound office,admin,2.0
+2026-07-14,2026-07-20,2026-07-20,Inventory,admin,2.0
+2026-07-14,2026-07-20,2026-07-21,Unloading,operative,2.2
+2026-07-14,2026-07-20,2026-07-21,Receiving,operative,2.5
+2026-07-14,2026-07-20,2026-07-21,Putaway,operative,11.1
+2026-07-14,2026-07-20,2026-07-21,Picking,operative,13.4
+2026-07-14,2026-07-20,2026-07-21,Staging,operative,7.3
+2026-07-14,2026-07-20,2026-07-21,Loading,operative,5.2
+2026-07-14,2026-07-20,2026-07-21,Replenishment / relocation,operative,2.8
+2026-07-14,2026-07-20,2026-07-21,Transit drivers,operative,4.0
+2026-07-14,2026-07-20,2026-07-21,Yard shunting,operative,2.0
+2026-07-14,2026-07-20,2026-07-21,Team leads,operative,4.0
+2026-07-14,2026-07-20,2026-07-21,Pick QA,operative,1.0
+2026-07-14,2026-07-20,2026-07-21,Co-Packing line,operative,4.0
+2026-07-14,2026-07-20,2026-07-21,VNA replenishment,operative,1.0
+2026-07-14,2026-07-20,2026-07-21,Returns / QC,operative,1.0
+2026-07-14,2026-07-20,2026-07-21,Aisle maintenance,operative,1.0
+2026-07-14,2026-07-20,2026-07-21,Control room,admin,2.0
+2026-07-14,2026-07-20,2026-07-21,Outbound office,admin,2.0
+2026-07-14,2026-07-20,2026-07-21,Inbound office,admin,2.0
+2026-07-14,2026-07-20,2026-07-21,Inventory,admin,2.0
+2026-07-14,2026-07-20,2026-07-22,Unloading,operative,2.0
+2026-07-14,2026-07-20,2026-07-22,Receiving,operative,2.3
+2026-07-14,2026-07-20,2026-07-22,Putaway,operative,10.1
+2026-07-14,2026-07-20,2026-07-22,Picking,operative,10.3
+2026-07-14,2026-07-20,2026-07-22,Staging,operative,7.2
+2026-07-14,2026-07-20,2026-07-22,Loading,operative,5.2
+2026-07-14,2026-07-20,2026-07-22,Replenishment / relocation,operative,2.2
+2026-07-14,2026-07-20,2026-07-22,Transit drivers,operative,4.0
+2026-07-14,2026-07-20,2026-07-22,Yard shunting,operative,2.0
+2026-07-14,2026-07-20,2026-07-22,Team leads,operative,4.0
+2026-07-14,2026-07-20,2026-07-22,Pick QA,operative,1.0
+2026-07-14,2026-07-20,2026-07-22,Co-Packing line,operative,4.0
+2026-07-14,2026-07-20,2026-07-22,VNA replenishment,operative,1.0
+2026-07-14,2026-07-20,2026-07-22,Returns / QC,operative,1.0
+2026-07-14,2026-07-20,2026-07-22,Aisle maintenance,operative,1.0
+2026-07-14,2026-07-20,2026-07-22,Control room,admin,2.0
+2026-07-14,2026-07-20,2026-07-22,Outbound office,admin,2.0
+2026-07-14,2026-07-20,2026-07-22,Inbound office,admin,2.0
+2026-07-14,2026-07-20,2026-07-22,Inventory,admin,2.0
+2026-07-14,2026-07-20,2026-07-23,Unloading,operative,2.2
+2026-07-14,2026-07-20,2026-07-23,Receiving,operative,2.6
+2026-07-14,2026-07-20,2026-07-23,Putaway,operative,11.3
+2026-07-14,2026-07-20,2026-07-23,Picking,operative,13.0
+2026-07-14,2026-07-20,2026-07-23,Staging,operative,8.1
+2026-07-14,2026-07-20,2026-07-23,Loading,operative,5.8
+2026-07-14,2026-07-20,2026-07-23,Replenishment / relocation,operative,2.8
+2026-07-14,2026-07-20,2026-07-23,Transit drivers,operative,4.0
+2026-07-14,2026-07-20,2026-07-23,Yard shunting,operative,2.0
+2026-07-14,2026-07-20,2026-07-23,Team leads,operative,4.0
+2026-07-14,2026-07-20,2026-07-23,Pick QA,operative,1.0
+2026-07-14,2026-07-20,2026-07-23,Co-Packing line,operative,4.0
+2026-07-14,2026-07-20,2026-07-23,VNA replenishment,operative,1.0
+2026-07-14,2026-07-20,2026-07-23,Returns / QC,operative,1.0
+2026-07-14,2026-07-20,2026-07-23,Aisle maintenance,operative,1.0
+2026-07-14,2026-07-20,2026-07-23,Control room,admin,2.0
+2026-07-14,2026-07-20,2026-07-23,Outbound office,admin,2.0
+2026-07-14,2026-07-20,2026-07-23,Inbound office,admin,2.0
+2026-07-14,2026-07-20,2026-07-23,Inventory,admin,2.0
+2026-07-14,2026-07-20,2026-07-24,Unloading,operative,2.0
+2026-07-14,2026-07-20,2026-07-24,Receiving,operative,2.4
+2026-07-14,2026-07-20,2026-07-24,Putaway,operative,10.3
+2026-07-14,2026-07-20,2026-07-24,Picking,operative,12.7
+2026-07-14,2026-07-20,2026-07-24,Staging,operative,9.8
+2026-07-14,2026-07-20,2026-07-24,Loading,operative,7.0
+2026-07-14,2026-07-20,2026-07-24,Replenishment / relocation,operative,2.7
+2026-07-14,2026-07-20,2026-07-24,Transit drivers,operative,4.1
+2026-07-14,2026-07-20,2026-07-24,Yard shunting,operative,2.0
+2026-07-14,2026-07-20,2026-07-24,Team leads,operative,4.0
+2026-07-14,2026-07-20,2026-07-24,Pick QA,operative,1.0
+2026-07-14,2026-07-20,2026-07-24,Co-Packing line,operative,4.1
+2026-07-14,2026-07-20,2026-07-24,VNA replenishment,operative,1.0
+2026-07-14,2026-07-20,2026-07-24,Returns / QC,operative,1.0
+2026-07-14,2026-07-20,2026-07-24,Aisle maintenance,operative,1.0
+2026-07-14,2026-07-20,2026-07-24,Control room,admin,2.0
+2026-07-14,2026-07-20,2026-07-24,Outbound office,admin,2.0
+2026-07-14,2026-07-20,2026-07-24,Inbound office,admin,2.0
+2026-07-14,2026-07-20,2026-07-24,Inventory,admin,2.0
+2026-07-21,2026-07-27,2026-07-27,Unloading,operative,2.5
+2026-07-21,2026-07-27,2026-07-27,Receiving,operative,2.9
+2026-07-21,2026-07-27,2026-07-27,Putaway,operative,12.5
+2026-07-21,2026-07-27,2026-07-27,Picking,operative,12.0
+2026-07-21,2026-07-27,2026-07-27,Staging,operative,6.6
+2026-07-21,2026-07-27,2026-07-27,Loading,operative,4.7
+2026-07-21,2026-07-27,2026-07-27,Replenishment / relocation,operative,2.6
+2026-07-21,2026-07-27,2026-07-27,Transit drivers,operative,4.0
+2026-07-21,2026-07-27,2026-07-27,Yard shunting,operative,2.0
+2026-07-21,2026-07-27,2026-07-27,Team leads,operative,4.0
+2026-07-21,2026-07-27,2026-07-27,Pick QA,operative,1.0
+2026-07-21,2026-07-27,2026-07-27,Co-Packing line,operative,4.0
+2026-07-21,2026-07-27,2026-07-27,VNA replenishment,operative,1.0
+2026-07-21,2026-07-27,2026-07-27,Returns / QC,operative,1.0
+2026-07-21,2026-07-27,2026-07-27,Aisle maintenance,operative,1.0
+2026-07-21,2026-07-27,2026-07-27,Control room,admin,2.0
+2026-07-21,2026-07-27,2026-07-27,Outbound office,admin,2.0
+2026-07-21,2026-07-27,2026-07-27,Inbound office,admin,2.0
+2026-07-21,2026-07-27,2026-07-27,Inventory,admin,2.0
+2026-07-21,2026-07-27,2026-07-28,Unloading,operative,2.2
+2026-07-21,2026-07-27,2026-07-28,Receiving,operative,2.6
+2026-07-21,2026-07-27,2026-07-28,Putaway,operative,11.2
+2026-07-21,2026-07-27,2026-07-28,Picking,operative,13.3
+2026-07-21,2026-07-27,2026-07-28,Staging,operative,7.8
+2026-07-21,2026-07-27,2026-07-28,Loading,operative,5.6
+2026-07-21,2026-07-27,2026-07-28,Replenishment / relocation,operative,2.8
+2026-07-21,2026-07-27,2026-07-28,Transit drivers,operative,4.0
+2026-07-21,2026-07-27,2026-07-28,Yard shunting,operative,2.0
+2026-07-21,2026-07-27,2026-07-28,Team leads,operative,4.0
+2026-07-21,2026-07-27,2026-07-28,Pick QA,operative,1.0
+2026-07-21,2026-07-27,2026-07-28,Co-Packing line,operative,4.0
+2026-07-21,2026-07-27,2026-07-28,VNA replenishment,operative,1.0
+2026-07-21,2026-07-27,2026-07-28,Returns / QC,operative,1.0
+2026-07-21,2026-07-27,2026-07-28,Aisle maintenance,operative,1.0
+2026-07-21,2026-07-27,2026-07-28,Control room,admin,2.0
+2026-07-21,2026-07-27,2026-07-28,Outbound office,admin,2.0
+2026-07-21,2026-07-27,2026-07-28,Inbound office,admin,2.0
+2026-07-21,2026-07-27,2026-07-28,Inventory,admin,2.0
+2026-07-21,2026-07-27,2026-07-29,Unloading,operative,2.0
+2026-07-21,2026-07-27,2026-07-29,Receiving,operative,2.3
+2026-07-21,2026-07-27,2026-07-29,Putaway,operative,10.0
+2026-07-21,2026-07-27,2026-07-29,Picking,operative,10.7
+2026-07-21,2026-07-27,2026-07-29,Staging,operative,7.1
+2026-07-21,2026-07-27,2026-07-29,Loading,operative,5.1
+2026-07-21,2026-07-27,2026-07-29,Replenishment / relocation,operative,2.3
+2026-07-21,2026-07-27,2026-07-29,Transit drivers,operative,4.0
+2026-07-21,2026-07-27,2026-07-29,Yard shunting,operative,2.0
+2026-07-21,2026-07-27,2026-07-29,Team leads,operative,4.0
+2026-07-21,2026-07-27,2026-07-29,Pick QA,operative,1.0
+2026-07-21,2026-07-27,2026-07-29,Co-Packing line,operative,4.0
+2026-07-21,2026-07-27,2026-07-29,VNA replenishment,operative,1.0
+2026-07-21,2026-07-27,2026-07-29,Returns / QC,operative,1.0
+2026-07-21,2026-07-27,2026-07-29,Aisle maintenance,operative,1.0
+2026-07-21,2026-07-27,2026-07-29,Control room,admin,2.0
+2026-07-21,2026-07-27,2026-07-29,Outbound office,admin,2.0
+2026-07-21,2026-07-27,2026-07-29,Inbound office,admin,2.0
+2026-07-21,2026-07-27,2026-07-29,Inventory,admin,2.0
+2026-07-21,2026-07-27,2026-07-30,Unloading,operative,2.2
+2026-07-21,2026-07-27,2026-07-30,Receiving,operative,2.6
+2026-07-21,2026-07-27,2026-07-30,Putaway,operative,11.3
+2026-07-21,2026-07-27,2026-07-30,Picking,operative,13.2
+2026-07-21,2026-07-27,2026-07-30,Staging,operative,7.9
+2026-07-21,2026-07-27,2026-07-30,Loading,operative,5.6
+2026-07-21,2026-07-27,2026-07-30,Replenishment / relocation,operative,2.8
+2026-07-21,2026-07-27,2026-07-30,Transit drivers,operative,4.0
+2026-07-21,2026-07-27,2026-07-30,Yard shunting,operative,2.0
+2026-07-21,2026-07-27,2026-07-30,Team leads,operative,4.0
+2026-07-21,2026-07-27,2026-07-30,Pick QA,operative,1.0
+2026-07-21,2026-07-27,2026-07-30,Co-Packing line,operative,4.0
+2026-07-21,2026-07-27,2026-07-30,VNA replenishment,operative,1.0
+2026-07-21,2026-07-27,2026-07-30,Returns / QC,operative,1.0
+2026-07-21,2026-07-27,2026-07-30,Aisle maintenance,operative,1.0
+2026-07-21,2026-07-27,2026-07-30,Control room,admin,2.0
+2026-07-21,2026-07-27,2026-07-30,Outbound office,admin,2.0
+2026-07-21,2026-07-27,2026-07-30,Inbound office,admin,2.0
+2026-07-21,2026-07-27,2026-07-30,Inventory,admin,2.0
+2026-07-21,2026-07-27,2026-07-31,Unloading,operative,2.0
+2026-07-21,2026-07-27,2026-07-31,Receiving,operative,2.4
+2026-07-21,2026-07-27,2026-07-31,Putaway,operative,10.3
+2026-07-21,2026-07-27,2026-07-31,Picking,operative,12.2
+2026-07-21,2026-07-27,2026-07-31,Staging,operative,8.8
+2026-07-21,2026-07-27,2026-07-31,Loading,operative,6.3
+2026-07-21,2026-07-27,2026-07-31,Replenishment / relocation,operative,2.6
+2026-07-21,2026-07-27,2026-07-31,Transit drivers,operative,4.0
+2026-07-21,2026-07-27,2026-07-31,Yard shunting,operative,2.0
+2026-07-21,2026-07-27,2026-07-31,Team leads,operative,4.0
+2026-07-21,2026-07-27,2026-07-31,Pick QA,operative,1.0
+2026-07-21,2026-07-27,2026-07-31,Co-Packing line,operative,4.0
+2026-07-21,2026-07-27,2026-07-31,VNA replenishment,operative,1.0
+2026-07-21,2026-07-27,2026-07-31,Returns / QC,operative,1.0
+2026-07-21,2026-07-27,2026-07-31,Aisle maintenance,operative,1.0
+2026-07-21,2026-07-27,2026-07-31,Control room,admin,2.0
+2026-07-21,2026-07-27,2026-07-31,Outbound office,admin,2.0
+2026-07-21,2026-07-27,2026-07-31,Inbound office,admin,2.0
+2026-07-21,2026-07-27,2026-07-31,Inventory,admin,2.0
+2026-07-28,2026-08-03,2026-08-03,Unloading,operative,2.5
+2026-07-28,2026-08-03,2026-08-03,Receiving,operative,2.9
+2026-07-28,2026-08-03,2026-08-03,Putaway,operative,12.7
+2026-07-28,2026-08-03,2026-08-03,Picking,operative,13.0
+2026-07-28,2026-08-03,2026-08-03,Staging,operative,6.4
+2026-07-28,2026-08-03,2026-08-03,Loading,operative,4.5
+2026-07-28,2026-08-03,2026-08-03,Replenishment / relocation,operative,2.8
+2026-07-28,2026-08-03,2026-08-03,Transit drivers,operative,4.0
+2026-07-28,2026-08-03,2026-08-03,Yard shunting,operative,2.0
+2026-07-28,2026-08-03,2026-08-03,Team leads,operative,4.0
+2026-07-28,2026-08-03,2026-08-03,Pick QA,operative,1.0
+2026-07-28,2026-08-03,2026-08-03,Co-Packing line,operative,4.0
+2026-07-28,2026-08-03,2026-08-03,VNA replenishment,operative,1.0
+2026-07-28,2026-08-03,2026-08-03,Returns / QC,operative,1.0
+2026-07-28,2026-08-03,2026-08-03,Aisle maintenance,operative,1.0
+2026-07-28,2026-08-03,2026-08-03,Control room,admin,2.0
+2026-07-28,2026-08-03,2026-08-03,Outbound office,admin,2.0
+2026-07-28,2026-08-03,2026-08-03,Inbound office,admin,2.0
+2026-07-28,2026-08-03,2026-08-03,Inventory,admin,2.0
+2026-07-28,2026-08-03,2026-08-04,Unloading,operative,2.3
+2026-07-28,2026-08-03,2026-08-04,Receiving,operative,2.7
+2026-07-28,2026-08-03,2026-08-04,Putaway,operative,11.7
+2026-07-28,2026-08-03,2026-08-04,Picking,operative,13.4
+2026-07-28,2026-08-03,2026-08-04,Staging,operative,7.2
+2026-07-28,2026-08-03,2026-08-04,Loading,operative,5.1
+2026-07-28,2026-08-03,2026-08-04,Replenishment / relocation,operative,2.9
+2026-07-28,2026-08-03,2026-08-04,Transit drivers,operative,4.0
+2026-07-28,2026-08-03,2026-08-04,Yard shunting,operative,2.0
+2026-07-28,2026-08-03,2026-08-04,Team leads,operative,4.0
+2026-07-28,2026-08-03,2026-08-04,Pick QA,operative,1.0
+2026-07-28,2026-08-03,2026-08-04,Co-Packing line,operative,4.0
+2026-07-28,2026-08-03,2026-08-04,VNA replenishment,operative,1.0
+2026-07-28,2026-08-03,2026-08-04,Returns / QC,operative,1.0
+2026-07-28,2026-08-03,2026-08-04,Aisle maintenance,operative,1.0
+2026-07-28,2026-08-03,2026-08-04,Control room,admin,2.0
+2026-07-28,2026-08-03,2026-08-04,Outbound office,admin,2.0
+2026-07-28,2026-08-03,2026-08-04,Inbound office,admin,2.0
+2026-07-28,2026-08-03,2026-08-04,Inventory,admin,2.0
+2026-07-28,2026-08-03,2026-08-05,Unloading,operative,1.9
+2026-07-28,2026-08-03,2026-08-05,Receiving,operative,2.2
+2026-07-28,2026-08-03,2026-08-05,Putaway,operative,9.8
+2026-07-28,2026-08-03,2026-08-05,Picking,operative,10.2
+2026-07-28,2026-08-03,2026-08-05,Staging,operative,7.0
+2026-07-28,2026-08-03,2026-08-05,Loading,operative,5.0
+2026-07-28,2026-08-03,2026-08-05,Replenishment / relocation,operative,2.2
+2026-07-28,2026-08-03,2026-08-05,Transit drivers,operative,4.0
+2026-07-28,2026-08-03,2026-08-05,Yard shunting,operative,2.0
+2026-07-28,2026-08-03,2026-08-05,Team leads,operative,4.0
+2026-07-28,2026-08-03,2026-08-05,Pick QA,operative,1.0
+2026-07-28,2026-08-03,2026-08-05,Co-Packing line,operative,4.0
+2026-07-28,2026-08-03,2026-08-05,VNA replenishment,operative,1.0
+2026-07-28,2026-08-03,2026-08-05,Returns / QC,operative,1.0
+2026-07-28,2026-08-03,2026-08-05,Aisle maintenance,operative,1.0
+2026-07-28,2026-08-03,2026-08-05,Control room,admin,2.0
+2026-07-28,2026-08-03,2026-08-05,Outbound office,admin,2.0
+2026-07-28,2026-08-03,2026-08-05,Inbound office,admin,2.0
+2026-07-28,2026-08-03,2026-08-05,Inventory,admin,2.0
+2026-07-28,2026-08-03,2026-08-06,Unloading,operative,2.1
+2026-07-28,2026-08-03,2026-08-06,Receiving,operative,2.4
+2026-07-28,2026-08-03,2026-08-06,Putaway,operative,10.5
+2026-07-28,2026-08-03,2026-08-06,Picking,operative,12.2
+2026-07-28,2026-08-03,2026-08-06,Staging,operative,7.6
+2026-07-28,2026-08-03,2026-08-06,Loading,operative,5.4
+2026-07-28,2026-08-03,2026-08-06,Replenishment / relocation,operative,2.6
+2026-07-28,2026-08-03,2026-08-06,Transit drivers,operative,4.0
+2026-07-28,2026-08-03,2026-08-06,Yard shunting,operative,2.0
+2026-07-28,2026-08-03,2026-08-06,Team leads,operative,4.0
+2026-07-28,2026-08-03,2026-08-06,Pick QA,operative,1.0
+2026-07-28,2026-08-03,2026-08-06,Co-Packing line,operative,4.0
+2026-07-28,2026-08-03,2026-08-06,VNA replenishment,operative,1.0
+2026-07-28,2026-08-03,2026-08-06,Returns / QC,operative,1.0
+2026-07-28,2026-08-03,2026-08-06,Aisle maintenance,operative,1.0
+2026-07-28,2026-08-03,2026-08-06,Control room,admin,2.0
+2026-07-28,2026-08-03,2026-08-06,Outbound office,admin,2.0
+2026-07-28,2026-08-03,2026-08-06,Inbound office,admin,2.0
+2026-07-28,2026-08-03,2026-08-06,Inventory,admin,2.0
+2026-07-28,2026-08-03,2026-08-07,Unloading,operative,2.0
+2026-07-28,2026-08-03,2026-08-07,Receiving,operative,2.3
+2026-07-28,2026-08-03,2026-08-07,Putaway,operative,10.2
+2026-07-28,2026-08-03,2026-08-07,Picking,operative,12.1
+2026-07-28,2026-08-03,2026-08-07,Staging,operative,9.4
+2026-07-28,2026-08-03,2026-08-07,Loading,operative,6.7
+2026-07-28,2026-08-03,2026-08-07,Replenishment / relocation,operative,2.6
+2026-07-28,2026-08-03,2026-08-07,Transit drivers,operative,4.1
+2026-07-28,2026-08-03,2026-08-07,Yard shunting,operative,2.0
+2026-07-28,2026-08-03,2026-08-07,Team leads,operative,4.0
+2026-07-28,2026-08-03,2026-08-07,Pick QA,operative,1.0
+2026-07-28,2026-08-03,2026-08-07,Co-Packing line,operative,4.1
+2026-07-28,2026-08-03,2026-08-07,VNA replenishment,operative,1.0
+2026-07-28,2026-08-03,2026-08-07,Returns / QC,operative,1.0
+2026-07-28,2026-08-03,2026-08-07,Aisle maintenance,operative,1.0
+2026-07-28,2026-08-03,2026-08-07,Control room,admin,2.0
+2026-07-28,2026-08-03,2026-08-07,Outbound office,admin,2.0
+2026-07-28,2026-08-03,2026-08-07,Inbound office,admin,2.0
+2026-07-28,2026-08-03,2026-08-07,Inventory,admin,2.0
+2026-08-04,2026-08-10,2026-08-10,Unloading,operative,2.5
+2026-08-04,2026-08-10,2026-08-10,Receiving,operative,2.9
+2026-08-04,2026-08-10,2026-08-10,Putaway,operative,12.5
+2026-08-04,2026-08-10,2026-08-10,Picking,operative,11.9
+2026-08-04,2026-08-10,2026-08-10,Staging,operative,6.2
+2026-08-04,2026-08-10,2026-08-10,Loading,operative,4.4
+2026-08-04,2026-08-10,2026-08-10,Replenishment / relocation,operative,2.5
+2026-08-04,2026-08-10,2026-08-10,Transit drivers,operative,4.0
+2026-08-04,2026-08-10,2026-08-10,Yard shunting,operative,2.0
+2026-08-04,2026-08-10,2026-08-10,Team leads,operative,4.0
+2026-08-04,2026-08-10,2026-08-10,Pick QA,operative,1.0
+2026-08-04,2026-08-10,2026-08-10,Co-Packing line,operative,4.0
+2026-08-04,2026-08-10,2026-08-10,VNA replenishment,operative,1.0
+2026-08-04,2026-08-10,2026-08-10,Returns / QC,operative,1.0
+2026-08-04,2026-08-10,2026-08-10,Aisle maintenance,operative,1.0
+2026-08-04,2026-08-10,2026-08-10,Control room,admin,2.0
+2026-08-04,2026-08-10,2026-08-10,Outbound office,admin,2.0
+2026-08-04,2026-08-10,2026-08-10,Inbound office,admin,2.0
+2026-08-04,2026-08-10,2026-08-10,Inventory,admin,2.0
+2026-08-04,2026-08-10,2026-08-11,Unloading,operative,2.3
+2026-08-04,2026-08-10,2026-08-11,Receiving,operative,2.6
+2026-08-04,2026-08-10,2026-08-11,Putaway,operative,11.4
+2026-08-04,2026-08-10,2026-08-11,Picking,operative,13.6
+2026-08-04,2026-08-10,2026-08-11,Staging,operative,7.5
+2026-08-04,2026-08-10,2026-08-11,Loading,operative,5.3
+2026-08-04,2026-08-10,2026-08-11,Replenishment / relocation,operative,2.9
+2026-08-04,2026-08-10,2026-08-11,Transit drivers,operative,4.0
+2026-08-04,2026-08-10,2026-08-11,Yard shunting,operative,2.0
+2026-08-04,2026-08-10,2026-08-11,Team leads,operative,4.0
+2026-08-04,2026-08-10,2026-08-11,Pick QA,operative,1.0
+2026-08-04,2026-08-10,2026-08-11,Co-Packing line,operative,4.0
+2026-08-04,2026-08-10,2026-08-11,VNA replenishment,operative,1.0
+2026-08-04,2026-08-10,2026-08-11,Returns / QC,operative,1.0
+2026-08-04,2026-08-10,2026-08-11,Aisle maintenance,operative,1.0
+2026-08-04,2026-08-10,2026-08-11,Control room,admin,2.0
+2026-08-04,2026-08-10,2026-08-11,Outbound office,admin,2.0
+2026-08-04,2026-08-10,2026-08-11,Inbound office,admin,2.0
+2026-08-04,2026-08-10,2026-08-11,Inventory,admin,2.0
+2026-08-04,2026-08-10,2026-08-12,Unloading,operative,1.9
+2026-08-04,2026-08-10,2026-08-12,Receiving,operative,2.2
+2026-08-04,2026-08-10,2026-08-12,Putaway,operative,9.8
+2026-08-04,2026-08-10,2026-08-12,Picking,operative,10.7
+2026-08-04,2026-08-10,2026-08-12,Staging,operative,7.1
+2026-08-04,2026-08-10,2026-08-12,Loading,operative,5.1
+2026-08-04,2026-08-10,2026-08-12,Replenishment / relocation,operative,2.3
+2026-08-04,2026-08-10,2026-08-12,Transit drivers,operative,4.0
+2026-08-04,2026-08-10,2026-08-12,Yard shunting,operative,2.0
+2026-08-04,2026-08-10,2026-08-12,Team leads,operative,4.0
+2026-08-04,2026-08-10,2026-08-12,Pick QA,operative,1.0
+2026-08-04,2026-08-10,2026-08-12,Co-Packing line,operative,4.0
+2026-08-04,2026-08-10,2026-08-12,VNA replenishment,operative,1.0
+2026-08-04,2026-08-10,2026-08-12,Returns / QC,operative,1.0
+2026-08-04,2026-08-10,2026-08-12,Aisle maintenance,operative,1.0
+2026-08-04,2026-08-10,2026-08-12,Control room,admin,2.0
+2026-08-04,2026-08-10,2026-08-12,Outbound office,admin,2.0
+2026-08-04,2026-08-10,2026-08-12,Inbound office,admin,2.0
+2026-08-04,2026-08-10,2026-08-12,Inventory,admin,2.0
+2026-08-04,2026-08-10,2026-08-13,Unloading,operative,2.2
+2026-08-04,2026-08-10,2026-08-13,Receiving,operative,2.5
+2026-08-04,2026-08-10,2026-08-13,Putaway,operative,11.1
+2026-08-04,2026-08-10,2026-08-13,Picking,operative,13.3
+2026-08-04,2026-08-10,2026-08-13,Staging,operative,8.3
+2026-08-04,2026-08-10,2026-08-13,Loading,operative,5.9
+2026-08-04,2026-08-10,2026-08-13,Replenishment / relocation,operative,2.8
+2026-08-04,2026-08-10,2026-08-13,Transit drivers,operative,4.0
+2026-08-04,2026-08-10,2026-08-13,Yard shunting,operative,2.0
+2026-08-04,2026-08-10,2026-08-13,Team leads,operative,4.0
+2026-08-04,2026-08-10,2026-08-13,Pick QA,operative,1.0
+2026-08-04,2026-08-10,2026-08-13,Co-Packing line,operative,4.0
+2026-08-04,2026-08-10,2026-08-13,VNA replenishment,operative,1.0
+2026-08-04,2026-08-10,2026-08-13,Returns / QC,operative,1.0
+2026-08-04,2026-08-10,2026-08-13,Aisle maintenance,operative,1.0
+2026-08-04,2026-08-10,2026-08-13,Control room,admin,2.0
+2026-08-04,2026-08-10,2026-08-13,Outbound office,admin,2.0
+2026-08-04,2026-08-10,2026-08-13,Inbound office,admin,2.0
+2026-08-04,2026-08-10,2026-08-13,Inventory,admin,2.0
+2026-08-04,2026-08-10,2026-08-14,Unloading,operative,2.0
+2026-08-04,2026-08-10,2026-08-14,Receiving,operative,2.3
+2026-08-04,2026-08-10,2026-08-14,Putaway,operative,10.1
+2026-08-04,2026-08-10,2026-08-14,Picking,operative,12.5
+2026-08-04,2026-08-10,2026-08-14,Staging,operative,9.5
+2026-08-04,2026-08-10,2026-08-14,Loading,operative,6.8
+2026-08-04,2026-08-10,2026-08-14,Replenishment / relocation,operative,2.6
+2026-08-04,2026-08-10,2026-08-14,Transit drivers,operative,4.1
+2026-08-04,2026-08-10,2026-08-14,Yard shunting,operative,2.0
+2026-08-04,2026-08-10,2026-08-14,Team leads,operative,4.0
+2026-08-04,2026-08-10,2026-08-14,Pick QA,operative,1.0
+2026-08-04,2026-08-10,2026-08-14,Co-Packing line,operative,4.1
+2026-08-04,2026-08-10,2026-08-14,VNA replenishment,operative,1.0
+2026-08-04,2026-08-10,2026-08-14,Returns / QC,operative,1.0
+2026-08-04,2026-08-10,2026-08-14,Aisle maintenance,operative,1.0
+2026-08-04,2026-08-10,2026-08-14,Control room,admin,2.0
+2026-08-04,2026-08-10,2026-08-14,Outbound office,admin,2.0
+2026-08-04,2026-08-10,2026-08-14,Inbound office,admin,2.0
+2026-08-04,2026-08-10,2026-08-14,Inventory,admin,2.0
+2026-08-11,2026-08-17,2026-08-17,Unloading,operative,2.7
+2026-08-11,2026-08-17,2026-08-17,Receiving,operative,3.1
+2026-08-11,2026-08-17,2026-08-17,Putaway,operative,13.8
+2026-08-11,2026-08-17,2026-08-17,Picking,operative,13.2
+2026-08-11,2026-08-17,2026-08-17,Staging,operative,6.8
+2026-08-11,2026-08-17,2026-08-17,Loading,operative,4.8
+2026-08-11,2026-08-17,2026-08-17,Replenishment / relocation,operative,2.8
+2026-08-11,2026-08-17,2026-08-17,Transit drivers,operative,4.0
+2026-08-11,2026-08-17,2026-08-17,Yard shunting,operative,2.0
+2026-08-11,2026-08-17,2026-08-17,Team leads,operative,4.0
+2026-08-11,2026-08-17,2026-08-17,Pick QA,operative,1.0
+2026-08-11,2026-08-17,2026-08-17,Co-Packing line,operative,4.0
+2026-08-11,2026-08-17,2026-08-17,VNA replenishment,operative,1.0
+2026-08-11,2026-08-17,2026-08-17,Returns / QC,operative,1.0
+2026-08-11,2026-08-17,2026-08-17,Aisle maintenance,operative,1.0
+2026-08-11,2026-08-17,2026-08-17,Control room,admin,2.0
+2026-08-11,2026-08-17,2026-08-17,Outbound office,admin,2.0
+2026-08-11,2026-08-17,2026-08-17,Inbound office,admin,2.0
+2026-08-11,2026-08-17,2026-08-17,Inventory,admin,2.0
+2026-08-11,2026-08-17,2026-08-18,Unloading,operative,2.3
+2026-08-11,2026-08-17,2026-08-18,Receiving,operative,2.7
+2026-08-11,2026-08-17,2026-08-18,Putaway,operative,11.9
+2026-08-11,2026-08-17,2026-08-18,Picking,operative,14.5
+2026-08-11,2026-08-17,2026-08-18,Staging,operative,8.1
+2026-08-11,2026-08-17,2026-08-18,Loading,operative,5.8
+2026-08-11,2026-08-17,2026-08-18,Replenishment / relocation,operative,3.1
+2026-08-11,2026-08-17,2026-08-18,Transit drivers,operative,4.0
+2026-08-11,2026-08-17,2026-08-18,Yard shunting,operative,2.0
+2026-08-11,2026-08-17,2026-08-18,Team leads,operative,4.0
+2026-08-11,2026-08-17,2026-08-18,Pick QA,operative,1.0
+2026-08-11,2026-08-17,2026-08-18,Co-Packing line,operative,4.0
+2026-08-11,2026-08-17,2026-08-18,VNA replenishment,operative,1.0
+2026-08-11,2026-08-17,2026-08-18,Returns / QC,operative,1.0
+2026-08-11,2026-08-17,2026-08-18,Aisle maintenance,operative,1.0
+2026-08-11,2026-08-17,2026-08-18,Control room,admin,2.0
+2026-08-11,2026-08-17,2026-08-18,Outbound office,admin,2.0
+2026-08-11,2026-08-17,2026-08-18,Inbound office,admin,2.0
+2026-08-11,2026-08-17,2026-08-18,Inventory,admin,2.0
+2026-08-11,2026-08-17,2026-08-19,Unloading,operative,2.1
+2026-08-11,2026-08-17,2026-08-19,Receiving,operative,2.4
+2026-08-11,2026-08-17,2026-08-19,Putaway,operative,10.5
+2026-08-11,2026-08-17,2026-08-19,Picking,operative,10.7
+2026-08-11,2026-08-17,2026-08-19,Staging,operative,7.7
+2026-08-11,2026-08-17,2026-08-19,Loading,operative,5.5
+2026-08-11,2026-08-17,2026-08-19,Replenishment / relocation,operative,2.3
+2026-08-11,2026-08-17,2026-08-19,Transit drivers,operative,4.0
+2026-08-11,2026-08-17,2026-08-19,Yard shunting,operative,2.0
+2026-08-11,2026-08-17,2026-08-19,Team leads,operative,4.0
+2026-08-11,2026-08-17,2026-08-19,Pick QA,operative,1.0
+2026-08-11,2026-08-17,2026-08-19,Co-Packing line,operative,4.0
+2026-08-11,2026-08-17,2026-08-19,VNA replenishment,operative,1.0
+2026-08-11,2026-08-17,2026-08-19,Returns / QC,operative,1.0
+2026-08-11,2026-08-17,2026-08-19,Aisle maintenance,operative,1.0
+2026-08-11,2026-08-17,2026-08-19,Control room,admin,2.0
+2026-08-11,2026-08-17,2026-08-19,Outbound office,admin,2.0
+2026-08-11,2026-08-17,2026-08-19,Inbound office,admin,2.0
+2026-08-11,2026-08-17,2026-08-19,Inventory,admin,2.0
+2026-08-11,2026-08-17,2026-08-20,Unloading,operative,2.3
+2026-08-11,2026-08-17,2026-08-20,Receiving,operative,2.7
+2026-08-11,2026-08-17,2026-08-20,Putaway,operative,11.7
+2026-08-11,2026-08-17,2026-08-20,Picking,operative,13.4
+2026-08-11,2026-08-17,2026-08-20,Staging,operative,8.0
+2026-08-11,2026-08-17,2026-08-20,Loading,operative,5.7
+2026-08-11,2026-08-17,2026-08-20,Replenishment / relocation,operative,2.8
+2026-08-11,2026-08-17,2026-08-20,Transit drivers,operative,4.0
+2026-08-11,2026-08-17,2026-08-20,Yard shunting,operative,2.0
+2026-08-11,2026-08-17,2026-08-20,Team leads,operative,4.0
+2026-08-11,2026-08-17,2026-08-20,Pick QA,operative,1.0
+2026-08-11,2026-08-17,2026-08-20,Co-Packing line,operative,4.0
+2026-08-11,2026-08-17,2026-08-20,VNA replenishment,operative,1.0
+2026-08-11,2026-08-17,2026-08-20,Returns / QC,operative,1.0
+2026-08-11,2026-08-17,2026-08-20,Aisle maintenance,operative,1.0
+2026-08-11,2026-08-17,2026-08-20,Control room,admin,2.0
+2026-08-11,2026-08-17,2026-08-20,Outbound office,admin,2.0
+2026-08-11,2026-08-17,2026-08-20,Inbound office,admin,2.0
+2026-08-11,2026-08-17,2026-08-20,Inventory,admin,2.0
+2026-08-11,2026-08-17,2026-08-21,Unloading,operative,2.0
+2026-08-11,2026-08-17,2026-08-21,Receiving,operative,2.4
+2026-08-11,2026-08-17,2026-08-21,Putaway,operative,10.4
+2026-08-11,2026-08-17,2026-08-21,Picking,operative,13.1
+2026-08-11,2026-08-17,2026-08-21,Staging,operative,9.8
+2026-08-11,2026-08-17,2026-08-21,Loading,operative,7.0
+2026-08-11,2026-08-17,2026-08-21,Replenishment / relocation,operative,2.8
+2026-08-11,2026-08-17,2026-08-21,Transit drivers,operative,4.1
+2026-08-11,2026-08-17,2026-08-21,Yard shunting,operative,2.0
+2026-08-11,2026-08-17,2026-08-21,Team leads,operative,4.0
+2026-08-11,2026-08-17,2026-08-21,Pick QA,operative,1.0
+2026-08-11,2026-08-17,2026-08-21,Co-Packing line,operative,4.1
+2026-08-11,2026-08-17,2026-08-21,VNA replenishment,operative,1.0
+2026-08-11,2026-08-17,2026-08-21,Returns / QC,operative,1.0
+2026-08-11,2026-08-17,2026-08-21,Aisle maintenance,operative,1.0
+2026-08-11,2026-08-17,2026-08-21,Control room,admin,2.0
+2026-08-11,2026-08-17,2026-08-21,Outbound office,admin,2.0
+2026-08-11,2026-08-17,2026-08-21,Inbound office,admin,2.0
+2026-08-11,2026-08-17,2026-08-21,Inventory,admin,2.0
+2026-08-18,2026-08-24,2026-08-24,Unloading,operative,2.6
+2026-08-18,2026-08-24,2026-08-24,Receiving,operative,3.0
+2026-08-18,2026-08-24,2026-08-24,Putaway,operative,13.1
+2026-08-18,2026-08-24,2026-08-24,Picking,operative,13.0
+2026-08-18,2026-08-24,2026-08-24,Staging,operative,7.0
+2026-08-18,2026-08-24,2026-08-24,Loading,operative,5.0
+2026-08-18,2026-08-24,2026-08-24,Replenishment / relocation,operative,2.8
+2026-08-18,2026-08-24,2026-08-24,Transit drivers,operative,4.0
+2026-08-18,2026-08-24,2026-08-24,Yard shunting,operative,2.0
+2026-08-18,2026-08-24,2026-08-24,Team leads,operative,4.0
+2026-08-18,2026-08-24,2026-08-24,Pick QA,operative,1.0
+2026-08-18,2026-08-24,2026-08-24,Co-Packing line,operative,4.0
+2026-08-18,2026-08-24,2026-08-24,VNA replenishment,operative,1.0
+2026-08-18,2026-08-24,2026-08-24,Returns / QC,operative,1.0
+2026-08-18,2026-08-24,2026-08-24,Aisle maintenance,operative,1.0
+2026-08-18,2026-08-24,2026-08-24,Control room,admin,2.0
+2026-08-18,2026-08-24,2026-08-24,Outbound office,admin,2.0
+2026-08-18,2026-08-24,2026-08-24,Inbound office,admin,2.0
+2026-08-18,2026-08-24,2026-08-24,Inventory,admin,2.0
+2026-08-18,2026-08-24,2026-08-25,Unloading,operative,2.5
+2026-08-18,2026-08-24,2026-08-25,Receiving,operative,2.9
+2026-08-18,2026-08-24,2026-08-25,Putaway,operative,12.7
+2026-08-18,2026-08-24,2026-08-25,Picking,operative,13.4
+2026-08-18,2026-08-24,2026-08-25,Staging,operative,7.7
+2026-08-18,2026-08-24,2026-08-25,Loading,operative,5.5
+2026-08-18,2026-08-24,2026-08-25,Replenishment / relocation,operative,2.8
+2026-08-18,2026-08-24,2026-08-25,Transit drivers,operative,4.0
+2026-08-18,2026-08-24,2026-08-25,Yard shunting,operative,2.0
+2026-08-18,2026-08-24,2026-08-25,Team leads,operative,4.0
+2026-08-18,2026-08-24,2026-08-25,Pick QA,operative,1.0
+2026-08-18,2026-08-24,2026-08-25,Co-Packing line,operative,4.0
+2026-08-18,2026-08-24,2026-08-25,VNA replenishment,operative,1.0
+2026-08-18,2026-08-24,2026-08-25,Returns / QC,operative,1.0
+2026-08-18,2026-08-24,2026-08-25,Aisle maintenance,operative,1.0
+2026-08-18,2026-08-24,2026-08-25,Control room,admin,2.0
+2026-08-18,2026-08-24,2026-08-25,Outbound office,admin,2.0
+2026-08-18,2026-08-24,2026-08-25,Inbound office,admin,2.0
+2026-08-18,2026-08-24,2026-08-25,Inventory,admin,2.0
+2026-08-18,2026-08-24,2026-08-26,Unloading,operative,1.9
+2026-08-18,2026-08-24,2026-08-26,Receiving,operative,2.3
+2026-08-18,2026-08-24,2026-08-26,Putaway,operative,9.9
+2026-08-18,2026-08-24,2026-08-26,Picking,operative,11.3
+2026-08-18,2026-08-24,2026-08-26,Staging,operative,8.1
+2026-08-18,2026-08-24,2026-08-26,Loading,operative,5.8
+2026-08-18,2026-08-24,2026-08-26,Replenishment / relocation,operative,2.4
+2026-08-18,2026-08-24,2026-08-26,Transit drivers,operative,4.0
+2026-08-18,2026-08-24,2026-08-26,Yard shunting,operative,2.0
+2026-08-18,2026-08-24,2026-08-26,Team leads,operative,4.0
+2026-08-18,2026-08-24,2026-08-26,Pick QA,operative,1.0
+2026-08-18,2026-08-24,2026-08-26,Co-Packing line,operative,4.0
+2026-08-18,2026-08-24,2026-08-26,VNA replenishment,operative,1.0
+2026-08-18,2026-08-24,2026-08-26,Returns / QC,operative,1.0
+2026-08-18,2026-08-24,2026-08-26,Aisle maintenance,operative,1.0
+2026-08-18,2026-08-24,2026-08-26,Control room,admin,2.0
+2026-08-18,2026-08-24,2026-08-26,Outbound office,admin,2.0
+2026-08-18,2026-08-24,2026-08-26,Inbound office,admin,2.0
+2026-08-18,2026-08-24,2026-08-26,Inventory,admin,2.0
+2026-08-18,2026-08-24,2026-08-27,Unloading,operative,2.3
+2026-08-18,2026-08-24,2026-08-27,Receiving,operative,2.6
+2026-08-18,2026-08-24,2026-08-27,Putaway,operative,11.5
+2026-08-18,2026-08-24,2026-08-27,Picking,operative,14.4
+2026-08-18,2026-08-24,2026-08-27,Staging,operative,8.4
+2026-08-18,2026-08-24,2026-08-27,Loading,operative,6.0
+2026-08-18,2026-08-24,2026-08-27,Replenishment / relocation,operative,3.0
+2026-08-18,2026-08-24,2026-08-27,Transit drivers,operative,4.0
+2026-08-18,2026-08-24,2026-08-27,Yard shunting,operative,2.0
+2026-08-18,2026-08-24,2026-08-27,Team leads,operative,4.0
+2026-08-18,2026-08-24,2026-08-27,Pick QA,operative,1.0
+2026-08-18,2026-08-24,2026-08-27,Co-Packing line,operative,4.0
+2026-08-18,2026-08-24,2026-08-27,VNA replenishment,operative,1.0
+2026-08-18,2026-08-24,2026-08-27,Returns / QC,operative,1.0
+2026-08-18,2026-08-24,2026-08-27,Aisle maintenance,operative,1.0
+2026-08-18,2026-08-24,2026-08-27,Control room,admin,2.0
+2026-08-18,2026-08-24,2026-08-27,Outbound office,admin,2.0
+2026-08-18,2026-08-24,2026-08-27,Inbound office,admin,2.0
+2026-08-18,2026-08-24,2026-08-27,Inventory,admin,2.0
+2026-08-18,2026-08-24,2026-08-28,Unloading,operative,2.0
+2026-08-18,2026-08-24,2026-08-28,Receiving,operative,2.4
+2026-08-18,2026-08-24,2026-08-28,Putaway,operative,10.3
+2026-08-18,2026-08-24,2026-08-28,Picking,operative,12.8
+2026-08-18,2026-08-24,2026-08-28,Staging,operative,9.8
+2026-08-18,2026-08-24,2026-08-28,Loading,operative,7.0
+2026-08-18,2026-08-24,2026-08-28,Replenishment / relocation,operative,2.7
+2026-08-18,2026-08-24,2026-08-28,Transit drivers,operative,4.1
+2026-08-18,2026-08-24,2026-08-28,Yard shunting,operative,2.0
+2026-08-18,2026-08-24,2026-08-28,Team leads,operative,4.0
+2026-08-18,2026-08-24,2026-08-28,Pick QA,operative,1.0
+2026-08-18,2026-08-24,2026-08-28,Co-Packing line,operative,4.1
+2026-08-18,2026-08-24,2026-08-28,VNA replenishment,operative,1.0
+2026-08-18,2026-08-24,2026-08-28,Returns / QC,operative,1.0
+2026-08-18,2026-08-24,2026-08-28,Aisle maintenance,operative,1.0
+2026-08-18,2026-08-24,2026-08-28,Control room,admin,2.0
+2026-08-18,2026-08-24,2026-08-28,Outbound office,admin,2.0
+2026-08-18,2026-08-24,2026-08-28,Inbound office,admin,2.0
+2026-08-18,2026-08-24,2026-08-28,Inventory,admin,2.0
+2026-08-25,2026-08-31,2026-08-31,Unloading,operative,2.5
+2026-08-25,2026-08-31,2026-08-31,Receiving,operative,3.0
+2026-08-25,2026-08-31,2026-08-31,Putaway,operative,12.9
+2026-08-25,2026-08-31,2026-08-31,Picking,operative,13.1
+2026-08-25,2026-08-31,2026-08-31,Staging,operative,6.9
+2026-08-25,2026-08-31,2026-08-31,Loading,operative,5.0
+2026-08-25,2026-08-31,2026-08-31,Replenishment / relocation,operative,2.8
+2026-08-25,2026-08-31,2026-08-31,Transit drivers,operative,4.0
+2026-08-25,2026-08-31,2026-08-31,Yard shunting,operative,2.0
+2026-08-25,2026-08-31,2026-08-31,Team leads,operative,4.0
+2026-08-25,2026-08-31,2026-08-31,Pick QA,operative,1.0
+2026-08-25,2026-08-31,2026-08-31,Co-Packing line,operative,4.0
+2026-08-25,2026-08-31,2026-08-31,VNA replenishment,operative,1.0
+2026-08-25,2026-08-31,2026-08-31,Returns / QC,operative,1.0
+2026-08-25,2026-08-31,2026-08-31,Aisle maintenance,operative,1.0
+2026-08-25,2026-08-31,2026-08-31,Control room,admin,2.0
+2026-08-25,2026-08-31,2026-08-31,Outbound office,admin,2.0
+2026-08-25,2026-08-31,2026-08-31,Inbound office,admin,2.0
+2026-08-25,2026-08-31,2026-08-31,Inventory,admin,2.0
+2026-08-25,2026-08-31,2026-09-01,Unloading,operative,2.4
+2026-08-25,2026-08-31,2026-09-01,Receiving,operative,2.8
+2026-08-25,2026-08-31,2026-09-01,Putaway,operative,12.3
+2026-08-25,2026-08-31,2026-09-01,Picking,operative,13.5
+2026-08-25,2026-08-31,2026-09-01,Staging,operative,8.3
+2026-08-25,2026-08-31,2026-09-01,Loading,operative,5.9
+2026-08-25,2026-08-31,2026-09-01,Replenishment / relocation,operative,2.9
+2026-08-25,2026-08-31,2026-09-01,Transit drivers,operative,4.0
+2026-08-25,2026-08-31,2026-09-01,Yard shunting,operative,2.0
+2026-08-25,2026-08-31,2026-09-01,Team leads,operative,4.0
+2026-08-25,2026-08-31,2026-09-01,Pick QA,operative,1.0
+2026-08-25,2026-08-31,2026-09-01,Co-Packing line,operative,4.0
+2026-08-25,2026-08-31,2026-09-01,VNA replenishment,operative,1.0
+2026-08-25,2026-08-31,2026-09-01,Returns / QC,operative,1.0
+2026-08-25,2026-08-31,2026-09-01,Aisle maintenance,operative,1.0
+2026-08-25,2026-08-31,2026-09-01,Control room,admin,2.0
+2026-08-25,2026-08-31,2026-09-01,Outbound office,admin,2.0
+2026-08-25,2026-08-31,2026-09-01,Inbound office,admin,2.0
+2026-08-25,2026-08-31,2026-09-01,Inventory,admin,2.0
+2026-08-25,2026-08-31,2026-09-02,Unloading,operative,2.0
+2026-08-25,2026-08-31,2026-09-02,Receiving,operative,2.3
+2026-08-25,2026-08-31,2026-09-02,Putaway,operative,10.2
+2026-08-25,2026-08-31,2026-09-02,Picking,operative,10.5
+2026-08-25,2026-08-31,2026-09-02,Staging,operative,8.0
+2026-08-25,2026-08-31,2026-09-02,Loading,operative,5.7
+2026-08-25,2026-08-31,2026-09-02,Replenishment / relocation,operative,2.2
+2026-08-25,2026-08-31,2026-09-02,Transit drivers,operative,4.0
+2026-08-25,2026-08-31,2026-09-02,Yard shunting,operative,2.0
+2026-08-25,2026-08-31,2026-09-02,Team leads,operative,4.0
+2026-08-25,2026-08-31,2026-09-02,Pick QA,operative,1.0
+2026-08-25,2026-08-31,2026-09-02,Co-Packing line,operative,4.0
+2026-08-25,2026-08-31,2026-09-02,VNA replenishment,operative,1.0
+2026-08-25,2026-08-31,2026-09-02,Returns / QC,operative,1.0
+2026-08-25,2026-08-31,2026-09-02,Aisle maintenance,operative,1.0
+2026-08-25,2026-08-31,2026-09-02,Control room,admin,2.0
+2026-08-25,2026-08-31,2026-09-02,Outbound office,admin,2.0
+2026-08-25,2026-08-31,2026-09-02,Inbound office,admin,2.0
+2026-08-25,2026-08-31,2026-09-02,Inventory,admin,2.0
+2026-08-25,2026-08-31,2026-09-03,Unloading,operative,2.3
+2026-08-25,2026-08-31,2026-09-03,Receiving,operative,2.7
+2026-08-25,2026-08-31,2026-09-03,Putaway,operative,11.6
+2026-08-25,2026-08-31,2026-09-03,Picking,operative,13.2
+2026-08-25,2026-08-31,2026-09-03,Staging,operative,8.6
+2026-08-25,2026-08-31,2026-09-03,Loading,operative,6.1
+2026-08-25,2026-08-31,2026-09-03,Replenishment / relocation,operative,2.8
+2026-08-25,2026-08-31,2026-09-03,Transit drivers,operative,4.0
+2026-08-25,2026-08-31,2026-09-03,Yard shunting,operative,2.0
+2026-08-25,2026-08-31,2026-09-03,Team leads,operative,4.0
+2026-08-25,2026-08-31,2026-09-03,Pick QA,operative,1.0
+2026-08-25,2026-08-31,2026-09-03,Co-Packing line,operative,4.0
+2026-08-25,2026-08-31,2026-09-03,VNA replenishment,operative,1.0
+2026-08-25,2026-08-31,2026-09-03,Returns / QC,operative,1.0
+2026-08-25,2026-08-31,2026-09-03,Aisle maintenance,operative,1.0
+2026-08-25,2026-08-31,2026-09-03,Control room,admin,2.0
+2026-08-25,2026-08-31,2026-09-03,Outbound office,admin,2.0
+2026-08-25,2026-08-31,2026-09-03,Inbound office,admin,2.0
+2026-08-25,2026-08-31,2026-09-03,Inventory,admin,2.0
+2026-08-25,2026-08-31,2026-09-04,Unloading,operative,2.0
+2026-08-25,2026-08-31,2026-09-04,Receiving,operative,2.3
+2026-08-25,2026-08-31,2026-09-04,Putaway,operative,10.0
+2026-08-25,2026-08-31,2026-09-04,Picking,operative,12.8
+2026-08-25,2026-08-31,2026-09-04,Staging,operative,9.9
+2026-08-25,2026-08-31,2026-09-04,Loading,operative,7.1
+2026-08-25,2026-08-31,2026-09-04,Replenishment / relocation,operative,2.7
+2026-08-25,2026-08-31,2026-09-04,Transit drivers,operative,4.1
+2026-08-25,2026-08-31,2026-09-04,Yard shunting,operative,2.0
+2026-08-25,2026-08-31,2026-09-04,Team leads,operative,4.0
+2026-08-25,2026-08-31,2026-09-04,Pick QA,operative,1.0
+2026-08-25,2026-08-31,2026-09-04,Co-Packing line,operative,4.1
+2026-08-25,2026-08-31,2026-09-04,VNA replenishment,operative,1.0
+2026-08-25,2026-08-31,2026-09-04,Returns / QC,operative,1.0
+2026-08-25,2026-08-31,2026-09-04,Aisle maintenance,operative,1.0
+2026-08-25,2026-08-31,2026-09-04,Control room,admin,2.0
+2026-08-25,2026-08-31,2026-09-04,Outbound office,admin,2.0
+2026-08-25,2026-08-31,2026-09-04,Inbound office,admin,2.0
+2026-08-25,2026-08-31,2026-09-04,Inventory,admin,2.0
+2026-09-01,2026-09-07,2026-09-07,Unloading,operative,2.7
+2026-09-01,2026-09-07,2026-09-07,Receiving,operative,3.1
+2026-09-01,2026-09-07,2026-09-07,Putaway,operative,13.7
+2026-09-01,2026-09-07,2026-09-07,Picking,operative,13.3
+2026-09-01,2026-09-07,2026-09-07,Staging,operative,6.8
+2026-09-01,2026-09-07,2026-09-07,Loading,operative,4.9
+2026-09-01,2026-09-07,2026-09-07,Replenishment / relocation,operative,2.8
+2026-09-01,2026-09-07,2026-09-07,Transit drivers,operative,4.0
+2026-09-01,2026-09-07,2026-09-07,Yard shunting,operative,2.0
+2026-09-01,2026-09-07,2026-09-07,Team leads,operative,4.0
+2026-09-01,2026-09-07,2026-09-07,Pick QA,operative,1.0
+2026-09-01,2026-09-07,2026-09-07,Co-Packing line,operative,4.0
+2026-09-01,2026-09-07,2026-09-07,VNA replenishment,operative,1.0
+2026-09-01,2026-09-07,2026-09-07,Returns / QC,operative,1.0
+2026-09-01,2026-09-07,2026-09-07,Aisle maintenance,operative,1.0
+2026-09-01,2026-09-07,2026-09-07,Control room,admin,2.0
+2026-09-01,2026-09-07,2026-09-07,Outbound office,admin,2.0
+2026-09-01,2026-09-07,2026-09-07,Inbound office,admin,2.0
+2026-09-01,2026-09-07,2026-09-07,Inventory,admin,2.0
+2026-09-01,2026-09-07,2026-09-08,Unloading,operative,2.4
+2026-09-01,2026-09-07,2026-09-08,Receiving,operative,2.8
+2026-09-01,2026-09-07,2026-09-08,Putaway,operative,12.1
+2026-09-01,2026-09-07,2026-09-08,Picking,operative,14.7
+2026-09-01,2026-09-07,2026-09-08,Staging,operative,8.0
+2026-09-01,2026-09-07,2026-09-08,Loading,operative,5.7
+2026-09-01,2026-09-07,2026-09-08,Replenishment / relocation,operative,3.1
+2026-09-01,2026-09-07,2026-09-08,Transit drivers,operative,4.0
+2026-09-01,2026-09-07,2026-09-08,Yard shunting,operative,2.0
+2026-09-01,2026-09-07,2026-09-08,Team leads,operative,4.0
+2026-09-01,2026-09-07,2026-09-08,Pick QA,operative,1.0
+2026-09-01,2026-09-07,2026-09-08,Co-Packing line,operative,4.0
+2026-09-01,2026-09-07,2026-09-08,VNA replenishment,operative,1.0
+2026-09-01,2026-09-07,2026-09-08,Returns / QC,operative,1.0
+2026-09-01,2026-09-07,2026-09-08,Aisle maintenance,operative,1.0
+2026-09-01,2026-09-07,2026-09-08,Control room,admin,2.0
+2026-09-01,2026-09-07,2026-09-08,Outbound office,admin,2.0
+2026-09-01,2026-09-07,2026-09-08,Inbound office,admin,2.0
+2026-09-01,2026-09-07,2026-09-08,Inventory,admin,2.0
+2026-09-01,2026-09-07,2026-09-09,Unloading,operative,2.0
+2026-09-01,2026-09-07,2026-09-09,Receiving,operative,2.4
+2026-09-01,2026-09-07,2026-09-09,Putaway,operative,10.3
+2026-09-01,2026-09-07,2026-09-09,Picking,operative,10.6
+2026-09-01,2026-09-07,2026-09-09,Staging,operative,7.8
+2026-09-01,2026-09-07,2026-09-09,Loading,operative,5.6
+2026-09-01,2026-09-07,2026-09-09,Replenishment / relocation,operative,2.2
+2026-09-01,2026-09-07,2026-09-09,Transit drivers,operative,4.0
+2026-09-01,2026-09-07,2026-09-09,Yard shunting,operative,2.0
+2026-09-01,2026-09-07,2026-09-09,Team leads,operative,4.0
+2026-09-01,2026-09-07,2026-09-09,Pick QA,operative,1.0
+2026-09-01,2026-09-07,2026-09-09,Co-Packing line,operative,4.0
+2026-09-01,2026-09-07,2026-09-09,VNA replenishment,operative,1.0
+2026-09-01,2026-09-07,2026-09-09,Returns / QC,operative,1.0
+2026-09-01,2026-09-07,2026-09-09,Aisle maintenance,operative,1.0
+2026-09-01,2026-09-07,2026-09-09,Control room,admin,2.0
+2026-09-01,2026-09-07,2026-09-09,Outbound office,admin,2.0
+2026-09-01,2026-09-07,2026-09-09,Inbound office,admin,2.0
+2026-09-01,2026-09-07,2026-09-09,Inventory,admin,2.0
+2026-09-01,2026-09-07,2026-09-10,Unloading,operative,2.3
+2026-09-01,2026-09-07,2026-09-10,Receiving,operative,2.6
+2026-09-01,2026-09-07,2026-09-10,Putaway,operative,11.5
+2026-09-01,2026-09-07,2026-09-10,Picking,operative,13.8
+2026-09-01,2026-09-07,2026-09-10,Staging,operative,8.7
+2026-09-01,2026-09-07,2026-09-10,Loading,operative,6.2
+2026-09-01,2026-09-07,2026-09-10,Replenishment / relocation,operative,2.9
+2026-09-01,2026-09-07,2026-09-10,Transit drivers,operative,4.0
+2026-09-01,2026-09-07,2026-09-10,Yard shunting,operative,2.0
+2026-09-01,2026-09-07,2026-09-10,Team leads,operative,4.0
+2026-09-01,2026-09-07,2026-09-10,Pick QA,operative,1.0
+2026-09-01,2026-09-07,2026-09-10,Co-Packing line,operative,4.0
+2026-09-01,2026-09-07,2026-09-10,VNA replenishment,operative,1.0
+2026-09-01,2026-09-07,2026-09-10,Returns / QC,operative,1.0
+2026-09-01,2026-09-07,2026-09-10,Aisle maintenance,operative,1.0
+2026-09-01,2026-09-07,2026-09-10,Control room,admin,2.0
+2026-09-01,2026-09-07,2026-09-10,Outbound office,admin,2.0
+2026-09-01,2026-09-07,2026-09-10,Inbound office,admin,2.0
+2026-09-01,2026-09-07,2026-09-10,Inventory,admin,2.0
+2026-09-01,2026-09-07,2026-09-11,Unloading,operative,2.0
+2026-09-01,2026-09-07,2026-09-11,Receiving,operative,2.4
+2026-09-01,2026-09-07,2026-09-11,Putaway,operative,10.3
+2026-09-01,2026-09-07,2026-09-11,Picking,operative,12.8
+2026-09-01,2026-09-07,2026-09-11,Staging,operative,9.7
+2026-09-01,2026-09-07,2026-09-11,Loading,operative,7.0
+2026-09-01,2026-09-07,2026-09-11,Replenishment / relocation,operative,2.7
+2026-09-01,2026-09-07,2026-09-11,Transit drivers,operative,4.1
+2026-09-01,2026-09-07,2026-09-11,Yard shunting,operative,2.0
+2026-09-01,2026-09-07,2026-09-11,Team leads,operative,4.0
+2026-09-01,2026-09-07,2026-09-11,Pick QA,operative,1.0
+2026-09-01,2026-09-07,2026-09-11,Co-Packing line,operative,4.1
+2026-09-01,2026-09-07,2026-09-11,VNA replenishment,operative,1.0
+2026-09-01,2026-09-07,2026-09-11,Returns / QC,operative,1.0
+2026-09-01,2026-09-07,2026-09-11,Aisle maintenance,operative,1.0
+2026-09-01,2026-09-07,2026-09-11,Control room,admin,2.0
+2026-09-01,2026-09-07,2026-09-11,Outbound office,admin,2.0
+2026-09-01,2026-09-07,2026-09-11,Inbound office,admin,2.0
+2026-09-01,2026-09-07,2026-09-11,Inventory,admin,2.0
+2026-09-08,2026-09-14,2026-09-14,Unloading,operative,2.7
+2026-09-08,2026-09-14,2026-09-14,Receiving,operative,3.1
+2026-09-08,2026-09-14,2026-09-14,Putaway,operative,13.5
+2026-09-08,2026-09-14,2026-09-14,Picking,operative,13.8
+2026-09-08,2026-09-14,2026-09-14,Staging,operative,7.3
+2026-09-08,2026-09-14,2026-09-14,Loading,operative,5.2
+2026-09-08,2026-09-14,2026-09-14,Replenishment / relocation,operative,2.9
+2026-09-08,2026-09-14,2026-09-14,Transit drivers,operative,4.0
+2026-09-08,2026-09-14,2026-09-14,Yard shunting,operative,2.0
+2026-09-08,2026-09-14,2026-09-14,Team leads,operative,4.0
+2026-09-08,2026-09-14,2026-09-14,Pick QA,operative,1.0
+2026-09-08,2026-09-14,2026-09-14,Co-Packing line,operative,4.0
+2026-09-08,2026-09-14,2026-09-14,VNA replenishment,operative,1.0
+2026-09-08,2026-09-14,2026-09-14,Returns / QC,operative,1.0
+2026-09-08,2026-09-14,2026-09-14,Aisle maintenance,operative,1.0
+2026-09-08,2026-09-14,2026-09-14,Control room,admin,2.0
+2026-09-08,2026-09-14,2026-09-14,Outbound office,admin,2.0
+2026-09-08,2026-09-14,2026-09-14,Inbound office,admin,2.0
+2026-09-08,2026-09-14,2026-09-14,Inventory,admin,2.0
+2026-09-08,2026-09-14,2026-09-15,Unloading,operative,2.5
+2026-09-08,2026-09-14,2026-09-15,Receiving,operative,2.9
+2026-09-08,2026-09-14,2026-09-15,Putaway,operative,12.6
+2026-09-08,2026-09-14,2026-09-15,Picking,operative,14.4
+2026-09-08,2026-09-14,2026-09-15,Staging,operative,7.8
+2026-09-08,2026-09-14,2026-09-15,Loading,operative,5.6
+2026-09-08,2026-09-14,2026-09-15,Replenishment / relocation,operative,3.1
+2026-09-08,2026-09-14,2026-09-15,Transit drivers,operative,4.0
+2026-09-08,2026-09-14,2026-09-15,Yard shunting,operative,2.0
+2026-09-08,2026-09-14,2026-09-15,Team leads,operative,4.0
+2026-09-08,2026-09-14,2026-09-15,Pick QA,operative,1.0
+2026-09-08,2026-09-14,2026-09-15,Co-Packing line,operative,4.0
+2026-09-08,2026-09-14,2026-09-15,VNA replenishment,operative,1.0
+2026-09-08,2026-09-14,2026-09-15,Returns / QC,operative,1.0
+2026-09-08,2026-09-14,2026-09-15,Aisle maintenance,operative,1.0
+2026-09-08,2026-09-14,2026-09-15,Control room,admin,2.0
+2026-09-08,2026-09-14,2026-09-15,Outbound office,admin,2.0
+2026-09-08,2026-09-14,2026-09-15,Inbound office,admin,2.0
+2026-09-08,2026-09-14,2026-09-15,Inventory,admin,2.0
+2026-09-08,2026-09-14,2026-09-16,Unloading,operative,2.2
+2026-09-08,2026-09-14,2026-09-16,Receiving,operative,2.5
+2026-09-08,2026-09-14,2026-09-16,Putaway,operative,11.1
+2026-09-08,2026-09-14,2026-09-16,Picking,operative,11.5
+2026-09-08,2026-09-14,2026-09-16,Staging,operative,7.6
+2026-09-08,2026-09-14,2026-09-16,Loading,operative,5.4
+2026-09-08,2026-09-14,2026-09-16,Replenishment / relocation,operative,2.4
+2026-09-08,2026-09-14,2026-09-16,Transit drivers,operative,4.0
+2026-09-08,2026-09-14,2026-09-16,Yard shunting,operative,2.0
+2026-09-08,2026-09-14,2026-09-16,Team leads,operative,4.0
+2026-09-08,2026-09-14,2026-09-16,Pick QA,operative,1.0
+2026-09-08,2026-09-14,2026-09-16,Co-Packing line,operative,4.0
+2026-09-08,2026-09-14,2026-09-16,VNA replenishment,operative,1.0
+2026-09-08,2026-09-14,2026-09-16,Returns / QC,operative,1.0
+2026-09-08,2026-09-14,2026-09-16,Aisle maintenance,operative,1.0
+2026-09-08,2026-09-14,2026-09-16,Control room,admin,2.0
+2026-09-08,2026-09-14,2026-09-16,Outbound office,admin,2.0
+2026-09-08,2026-09-14,2026-09-16,Inbound office,admin,2.0
+2026-09-08,2026-09-14,2026-09-16,Inventory,admin,2.0
+2026-09-08,2026-09-14,2026-09-17,Unloading,operative,2.3
+2026-09-08,2026-09-14,2026-09-17,Receiving,operative,2.7
+2026-09-08,2026-09-14,2026-09-17,Putaway,operative,11.8
+2026-09-08,2026-09-14,2026-09-17,Picking,operative,13.7
+2026-09-08,2026-09-14,2026-09-17,Staging,operative,8.4
+2026-09-08,2026-09-14,2026-09-17,Loading,operative,6.0
+2026-09-08,2026-09-14,2026-09-17,Replenishment / relocation,operative,2.9
+2026-09-08,2026-09-14,2026-09-17,Transit drivers,operative,4.0
+2026-09-08,2026-09-14,2026-09-17,Yard shunting,operative,2.0
+2026-09-08,2026-09-14,2026-09-17,Team leads,operative,4.0
+2026-09-08,2026-09-14,2026-09-17,Pick QA,operative,1.0
+2026-09-08,2026-09-14,2026-09-17,Co-Packing line,operative,4.0
+2026-09-08,2026-09-14,2026-09-17,VNA replenishment,operative,1.0
+2026-09-08,2026-09-14,2026-09-17,Returns / QC,operative,1.0
+2026-09-08,2026-09-14,2026-09-17,Aisle maintenance,operative,1.0
+2026-09-08,2026-09-14,2026-09-17,Control room,admin,2.0
+2026-09-08,2026-09-14,2026-09-17,Outbound office,admin,2.0
+2026-09-08,2026-09-14,2026-09-17,Inbound office,admin,2.0
+2026-09-08,2026-09-14,2026-09-17,Inventory,admin,2.0
+2026-09-08,2026-09-14,2026-09-18,Unloading,operative,2.0
+2026-09-08,2026-09-14,2026-09-18,Receiving,operative,2.3
+2026-09-08,2026-09-14,2026-09-18,Putaway,operative,10.2
+2026-09-08,2026-09-14,2026-09-18,Picking,operative,13.1
+2026-09-08,2026-09-14,2026-09-18,Staging,operative,10.5
+2026-09-08,2026-09-14,2026-09-18,Loading,operative,7.5
+2026-09-08,2026-09-14,2026-09-18,Replenishment / relocation,operative,2.8
+2026-09-08,2026-09-14,2026-09-18,Transit drivers,operative,4.1
+2026-09-08,2026-09-14,2026-09-18,Yard shunting,operative,2.0
+2026-09-08,2026-09-14,2026-09-18,Team leads,operative,4.0
+2026-09-08,2026-09-14,2026-09-18,Pick QA,operative,1.0
+2026-09-08,2026-09-14,2026-09-18,Co-Packing line,operative,4.2
+2026-09-08,2026-09-14,2026-09-18,VNA replenishment,operative,1.0
+2026-09-08,2026-09-14,2026-09-18,Returns / QC,operative,1.0
+2026-09-08,2026-09-14,2026-09-18,Aisle maintenance,operative,1.0
+2026-09-08,2026-09-14,2026-09-18,Control room,admin,2.0
+2026-09-08,2026-09-14,2026-09-18,Outbound office,admin,2.0
+2026-09-08,2026-09-14,2026-09-18,Inbound office,admin,2.0
+2026-09-08,2026-09-14,2026-09-18,Inventory,admin,2.0
+2026-09-15,2026-09-21,2026-09-21,Unloading,operative,2.8
+2026-09-15,2026-09-21,2026-09-21,Receiving,operative,3.2
+2026-09-15,2026-09-21,2026-09-21,Putaway,operative,14.0
+2026-09-15,2026-09-21,2026-09-21,Picking,operative,13.8
+2026-09-15,2026-09-21,2026-09-21,Staging,operative,7.2
+2026-09-15,2026-09-21,2026-09-21,Loading,operative,5.1
+2026-09-15,2026-09-21,2026-09-21,Replenishment / relocation,operative,2.9
+2026-09-15,2026-09-21,2026-09-21,Transit drivers,operative,4.0
+2026-09-15,2026-09-21,2026-09-21,Yard shunting,operative,2.0
+2026-09-15,2026-09-21,2026-09-21,Team leads,operative,4.0
+2026-09-15,2026-09-21,2026-09-21,Pick QA,operative,1.0
+2026-09-15,2026-09-21,2026-09-21,Co-Packing line,operative,4.0
+2026-09-15,2026-09-21,2026-09-21,VNA replenishment,operative,1.0
+2026-09-15,2026-09-21,2026-09-21,Returns / QC,operative,1.0
+2026-09-15,2026-09-21,2026-09-21,Aisle maintenance,operative,1.0
+2026-09-15,2026-09-21,2026-09-21,Control room,admin,2.0
+2026-09-15,2026-09-21,2026-09-21,Outbound office,admin,2.0
+2026-09-15,2026-09-21,2026-09-21,Inbound office,admin,2.0
+2026-09-15,2026-09-21,2026-09-21,Inventory,admin,2.0
+2026-09-15,2026-09-21,2026-09-22,Unloading,operative,2.5
+2026-09-15,2026-09-21,2026-09-22,Receiving,operative,2.9
+2026-09-15,2026-09-21,2026-09-22,Putaway,operative,12.6
+2026-09-15,2026-09-21,2026-09-22,Picking,operative,14.7
+2026-09-15,2026-09-21,2026-09-22,Staging,operative,8.7
+2026-09-15,2026-09-21,2026-09-22,Loading,operative,6.2
+2026-09-15,2026-09-21,2026-09-22,Replenishment / relocation,operative,3.1
+2026-09-15,2026-09-21,2026-09-22,Transit drivers,operative,4.0
+2026-09-15,2026-09-21,2026-09-22,Yard shunting,operative,2.0
+2026-09-15,2026-09-21,2026-09-22,Team leads,operative,4.0
+2026-09-15,2026-09-21,2026-09-22,Pick QA,operative,1.0
+2026-09-15,2026-09-21,2026-09-22,Co-Packing line,operative,4.0
+2026-09-15,2026-09-21,2026-09-22,VNA replenishment,operative,1.0
+2026-09-15,2026-09-21,2026-09-22,Returns / QC,operative,1.0
+2026-09-15,2026-09-21,2026-09-22,Aisle maintenance,operative,1.0
+2026-09-15,2026-09-21,2026-09-22,Control room,admin,2.0
+2026-09-15,2026-09-21,2026-09-22,Outbound office,admin,2.0
+2026-09-15,2026-09-21,2026-09-22,Inbound office,admin,2.0
+2026-09-15,2026-09-21,2026-09-22,Inventory,admin,2.0
+2026-09-15,2026-09-21,2026-09-23,Unloading,operative,2.2
+2026-09-15,2026-09-21,2026-09-23,Receiving,operative,2.6
+2026-09-15,2026-09-21,2026-09-23,Putaway,operative,11.3
+2026-09-15,2026-09-21,2026-09-23,Picking,operative,12.2
+2026-09-15,2026-09-21,2026-09-23,Staging,operative,8.2
+2026-09-15,2026-09-21,2026-09-23,Loading,operative,5.9
+2026-09-15,2026-09-21,2026-09-23,Replenishment / relocation,operative,2.6
+2026-09-15,2026-09-21,2026-09-23,Transit drivers,operative,4.0
+2026-09-15,2026-09-21,2026-09-23,Yard shunting,operative,2.0
+2026-09-15,2026-09-21,2026-09-23,Team leads,operative,4.0
+2026-09-15,2026-09-21,2026-09-23,Pick QA,operative,1.0
+2026-09-15,2026-09-21,2026-09-23,Co-Packing line,operative,4.0
+2026-09-15,2026-09-21,2026-09-23,VNA replenishment,operative,1.0
+2026-09-15,2026-09-21,2026-09-23,Returns / QC,operative,1.0
+2026-09-15,2026-09-21,2026-09-23,Aisle maintenance,operative,1.0
+2026-09-15,2026-09-21,2026-09-23,Control room,admin,2.0
+2026-09-15,2026-09-21,2026-09-23,Outbound office,admin,2.0
+2026-09-15,2026-09-21,2026-09-23,Inbound office,admin,2.0
+2026-09-15,2026-09-21,2026-09-23,Inventory,admin,2.0
+2026-09-15,2026-09-21,2026-09-24,Unloading,operative,2.3
+2026-09-15,2026-09-21,2026-09-24,Receiving,operative,2.7
+2026-09-15,2026-09-21,2026-09-24,Putaway,operative,11.7
+2026-09-15,2026-09-21,2026-09-24,Picking,operative,14.9
+2026-09-15,2026-09-21,2026-09-24,Staging,operative,8.3
+2026-09-15,2026-09-21,2026-09-24,Loading,operative,5.9
+2026-09-15,2026-09-21,2026-09-24,Replenishment / relocation,operative,3.2
+2026-09-15,2026-09-21,2026-09-24,Transit drivers,operative,4.0
+2026-09-15,2026-09-21,2026-09-24,Yard shunting,operative,2.0
+2026-09-15,2026-09-21,2026-09-24,Team leads,operative,4.0
+2026-09-15,2026-09-21,2026-09-24,Pick QA,operative,1.0
+2026-09-15,2026-09-21,2026-09-24,Co-Packing line,operative,4.0
+2026-09-15,2026-09-21,2026-09-24,VNA replenishment,operative,1.0
+2026-09-15,2026-09-21,2026-09-24,Returns / QC,operative,1.0
+2026-09-15,2026-09-21,2026-09-24,Aisle maintenance,operative,1.0
+2026-09-15,2026-09-21,2026-09-24,Control room,admin,2.0
+2026-09-15,2026-09-21,2026-09-24,Outbound office,admin,2.0
+2026-09-15,2026-09-21,2026-09-24,Inbound office,admin,2.0
+2026-09-15,2026-09-21,2026-09-24,Inventory,admin,2.0
+2026-09-15,2026-09-21,2026-09-25,Unloading,operative,2.2
+2026-09-15,2026-09-21,2026-09-25,Receiving,operative,2.6
+2026-09-15,2026-09-21,2026-09-25,Putaway,operative,11.4
+2026-09-15,2026-09-21,2026-09-25,Picking,operative,13.9
+2026-09-15,2026-09-21,2026-09-25,Staging,operative,11.0
+2026-09-15,2026-09-21,2026-09-25,Loading,operative,7.9
+2026-09-15,2026-09-21,2026-09-25,Replenishment / relocation,operative,2.9
+2026-09-15,2026-09-21,2026-09-25,Transit drivers,operative,4.2
+2026-09-15,2026-09-21,2026-09-25,Yard shunting,operative,2.0
+2026-09-15,2026-09-21,2026-09-25,Team leads,operative,4.0
+2026-09-15,2026-09-21,2026-09-25,Pick QA,operative,1.0
+2026-09-15,2026-09-21,2026-09-25,Co-Packing line,operative,4.2
+2026-09-15,2026-09-21,2026-09-25,VNA replenishment,operative,1.0
+2026-09-15,2026-09-21,2026-09-25,Returns / QC,operative,1.0
+2026-09-15,2026-09-21,2026-09-25,Aisle maintenance,operative,1.0
+2026-09-15,2026-09-21,2026-09-25,Control room,admin,2.0
+2026-09-15,2026-09-21,2026-09-25,Outbound office,admin,2.0
+2026-09-15,2026-09-21,2026-09-25,Inbound office,admin,2.0
+2026-09-15,2026-09-21,2026-09-25,Inventory,admin,2.0
+2026-09-22,2026-09-28,2026-09-28,Unloading,operative,3.0
+2026-09-22,2026-09-28,2026-09-28,Receiving,operative,3.5
+2026-09-22,2026-09-28,2026-09-28,Putaway,operative,15.1
+2026-09-22,2026-09-28,2026-09-28,Picking,operative,14.1
+2026-09-22,2026-09-28,2026-09-28,Staging,operative,7.5
+2026-09-22,2026-09-28,2026-09-28,Loading,operative,5.4
+2026-09-22,2026-09-28,2026-09-28,Replenishment / relocation,operative,3.0
+2026-09-22,2026-09-28,2026-09-28,Transit drivers,operative,4.0
+2026-09-22,2026-09-28,2026-09-28,Yard shunting,operative,2.0
+2026-09-22,2026-09-28,2026-09-28,Team leads,operative,4.0
+2026-09-22,2026-09-28,2026-09-28,Pick QA,operative,1.0
+2026-09-22,2026-09-28,2026-09-28,Co-Packing line,operative,4.0
+2026-09-22,2026-09-28,2026-09-28,VNA replenishment,operative,1.0
+2026-09-22,2026-09-28,2026-09-28,Returns / QC,operative,1.0
+2026-09-22,2026-09-28,2026-09-28,Aisle maintenance,operative,1.0
+2026-09-22,2026-09-28,2026-09-28,Control room,admin,2.0
+2026-09-22,2026-09-28,2026-09-28,Outbound office,admin,2.0
+2026-09-22,2026-09-28,2026-09-28,Inbound office,admin,2.0
+2026-09-22,2026-09-28,2026-09-28,Inventory,admin,2.0
+2026-09-22,2026-09-28,2026-09-29,Unloading,operative,2.7
+2026-09-22,2026-09-28,2026-09-29,Receiving,operative,3.1
+2026-09-22,2026-09-28,2026-09-29,Putaway,operative,13.6
+2026-09-22,2026-09-28,2026-09-29,Picking,operative,15.5
+2026-09-22,2026-09-28,2026-09-29,Staging,operative,8.4
+2026-09-22,2026-09-28,2026-09-29,Loading,operative,6.0
+2026-09-22,2026-09-28,2026-09-29,Replenishment / relocation,operative,3.3
+2026-09-22,2026-09-28,2026-09-29,Transit drivers,operative,4.0
+2026-09-22,2026-09-28,2026-09-29,Yard shunting,operative,2.0
+2026-09-22,2026-09-28,2026-09-29,Team leads,operative,4.0
+2026-09-22,2026-09-28,2026-09-29,Pick QA,operative,1.0
+2026-09-22,2026-09-28,2026-09-29,Co-Packing line,operative,4.0
+2026-09-22,2026-09-28,2026-09-29,VNA replenishment,operative,1.0
+2026-09-22,2026-09-28,2026-09-29,Returns / QC,operative,1.0
+2026-09-22,2026-09-28,2026-09-29,Aisle maintenance,operative,1.0
+2026-09-22,2026-09-28,2026-09-29,Control room,admin,2.0
+2026-09-22,2026-09-28,2026-09-29,Outbound office,admin,2.0
+2026-09-22,2026-09-28,2026-09-29,Inbound office,admin,2.0
+2026-09-22,2026-09-28,2026-09-29,Inventory,admin,2.0
+2026-09-22,2026-09-28,2026-09-30,Unloading,operative,2.2
+2026-09-22,2026-09-28,2026-09-30,Receiving,operative,2.6
+2026-09-22,2026-09-28,2026-09-30,Putaway,operative,11.2
+2026-09-22,2026-09-28,2026-09-30,Picking,operative,11.8
+2026-09-22,2026-09-28,2026-09-30,Staging,operative,8.6
+2026-09-22,2026-09-28,2026-09-30,Loading,operative,6.1
+2026-09-22,2026-09-28,2026-09-30,Replenishment / relocation,operative,2.5
+2026-09-22,2026-09-28,2026-09-30,Transit drivers,operative,4.0
+2026-09-22,2026-09-28,2026-09-30,Yard shunting,operative,2.0
+2026-09-22,2026-09-28,2026-09-30,Team leads,operative,4.0
+2026-09-22,2026-09-28,2026-09-30,Pick QA,operative,1.0
+2026-09-22,2026-09-28,2026-09-30,Co-Packing line,operative,4.0
+2026-09-22,2026-09-28,2026-09-30,VNA replenishment,operative,1.0
+2026-09-22,2026-09-28,2026-09-30,Returns / QC,operative,1.0
+2026-09-22,2026-09-28,2026-09-30,Aisle maintenance,operative,1.0
+2026-09-22,2026-09-28,2026-09-30,Control room,admin,2.0
+2026-09-22,2026-09-28,2026-09-30,Outbound office,admin,2.0
+2026-09-22,2026-09-28,2026-09-30,Inbound office,admin,2.0
+2026-09-22,2026-09-28,2026-09-30,Inventory,admin,2.0
+2026-09-22,2026-09-28,2026-10-01,Unloading,operative,2.6
+2026-09-22,2026-09-28,2026-10-01,Receiving,operative,3.0
+2026-09-22,2026-09-28,2026-10-01,Putaway,operative,13.3
+2026-09-22,2026-09-28,2026-10-01,Picking,operative,15.0
+2026-09-22,2026-09-28,2026-10-01,Staging,operative,8.9
+2026-09-22,2026-09-28,2026-10-01,Loading,operative,6.4
+2026-09-22,2026-09-28,2026-10-01,Replenishment / relocation,operative,3.2
+2026-09-22,2026-09-28,2026-10-01,Transit drivers,operative,4.0
+2026-09-22,2026-09-28,2026-10-01,Yard shunting,operative,2.0
+2026-09-22,2026-09-28,2026-10-01,Team leads,operative,4.0
+2026-09-22,2026-09-28,2026-10-01,Pick QA,operative,1.0
+2026-09-22,2026-09-28,2026-10-01,Co-Packing line,operative,4.0
+2026-09-22,2026-09-28,2026-10-01,VNA replenishment,operative,1.0
+2026-09-22,2026-09-28,2026-10-01,Returns / QC,operative,1.0
+2026-09-22,2026-09-28,2026-10-01,Aisle maintenance,operative,1.0
+2026-09-22,2026-09-28,2026-10-01,Control room,admin,2.0
+2026-09-22,2026-09-28,2026-10-01,Outbound office,admin,2.0
+2026-09-22,2026-09-28,2026-10-01,Inbound office,admin,2.0
+2026-09-22,2026-09-28,2026-10-01,Inventory,admin,2.0
+2026-09-22,2026-09-28,2026-10-02,Unloading,operative,2.3
+2026-09-22,2026-09-28,2026-10-02,Receiving,operative,2.6
+2026-09-22,2026-09-28,2026-10-02,Putaway,operative,11.4
+2026-09-22,2026-09-28,2026-10-02,Picking,operative,14.3
+2026-09-22,2026-09-28,2026-10-02,Staging,operative,11.0
+2026-09-22,2026-09-28,2026-10-02,Loading,operative,7.8
+2026-09-22,2026-09-28,2026-10-02,Replenishment / relocation,operative,3.0
+2026-09-22,2026-09-28,2026-10-02,Transit drivers,operative,4.2
+2026-09-22,2026-09-28,2026-10-02,Yard shunting,operative,2.0
+2026-09-22,2026-09-28,2026-10-02,Team leads,operative,4.0
+2026-09-22,2026-09-28,2026-10-02,Pick QA,operative,1.0
+2026-09-22,2026-09-28,2026-10-02,Co-Packing line,operative,4.2
+2026-09-22,2026-09-28,2026-10-02,VNA replenishment,operative,1.0
+2026-09-22,2026-09-28,2026-10-02,Returns / QC,operative,1.0
+2026-09-22,2026-09-28,2026-10-02,Aisle maintenance,operative,1.0
+2026-09-22,2026-09-28,2026-10-02,Control room,admin,2.0
+2026-09-22,2026-09-28,2026-10-02,Outbound office,admin,2.0
+2026-09-22,2026-09-28,2026-10-02,Inbound office,admin,2.0
+2026-09-22,2026-09-28,2026-10-02,Inventory,admin,2.0

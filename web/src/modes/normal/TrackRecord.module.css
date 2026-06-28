@@ -1,0 +1,19 @@
+.strip {
+  display: flex;
+  align-items: center;
+  gap: var(--s-10);
+  background: var(--green-soft);
+  border: 1px solid #bfe9cf;
+  border-radius: var(--r);
+  padding: var(--s-12) var(--s-20);
+  font-size: 14px;
+  color: var(--text);
+  line-height: 1.4;
+}
+.dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--green);
+  flex-shrink: 0;
+}

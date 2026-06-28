@@ -1,0 +1,60 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-20);
+}
+.head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--s-20);
+}
+.weekPicker {
+  display: inline-flex;
+  padding: 4px;
+  gap: 4px;
+  background: var(--silver);
+  border-radius: var(--r-pill);
+}
+.weekBtn {
+  border: none;
+  background: transparent;
+  color: var(--text-2);
+  padding: 6px 14px;
+  border-radius: var(--r-pill);
+  font-size: 13px;
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s;
+}
+.weekBtn:hover {
+  color: var(--black);
+}
+.weekActive {
+  background: var(--violet);
+  color: var(--white);
+}
+.weekStat {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: var(--s-12);
+}
+.bigNum {
+  font-size: 25.6px;
+  font-weight: 500;
+  letter-spacing: -0.512px;
+  color: var(--black);
+}
+.saveBadge {
+  font-size: 13px;
+  font-weight: 500;
+  color: #00913a;
+  background: var(--green-soft);
+  padding: 4px 12px;
+  border-radius: var(--r-pill);
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: var(--s-20);
+}

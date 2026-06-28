@@ -1,0 +1,30 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-5);
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+  padding: var(--s-12) var(--s-20);
+}
+.headRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.label {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  color: var(--violet);
+}
+.range {
+  width: 100%;
+  accent-color: var(--violet);
+  cursor: pointer;
+}
+.ends {
+  display: flex;
+  justify-content: space-between;
+  font-size: 11px;
+  color: var(--text-3);
+}

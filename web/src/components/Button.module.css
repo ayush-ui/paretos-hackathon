@@ -1,0 +1,74 @@
+/* paretos Cockpit button: 36px, radius 7px, sentence case, primary = BLACK.
+   Hover: neutral → solid silver; saturated CTA → opacity .6. Focus = hover look (no ring). */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--s-10);
+  height: 36px;
+  padding: 0 var(--s-20);
+  border-radius: var(--r);
+  font-size: 14px;
+  font-weight: 500;
+  text-transform: initial;
+  cursor: pointer;
+  border: 1px solid transparent;
+  transition: background-color 0.3s, color 0.3s, opacity 0.3s, border-color 0.3s;
+}
+.btn:disabled {
+  background: var(--black-5);
+  color: rgba(0, 0, 0, 0.2);
+  border-color: transparent;
+  cursor: not-allowed;
+}
+.rounded {
+  border-radius: var(--r-pill);
+}
+
+/* Primary = black */
+.primary {
+  background: var(--black);
+  color: var(--white);
+}
+.primary:hover:not(:disabled) {
+  opacity: 0.6;
+}
+.primary:active:not(:disabled) {
+  opacity: 1;
+}
+
+/* Bordered secondary */
+.secondary {
+  background: var(--white);
+  color: var(--black);
+  border-color: var(--border);
+}
+.secondary:hover:not(:disabled) {
+  background: var(--silver);
+}
+.secondary:active:not(:disabled) {
+  background: var(--black-10);
+}
+
+/* Ghost / text */
+.ghost {
+  background: transparent;
+  color: var(--black-60);
+}
+.ghost:hover:not(:disabled) {
+  background: var(--silver);
+  color: var(--black);
+}
+
+/* paretos gradient — AI actions only */
+.paretos {
+  background: var(--brand-gradient);
+  color: var(--white);
+  border: none;
+}
+.paretos:hover:not(:disabled) {
+  opacity: 0.6;
+}
+.paretos:active:not(:disabled) {
+  opacity: 1;
+}

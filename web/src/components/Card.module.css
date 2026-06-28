@@ -1,0 +1,17 @@
+/* paretos Cockpit card: white, 1px #CCC border, NO shadow, radius 7px (10 for large), pad 20. */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+  padding: var(--s-20);
+}
+.large {
+  border-radius: var(--r-lg);
+}
+.head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--s-12);
+  margin-bottom: var(--s-12);
+}

@@ -1,0 +1,79 @@
+/* paretos Cockpit design tokens — from the official paretos Design System prompt (authoritative).
+   See docs/DESIGN_SYSTEM.md. Components consume these vars only; no hex literals in component files. */
+:root {
+  /* Fonts: --font-sans is the ONLY place the family is named. Swap to 'Aeonik Pro' for a hand-off build.
+     Inter is the license-safe Aeonik substitute; Consolas is a system mono (no webfont needed). */
+  --font-sans: 'Inter Variable', 'Inter', 'Aeonik Pro', Roboto, Helvetica, Arial, sans-serif;
+  --font-mono: 'Consolas', 'Courier New', monospace;
+
+  /* Neutrals — monochrome foundation. Black alphas replace tinted greys. */
+  --black: #000000;
+  --black-60: #666666;
+  --black-40: #999999;
+  --black-20: #cccccc; /* the 1px workhorse border */
+  --black-10: rgba(0, 0, 0, 0.1);
+  --black-5: rgba(0, 0, 0, 0.05);
+  --silver: #f2f2f2; /* universal hover / subtle row surface */
+  --white: #ffffff;
+
+  /* Brand accents */
+  --violet: #5f26e0; /* selection, focus, links, AI CTAs, chart brush */
+  --violet-5: #f7f4fd;
+  --violet-10: #efe9fc;
+  --violet-20: #dfd4f9;
+  --pink: #f500e1; /* gradient start */
+  --yellow: #fbb03b; /* warning / gradient end */
+  --data-slate: #aaa3cc; /* chart axes / neutral lavender */
+
+  /* Semantic */
+  --green: #00c04d;
+  --green-soft: #e6f9ed;
+  --red: #fb6c4a;
+  --red-soft: #fff0ed;
+  --warn: #fbb03b;
+  --warn-soft: #fff6e6;
+  --turq: #51d7e6;
+  --turq-soft: #e6f9f9;
+
+  /* Signature gradient — brand mark, AI CTAs, .gradient-text, loading shimmer ONLY */
+  --brand-gradient: linear-gradient(45.03deg, #f500e1 0%, #fbb03b 100%);
+
+  /* Semantic surface aliases used by components */
+  --text: var(--black);
+  --text-2: var(--black-60);
+  --text-3: var(--black-40);
+  --border: var(--black-20);
+  --border-strong: var(--black-60);
+  --surface: var(--white);
+  --hover: var(--silver);
+
+  /* Radii */
+  --r-chip: 3px;
+  --r: 7px; /* default */
+  --r-lg: 10px;
+  --r-pill: 999px;
+
+  /* Spacing ladder: 5 · 10 · 12 · 20 · 30 · 40 · 60 · 80 */
+  --s-5: 5px;
+  --s-10: 10px;
+  --s-12: 12px;
+  --s-20: 20px;
+  --s-30: 30px;
+  --s-40: 40px; /* page gutter */
+  --s-60: 60px;
+  --s-80: 80px;
+
+  /* The one shadow — floating UI only */
+  --shadow-float: 0 0 10px rgba(0, 0, 0, 0.15);
+
+  /* Layout chrome */
+  --topbar-h: 60px;
+  --sidebar-w: 180px;
+}
+
+.gradient-text {
+  background: var(--brand-gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}

@@ -1,0 +1,134 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-20);
+}
+.picker {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-10);
+}
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s-5);
+}
+.chip {
+  border: 1px solid var(--border);
+  background: var(--white);
+  color: var(--text-2);
+  font-size: 12px;
+  padding: 5px 10px;
+  border-radius: var(--r-pill);
+  cursor: pointer;
+}
+.chip:hover {
+  border-color: var(--border-strong);
+  color: var(--black);
+}
+.chipActive {
+  background: var(--violet);
+  color: var(--white);
+  border-color: var(--violet);
+}
+.trace {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  gap: var(--s-20);
+  align-items: start;
+}
+@media (max-width: 900px) {
+  .trace {
+    grid-template-columns: 1fr;
+  }
+}
+.steps {
+  display: flex;
+  flex-direction: column;
+}
+.step {
+  display: flex;
+  gap: var(--s-12);
+  padding: var(--s-12) 0;
+  border-bottom: 1px solid var(--border);
+}
+.stepHi {
+  background: var(--violet-5);
+  border-radius: var(--r);
+  padding: var(--s-12);
+  border-bottom: none;
+}
+.stepN {
+  width: 22px;
+  height: 22px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  background: var(--silver);
+  color: var(--text-2);
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.stepHi .stepN {
+  background: var(--violet);
+  color: var(--white);
+}
+.stepBody {
+  flex: 1;
+}
+.stepTop {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--s-12);
+}
+.stepTitle {
+  font-size: 14px;
+  font-weight: 500;
+}
+.stepVal {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  color: var(--violet);
+}
+.stepNote {
+  font-size: 12px;
+  color: var(--text-2);
+}
+.outcome {
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+  padding: var(--s-20);
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-12);
+}
+.kv {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-10);
+}
+.kv li {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  padding-bottom: var(--s-10);
+  border-bottom: 1px solid var(--border);
+}
+.kv li span {
+  color: var(--text-2);
+}
+.saved {
+  color: var(--green);
+}
+.saved b {
+  color: var(--green);
+}
+.reason {
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--text-2);
+}

@@ -1,0 +1,26 @@
+# keep build context small + never bake secrets / runtime state / heavy dirs into the image
+.git
+.gitignore
+.venv
+venv
+**/__pycache__
+*.pyc
+.pytest_cache
+web/node_modules
+web/dist
+web/.vite
+docs
+tests
+scripts
+submissions
+*.md
+# secrets + mutable runtime state (mounted/passed at run time, not baked in)
+.env
+.env.*
+!.env.example
+state/notes.json
+state/absences.json
+state/graph_snapshot.json
+api/_absences.json
+api/_notes.json
+bot/_registrations.json
