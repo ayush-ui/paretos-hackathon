@@ -131,6 +131,19 @@ export interface Absence {
   created_at: string
 }
 
+export interface AbsenceImpact {
+  absence: Absence
+  date: string
+  weekday: string
+  target_headcount: number
+  confirmed_headcount: number
+  short_by: number
+  sla_risk_eur: number
+  sla_breach: boolean
+  recommendation: string
+  message: string
+}
+
 export interface NoteInterpretation {
   scope: string
   kind: string

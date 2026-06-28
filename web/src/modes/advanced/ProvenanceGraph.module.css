@@ -1,0 +1,179 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+}
+.toolLabel {
+  font-size: 12px;
+  color: var(--text-3);
+  margin-right: 2px;
+}
+
+/* structured / organic layout toggle */
+.layoutToggle {
+  display: inline-flex;
+  border: 1px solid var(--border);
+  border-radius: var(--r-pill);
+  overflow: hidden;
+}
+.layoutBtn {
+  border: none;
+  background: var(--white);
+  padding: 4px 12px;
+  font-size: 12px;
+  color: var(--text-2);
+  cursor: pointer;
+}
+.layoutBtn:hover {
+  background: var(--silver);
+}
+.layoutOn {
+  background: var(--violet);
+  color: var(--white);
+}
+.layoutOn:hover {
+  background: var(--violet);
+}
+.divider {
+  width: 1px;
+  height: 18px;
+  background: var(--border);
+  margin: 0 4px;
+}
+.chip {
+  border: 1px solid var(--black-20);
+  background: var(--white);
+  border-radius: var(--r-pill);
+  padding: 3px 10px;
+  font-size: 12px;
+  color: var(--text-2);
+  cursor: pointer;
+}
+.chip:hover {
+  border-color: var(--black-60);
+}
+.chipOn {
+  background: var(--violet-5);
+  font-weight: 500;
+}
+.spacer {
+  flex: 1;
+}
+.hint,
+.clear {
+  font-size: 12px;
+  color: var(--text-3);
+}
+.clear {
+  border: 1px solid var(--black-20);
+  background: var(--white);
+  border-radius: var(--r-pill);
+  padding: 3px 10px;
+  cursor: pointer;
+}
+.clear:hover {
+  border-color: var(--black-60);
+  color: var(--text);
+}
+
+.canvas {
+  position: relative;
+  height: 620px;
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+  overflow: hidden;
+  background: #fafafa;
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 14px;
+  font-size: 11px;
+  color: var(--text-2);
+}
+.legend span {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+.legend i {
+  width: 10px;
+  height: 10px;
+  border-radius: 3px;
+  display: inline-block;
+}
+.note {
+  color: var(--text-3);
+}
+
+/* node bodies */
+.colHead {
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-3);
+  text-align: center;
+}
+.srcLabel {
+  font-size: 10px;
+  color: var(--text-2);
+  display: block;
+  text-align: center;
+  line-height: 1.2;
+}
+.beliefBody {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  text-align: left;
+}
+.bId {
+  font-family: var(--font-mono);
+  font-weight: 600;
+  font-size: 12px;
+  color: var(--black);
+}
+.bScope {
+  font-size: 10px;
+  color: var(--text-2);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.bTrust {
+  font-size: 9px;
+  color: var(--text-3);
+}
+.decBody {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  line-height: 1.15;
+}
+.decWk {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--black);
+}
+.decPd {
+  font-size: 9px;
+  color: var(--text-3);
+}
+.outLabel {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  display: block;
+  text-align: center;
+  color: var(--black);
+}

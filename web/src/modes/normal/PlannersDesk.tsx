@@ -7,6 +7,7 @@ import { AbsenceAlert } from './AbsenceAlert'
 import { TrackRecord } from './TrackRecord'
 import { WeekChart } from './WeekChart'
 import { DayCard } from './DayCard'
+import { ReportAbsence } from './ReportAbsence'
 import { NoteComposer } from '../../components/NoteComposer'
 import { PanelLoader } from '../../components/Loader'
 import styles from './PlannersDesk.module.css'
@@ -82,6 +83,9 @@ export function PlannersDesk() {
           <DayCard key={r.date} row={r} absences={openAbsencesFor(r.date, absences)} />
         ))}
       </div>
+
+      {/* Operational: log an absence against this week's roster; the day's coverage updates live. */}
+      <ReportAbsence days={days} />
 
       {/* Planner can capture an observation right from the desk; it joins the graph as a candidate. */}
       <NoteComposer compact />

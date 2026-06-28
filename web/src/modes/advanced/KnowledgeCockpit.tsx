@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import { useGraph, useCompounding } from '../../api/hooks'
 import { BeliefGraph } from './BeliefGraph'
+import { ProvenanceGraph } from './ProvenanceGraph'
 import { BeliefList } from './BeliefList'
 import { BeliefDetail } from './BeliefDetail'
 import { KnowledgeIntro } from './KnowledgeIntro'
@@ -22,8 +23,11 @@ const TABS: { key: Tab; label: string }[] = [
   { key: 'robustness', label: 'Robustness' },
 ]
 
+type GraphMode = 'belief' | 'provenance'
+
 export function KnowledgeCockpit() {
   const [tab, setTab] = useState<Tab>('knowledge')
+  const [graphMode, setGraphMode] = useState<GraphMode>('belief')
   const { data: compounding } = useCompounding()
   const dates = useMemo(() => (compounding ?? []).map((p) => p.decision_date), [compounding])
   const [sliderIdx, setSliderIdx] = useState(-1) // -1 = uninitialised
@@ -65,16 +69,47 @@ export function KnowledgeCockpit() {
         <div className={styles.graphLayout}>
           <div className={styles.graphMain}>
             <NoteComposer />
-            <p className={styles.framing}>
-              Each box is a planner note (a belief). The three columns are its lifecycle —{' '}
-              <b>active</b>, <b>candidate</b>, <b>retired</b> — and within a column, time runs top → bottom.
-              Arrows show how one note <b>supersedes</b>, <b>contradicts</b> or <b>reaffirms</b> another.
-              Drag the slider to travel through the season; click any box for the full story.
-            </p>
+
+            <div className={styles.graphHeader}>
+              <p className={styles.framing}>
+                {graphMode === 'belief' ? (
+                  <>
+                    Each box is a planner note (a belief). The three columns are its lifecycle —{' '}
+                    <b>active</b>, <b>candidate</b>, <b>retired</b> — and within a column, time runs top →
+                    bottom. Arrows show how one note <b>supersedes</b>, <b>contradicts</b> or{' '}
+                    <b>reaffirms</b> another.
+                  </>
+                ) : (
+                  <>
+                    The full audit trail: <b>sources</b> → <b>beliefs</b> → the weekly <b>decisions</b>{' '}
+                    they shaped → the € <b>outcomes</b> reality delivered. Toggle link types below and{' '}
+                    <b>click any node</b> to focus just its chain.
+                  </>
+                )}
+              </p>
+              <div className={styles.modeToggle} role="tablist" aria-label="Graph view">
+                <button
+                  className={`${styles.modeBtn} ${graphMode === 'belief' ? styles.modeOn : ''}`}
+                  onClick={() => setGraphMode('belief')}
+                >
+                  Belief graph
+                </button>
+                <button
+                  className={`${styles.modeBtn} ${graphMode === 'provenance' ? styles.modeOn : ''}`}
+                  onClick={() => setGraphMode('provenance')}
+                >
+                  Provenance (advanced)
+                </button>
+              </div>
+            </div>
+
             {dates.length > 0 && (
               <TimeSlider dates={dates} index={sliderIdx} onChange={setSliderIdx} />
             )}
-            {graph && !graphLoading ? (
+
+            {graphMode === 'provenance' ? (
+              <ProvenanceGraph asOf={asOf} onSelectBelief={setSelected} />
+            ) : graph && !graphLoading ? (
               <>
                 <BeliefGraph graph={graph} selected={selected} onSelect={setSelected} />
                 <BeliefList nodes={graph.nodes} onOpen={setSelected} />

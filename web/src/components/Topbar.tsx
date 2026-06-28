@@ -1,13 +1,12 @@
 import styles from './Topbar.module.css'
+import logoUrl from '../assets/paretos-logo.svg'
 
-// Fixed 60px full-bleed white bar, hairline bottom border. Logo = 60x60 square w/ brand gradient.
+// Fixed 60px full-bleed white bar, hairline bottom border. Logo = official paretos brand mark.
 export function Topbar() {
   return (
     <header className={styles.topbar}>
       <div className={styles.brand}>
-        <div className={styles.mark} aria-hidden>
-          <span className={styles.arch}>⌒</span>
-        </div>
+        <img className={styles.mark} src={logoUrl} alt="paretos" />
         <span className={styles.wordmark}>paretos</span>
         <span className={styles.divider} />
         <span className={styles.product}>Helios staffing cockpit</span>

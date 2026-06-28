@@ -15,10 +15,13 @@ import type {
   AskRequest,
   AskResponse,
   Absence,
+  AbsenceImpact,
   NotePreview,
   TrustTrajectory,
   Synthetic,
   StaffingPoint,
+  Provenance,
+  ProvenanceTrace,
 } from './types'
 
 export const useSummary = () =>
@@ -43,6 +46,58 @@ export const useAbsences = () =>
 function riskEur(short: number): number {
   if (short <= 0) return 0
   return Math.round(short * 41.4 + Math.max(0, short - 2) * 600)
+}
+
+// Report an absence from the app — the same operational path the Discord bot uses (POST /api/absences).
+// Optimistic: the targeted day goes short immediately, then reconciles with the server (which also
+// runs the real asymmetric cost model). The plan poll picks up the authoritative numbers within ~4s.
+export const useCreateAbsence = () => {
+  const qc = useQueryClient()
+  return useMutation({
+    mutationFn: (body: { worker: string; date: string; reason?: string }) =>
+      post<AbsenceImpact>('/api/absences', { ...body, source: 'app' }),
+    onMutate: async ({ worker, date, reason }) => {
+      await qc.cancelQueries({ queryKey: ['absences'] })
+      await qc.cancelQueries({ queryKey: ['plan', 'current'] })
+      const prevAbsences = qc.getQueryData<Absence[]>(['absences'])
+      const prevPlan = qc.getQueryData<PlanRow[]>(['plan', 'current'])
+
+      // Temp negative id so it can't collide with a server id before reconciliation.
+      const optimistic: Absence = {
+        id: -Date.now(), worker, date, reason: reason ?? '', source: 'app',
+        status: 'open', resolution: null, created_at: new Date().toISOString(),
+      }
+      const nextAbsences = [...(prevAbsences ?? []), optimistic]
+      qc.setQueryData(['absences'], nextAbsences)
+
+      const effective = nextAbsences.filter(
+        (a) => a.date === date && (a.status === 'open' || a.resolution === 'accepted'),
+      ).length
+      qc.setQueryData<PlanRow[]>(['plan', 'current'], (rows) =>
+        (rows ?? []).map((r) => {
+          if (r.date !== date) return r
+          const confirmed = Math.max(0, r.target_headcount - effective)
+          const short = r.target_headcount - confirmed
+          return {
+            ...r,
+            confirmed_headcount: confirmed,
+            coverage: short > 0 ? 'short' : 'covered',
+            short_by: short,
+            sla_risk_eur: riskEur(short),
+          }
+        }),
+      )
+      return { prevAbsences, prevPlan }
+    },
+    onError: (_e, _vars, ctx) => {
+      if (ctx?.prevAbsences) qc.setQueryData(['absences'], ctx.prevAbsences)
+      if (ctx?.prevPlan) qc.setQueryData(['plan', 'current'], ctx.prevPlan)
+    },
+    onSettled: () => {
+      qc.invalidateQueries({ queryKey: ['absences'] })
+      qc.invalidateQueries({ queryKey: ['plan', 'current'] })
+    },
+  })
 }
 
 // Optimistic resolve: the day card flips the instant you click, then reconciles with the server.
@@ -142,6 +197,19 @@ export const useSynthetic = () =>
 
 export const useStaffing = () =>
   useQuery({ queryKey: ['staffing'], queryFn: () => get<StaffingPoint[]>('/api/staffing') })
+
+export const useProvenance = (asOf: string | null) =>
+  useQuery({
+    queryKey: ['provenance', asOf],
+    queryFn: () => get<Provenance>(asOf ? `/api/provenance?as_of=${asOf}` : '/api/provenance'),
+  })
+
+export const useProvenanceTrace = (week: string | null) =>
+  useQuery({
+    queryKey: ['provenance', 'trace', week],
+    queryFn: () => get<ProvenanceTrace>(`/api/provenance/${week}/trace`),
+    enabled: !!week,
+  })
 
 export const useLlmStatus = () =>
   useQuery({ queryKey: ['llm', 'status'], queryFn: () => get<LlmStatus>('/api/llm/status') })

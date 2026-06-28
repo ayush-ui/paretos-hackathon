@@ -44,8 +44,46 @@
   font-size: 13px;
   line-height: 1.5;
   color: var(--text-2);
+  margin: 0;
 }
 .framing b {
   color: var(--text);
   font-weight: 500;
+}
+
+/* graph header: framing text on the left, the belief/provenance toggle on the right */
+.graphHeader {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--s-20);
+}
+.graphHeader .framing {
+  flex: 1;
+}
+.modeToggle {
+  display: inline-flex;
+  flex: none;
+  border: 1px solid var(--border);
+  border-radius: var(--r-pill);
+  overflow: hidden;
+  background: var(--white);
+}
+.modeBtn {
+  border: none;
+  background: transparent;
+  padding: 6px 14px;
+  font-size: 12px;
+  color: var(--text-2);
+  cursor: pointer;
+  white-space: nowrap;
+}
+.modeBtn:hover {
+  background: var(--silver);
+}
+.modeOn {
+  background: var(--violet);
+  color: var(--white);
+}
+.modeOn:hover {
+  background: var(--violet);
 }
